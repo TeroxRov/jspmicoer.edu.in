@@ -1,0 +1,98 @@
+LOAD_OPTION,PLUGIN_NAME,PLUGIN_TYPE,PLUGIN_AUTHOR,PLUGIN_STATUS,PLUGIN_LIBRARY,PLUGIN_LICENSE,PLUGIN_VERSION,PLUGIN_MATURITY,PLUGIN_DESCRIPTION,PLUGIN_AUTH_VERSION,PLUGIN_TYPE_VERSION,PLUGIN_LIBRARY_VERSION
+FORCE,STORAGE ENGINE,1.0,MySQL AB,100512.0,GPL,binlog,<blank>,ACTIVE,This is a pseudo storage engine to represent the binlog in a transaction,1.0,<blank>,Stable
+FORCE,AUTHENTICATION,1.0,"R.J.Silk, Sergei Golubchik",2.2,GPL,mysql_native_password,<blank>,ACTIVE,Native MySQL authentication,1.0,<blank>,Stable
+FORCE,AUTHENTICATION,1.0,"R.J.Silk, Sergei Golubchik",2.2,GPL,mysql_old_password,<blank>,ACTIVE,Old MySQL-4.0 authentication,1.0,<blank>,Stable
+FORCE,STORAGE ENGINE,1.0,MySQL AB,100512.0,GPL,MEMORY,<blank>,ACTIVE,"Hash based, stored in memory, useful for temporary tables",1.0,<blank>,Stable
+FORCE,STORAGE ENGINE,1.5,MariaDB Corporation Ab,100512.0,GPL,Aria,<blank>,ACTIVE,Crash-safe tables with MyISAM heritage. Used for internal temporary tables and privilege tables,1.5,<blank>,Stable
+FORCE,STORAGE ENGINE,1.0,MySQL AB,100512.0,GPL,MRG_MyISAM,<blank>,ACTIVE,Collection of identical MyISAM tables,1.0,<blank>,Stable
+FORCE,STORAGE ENGINE,1.0,MySQL AB,100512.0,GPL,MyISAM,<blank>,ACTIVE,Non-transactional engine with good performance and small data footprint,1.0,<blank>,Stable
+FORCE,STORAGE ENGINE,1.0,"Brian Aker, MySQL AB",100512.0,GPL,CSV,<blank>,ACTIVE,Stores tables as CSV files,1.0,<blank>,Stable
+FORCE,INFORMATION SCHEMA,1.0,MariaDB,100512.0,GPL,SPATIAL_REF_SYS,<blank>,ACTIVE,Lists all geometry columns,1.0,<blank>,Stable
+FORCE,INFORMATION SCHEMA,1.0,MariaDB,100512.0,GPL,GEOMETRY_COLUMNS,<blank>,ACTIVE,Lists all geometry columns,1.0,<blank>,Stable
+FORCE,DATA TYPE,1.0,MariaDB Corporation,100512.0,GPL,inet6,<blank>,ACTIVE,Data type INET6,1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,inet_aton,<blank>,ACTIVE,Function INET_ATON(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,inet_ntoa,<blank>,ACTIVE,Function INET_NTOA(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,inet6_aton,<blank>,ACTIVE,Function INET6_ATON(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,inet6_ntoa,<blank>,ACTIVE,Function INET6_NTOA(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,is_ipv4,<blank>,ACTIVE,Function IS_IPV4(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,is_ipv6,<blank>,ACTIVE,Function IS_IPV6(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,is_ipv4_compat,<blank>,ACTIVE,Function IS_IPV4_COMPAT(),1.0,<blank>,Stable
+FORCE,FUNCTION,1.0,MariaDB Corporation,100512.0,GPL,is_ipv4_mapped,<blank>,ACTIVE,Function IS_IPV4_MAPPED(),1.0,<blank>,Stable
+FORCE,INFORMATION SCHEMA,2.0,Percona and Sergei Golubchik,100512.0,GPL,CLIENT_STATISTICS,<blank>,ACTIVE,Client Statistics,2.0,<blank>,Stable
+FORCE,INFORMATION SCHEMA,2.0,Percona and Sergei Golubchik,100512.0,GPL,INDEX_STATISTICS,<blank>,ACTIVE,Index Statistics,2.0,<blank>,Stable
+FORCE,INFORMATION SCHEMA,2.0,Percona and Sergei Golubchik,100512.0,GPL,TABLE_STATISTICS,<blank>,ACTIVE,Table Statistics,2.0,<blank>,Stable
+FORCE,INFORMATION SCHEMA,2.0,Percona and Sergei Golubchik,100512.0,GPL,USER_STATISTICS,<blank>,ACTIVE,User Statistics,2.0,<blank>,Stable
+FORCE,REPLICATION,1.0,Codership Oy,2.0,GPL,wsrep,<blank>,ACTIVE,Wsrep replication plugin,1.0,<blank>,Stable
+FORCE,STORAGE ENGINE,1.0,jianwei.zhao @ Aliyun & Monty @ MariaDB corp,100512.0,GPL,SQL_SEQUENCE,<blank>,ACTIVE,Sequence Storage Engine for CREATE SEQUENCE,1.0,<blank>,Stable
+ON,STORAGE ENGINE,1.0,Sergei Golubchik,100512.0,GPL,SEQUENCE,<blank>,ACTIVE,Generated tables filled with sequential values,0.1,<blank>,Stable
+ON,STORAGE ENGINE,10.5,Oracle Corporation,100512.0,GPL,InnoDB,<blank>,ACTIVE,"Supports transactions, row-level locking, foreign keys and encryption for tables",10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_TRX,<blank>,ACTIVE,InnoDB transactions,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_LOCKS,<blank>,ACTIVE,InnoDB conflicting locks,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_LOCK_WAITS,<blank>,ACTIVE,InnoDB which lock is blocking which,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_CMP,<blank>,ACTIVE,Statistics for the InnoDB compression,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_CMP_RESET,<blank>,ACTIVE,Statistics for the InnoDB compression; reset cumulated counts,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_CMPMEM,<blank>,ACTIVE,Statistics for the InnoDB compressed buffer pool,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_CMPMEM_RESET,<blank>,ACTIVE,Statistics for the InnoDB compressed buffer pool; reset cumulated counts,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_CMP_PER_INDEX,<blank>,ACTIVE,Statistics for the InnoDB compression (per index),10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_CMP_PER_INDEX_RESET,<blank>,ACTIVE,Statistics for the InnoDB compression (per index); reset cumulated counts,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_BUFFER_PAGE,<blank>,ACTIVE,InnoDB Buffer Page Information,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_BUFFER_PAGE_LRU,<blank>,ACTIVE,InnoDB Buffer Page in LRU,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_BUFFER_POOL_STATS,<blank>,ACTIVE,InnoDB Buffer Pool Statistics Information ,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_METRICS,<blank>,ACTIVE,InnoDB Metrics Info,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_FT_DEFAULT_STOPWORD,<blank>,ACTIVE,Default stopword list for InnoDB Full Text Search,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_FT_DELETED,<blank>,ACTIVE,INNODB AUXILIARY FTS DELETED TABLE,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_FT_BEING_DELETED,<blank>,ACTIVE,INNODB AUXILIARY FTS BEING DELETED TABLE,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_FT_CONFIG,<blank>,ACTIVE,INNODB AUXILIARY FTS CONFIG TABLE,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_FT_INDEX_CACHE,<blank>,ACTIVE,INNODB AUXILIARY FTS INDEX CACHED,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_FT_INDEX_TABLE,<blank>,ACTIVE,INNODB AUXILIARY FTS INDEX TABLE,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_TABLES,<blank>,ACTIVE,InnoDB SYS_TABLES,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_TABLESTATS,<blank>,ACTIVE,InnoDB SYS_TABLESTATS,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_INDEXES,<blank>,ACTIVE,InnoDB SYS_INDEXES,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_COLUMNS,<blank>,ACTIVE,InnoDB SYS_COLUMNS,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_FIELDS,<blank>,ACTIVE,InnoDB SYS_FIELDS,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_FOREIGN,<blank>,ACTIVE,InnoDB SYS_FOREIGN,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_FOREIGN_COLS,<blank>,ACTIVE,InnoDB SYS_FOREIGN_COLS,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_TABLESPACES,<blank>,ACTIVE,InnoDB SYS_TABLESPACES,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_DATAFILES,<blank>,ACTIVE,InnoDB SYS_DATAFILES,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_SYS_VIRTUAL,<blank>,ACTIVE,InnoDB SYS_VIRTUAL,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Oracle Corporation,100512.0,GPL,INNODB_MUTEXES,<blank>,ACTIVE,InnoDB SYS_DATAFILES,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,MariaDB Corporation,100512.0,GPL,INNODB_SYS_SEMAPHORE_WAITS,<blank>,ACTIVE,InnoDB SYS_SEMAPHORE_WAITS,10.5.12,<blank>,Stable
+ON,INFORMATION SCHEMA,10.5,Google Inc,100512.0,BSD,INNODB_TABLESPACES_ENCRYPTION,<blank>,ACTIVE,InnoDB TABLESPACES_ENCRYPTION,10.5.12,<blank>,Stable
+FORCE,STORAGE ENGINE,0.1,"Marc Alff, Oracle",100512.0,GPL,PERFORMANCE_SCHEMA,<blank>,ACTIVE,Performance Schema,5.7.31,<blank>,Stable
+OFF,INFORMATION SCHEMA,1.1,Sergei Golubchik,100512.0,GPL,FEEDBACK,<blank>,DISABLED,MariaDB User Feedback Plugin,1.1,<blank>,Stable
+ON,INFORMATION SCHEMA,1.0,Sergey Vojtovich,100512.0,GPL,user_variables,<blank>,ACTIVE,User-defined variables,1.0,<blank>,Stable
+ON,AUTHENTICATION,1.0,Sergei Golubchik,2.2,GPL,unix_socket,<blank>,ACTIVE,Unix Socket based authentication,1.0,<blank>,Stable
+ON,INFORMATION SCHEMA,1.0,Vladislav Vaintroub,100512.0,GPL,THREAD_POOL_GROUPS,<blank>,ACTIVE,Provides information about threadpool groups.,1.0,<blank>,Stable
+ON,INFORMATION SCHEMA,1.0,Vladislav Vaintroub,100512.0,GPL,THREAD_POOL_QUEUES,<blank>,ACTIVE,Provides information about threadpool queues.,1.0,<blank>,Stable
+ON,INFORMATION SCHEMA,1.0,Vladislav Vaintroub,100512.0,GPL,THREAD_POOL_STATS,<blank>,ACTIVE,Provides performance counter information for threadpool.,1.0,<blank>,Stable
+ON,INFORMATION SCHEMA,1.0,Vladislav Vaintroub,100512.0,GPL,THREAD_POOL_WAITS,<blank>,ACTIVE,Provides wait counters for threadpool.,1.0,<blank>,Stable
+ON,STORAGE ENGINE,1.0,"Mikael Ronstrom, MySQL AB",100512.0,GPL,partition,<blank>,ACTIVE,Partition Storage Engine Helper,1.0,<blank>,Stable
+OFF,ed25519,AUTHENTICATION,Sergei Golubchik,NOT INSTALLED,auth_ed25519.so,GPL,1.1,Stable,Elliptic curve ED25519 based authentication,1.1,2.2,1.14
+OFF,pam,AUTHENTICATION,MariaDB Corp,NOT INSTALLED,auth_pam.so,GPL,2.0,Stable,PAM based authentication,2.0,2.2,1.14
+OFF,pam,AUTHENTICATION,Sergei Golubchik,NOT INSTALLED,auth_pam_v1.so,GPL,1.0,Stable,PAM based authentication,1.0,2.2,1.14
+OFF,DISKS,INFORMATION SCHEMA,Johan Wikman,NOT INSTALLED,disks.so,GPL,1.1,Stable,Disk space information,1.1,100512.0,1.14
+OFF,file_key_management,ENCRYPTION,Denis Endro eperi GmbH,NOT INSTALLED,file_key_management.so,GPL,1.0,Stable,File-based key management plugin,1.0,3.0,1.14
+OFF,ARCHIVE,STORAGE ENGINE,"Brian Aker, MySQL AB",NOT INSTALLED,ha_archive.so,GPL,3.0,Stable,gzip-compresses tables for a low storage footprint,1.0,100512.0,1.14
+OFF,BLACKHOLE,STORAGE ENGINE,MySQL AB,NOT INSTALLED,ha_blackhole.so,GPL,1.0,Stable,/dev/null storage engine (anything you write to it disappears),1.0,100512.0,1.14
+OFF,FEDERATED,STORAGE ENGINE,"Patrick Galbraith and Brian Aker, MySQL AB",NOT INSTALLED,ha_federated.so,GPL,1.0,Gamma,Allows accessing tables on other MariaDB servers,1.0,100512.0,1.14
+OFF,FEDERATED,STORAGE ENGINE,Patrick Galbraith,NOT INSTALLED,ha_federatedx.so,GPL,2.1,Stable,"Allows one to access tables on other MariaDB servers, supports transactions and more",2.1,100512.0,1.14
+OFF,Mroonga,STORAGE ENGINE,The Mroonga project,NOT INSTALLED,ha_mroonga.so,GPL,7.7,Stable,"CJK-ready fulltext search, column store",7.07,100512.0,1.14
+OFF,Mroonga_stats,INFORMATION SCHEMA,The Mroonga project,NOT INSTALLED,ha_mroonga.so,GPL,7.7,Stable,Statistics for Mroonga,7.07,100512.0,1.14
+OFF,SPHINX,STORAGE ENGINE,Sphinx developers,NOT INSTALLED,ha_sphinx.so,GPL,2.2,Gamma,Sphinx storage engine 2.2.6-release,2.2.6-release,100512.0,1.14
+OFF,SPIDER,STORAGE ENGINE,Kentoku Shiba,NOT INSTALLED,ha_spider.so,GPL,3.3,Stable,Spider storage engine,3.3.15,100512.0,1.14
+OFF,SPIDER_ALLOC_MEM,INFORMATION SCHEMA,Kentoku Shiba,NOT INSTALLED,ha_spider.so,GPL,1.0,Stable,Spider memory allocating viewer,1.0,100512.0,1.14
+OFF,SPIDER_WRAPPER_PROTOCOLS,INFORMATION SCHEMA,"Kentoku Shiba, MariaDB Corp",NOT INSTALLED,ha_spider.so,GPL,1.0,Stable,Available wrapper protocols of Spider,1.0,100512.0,1.14
+OFF,handlersocket,DAEMON,higuchi dot akira at dena dot jp,NOT INSTALLED,handlersocket.so,BSD,1.0,Beta,Direct access into InnoDB,1.0,100512.0,1.14
+OFF,LOCALES,INFORMATION SCHEMA,"Roberto Spadim, Spaempresarial - Brazil",NOT INSTALLED,locales.so,BSD,1.0,Stable,Lists all locales from server.,1.0,100512.0,1.14
+OFF,NOT INSTALLED,100512.0,Kentoku Shiba,INFORMATION SCHEMA,1.14,Stable,<blank>,METADATA_LOCK_INFO,metadata_lock_info.so,Metadata locking viewer,0.1,GPL
+OFF,QUERY_CACHE_INFO,INFORMATION SCHEMA,"Roland Bouman, Daniel Black",NOT INSTALLED,query_cache_info.so,BSD,1.1,Stable,Lists all queries in the query cache.,1.1,100512.0,1.14
+OFF,QUERY_RESPONSE_TIME,INFORMATION SCHEMA,Percona and Sergey Vojtovich,NOT INSTALLED,query_response_time.so,GPL,1.0,Stable,Query Response Time Distribution INFORMATION_SCHEMA Plugin,1.0,100512.0,1.14
+OFF,QUERY_RESPONSE_TIME_AUDIT,AUDIT,Percona and Sergey Vojtovich,NOT INSTALLED,query_response_time.so,GPL,1.0,Stable,Query Response Time Distribution Audit Plugin,1.0,3.2,1.14
+OFF,SERVER_AUDIT,AUDIT,Alexey Botchkov (MariaDB Corporation),NOT INSTALLED,server_audit.so,GPL,1.4,Stable,Audit the server activity,1.4.13,3.2,1.14
+OFF,simple_password_check,PASSWORD VALIDATION,Sergei Golubchik,NOT INSTALLED,simple_password_check.so,GPL,1.0,Stable,Simple password strength checks,1.0,1.0,1.14
+OFF,SQL_ERROR_LOG,AUDIT,Alexey Botchkov,NOT INSTALLED,sql_errlog.so,GPL,1.0,Stable,Log SQL level errors to a file with rotation,1.0,3.2,1.14
+OFF,TEST_SQL_SERVICE,AUDIT,Alexey Botchkov (MariaDB Corporation),NOT INSTALLED,test_sql_service.so,GPL,1.0,Stable,Test SQL service,1.0.0,3.2,1.14
+OFF,MYSQL_JSON,DATA TYPE,"Anel Husaković, Vicențiu Ciorbaru",NOT INSTALLED,type_mysql_json.so,GPL,0.1,Alpha,Data type MYSQL_JSON,0.1,100512.0,1.14
+OFF,WSREP_MEMBERSHIP,INFORMATION SCHEMA,Nirbhay Choubey,NOT INSTALLED,wsrep_info.so,GPL,1.0,Stable,Information about group members,1.0,100512.0,1.14
+OFF,WSREP_STATUS,INFORMATION SCHEMA,Nirbhay Choubey,NOT INSTALLED,wsrep_info.so,GPL,1.0,Stable,Group view information,1.0,100512.0,1.14
+

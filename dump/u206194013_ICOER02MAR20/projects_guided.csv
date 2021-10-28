@@ -1,0 +1,607 @@
+id,faculty_id,title,level
+1,1,Feasibility study of conventional (cast-In-Situ) and precast method for Residential Project,PG
+2,1,Study of implementation of Just-In-Time Technique in Residential construction Projects,PG
+3,1,Study of characteristics of Self- Curing Concrete using Polyethylene Glycol-400,PG
+4,1,To study the impact of skilled labor structure & skill gaps in construction Firm,PG
+5,1,Smart Dynamic Concrete – Rapid economic sustaibale construction,PG
+6,1,Project Management Information System In construction Industry,PG
+7,1,Dispute Resolution Mechanism in construction Projects,PG
+8,1,Energy Efficiency & Experimental Analysis of Translucent Concrete,PG
+9,1,Application of Six Sigma Principle to Residential Project,PG
+10,1,World Bank Assisted Jamshedpur-Chatagovindpur Drinking water Supply projects,PG
+11,1,Acceptance Of Precast Construction Technology In Housing Industry of Pune City,PG
+12,1,Controlled Execution Of Demolition & Deconstruction Work For the Structure,PG
+13,1,Effects of Schedule Pressure On Construction Performance,PG
+14,1,Detail Study of “Project Management Processes and It’s Frame Work”,PG
+15,1,Causes and Mitigation Of Downfall and price correction of Real Estate,PG
+16,1,Forecasting of Residential Building by Earned value Method,PG
+17,1,Role of Project Management Consultant in Civil Engineering,PG
+18,1,Self Sufficient and Energy Efficient Urban Residential Buildings,PG
+19,1,Comparison of compressive strength and cost of concrete using Nano material Microsilica,PG
+20,1,A study & Analysis of occupational Health Hazards supervisory and unskilled Leveled workmen in Construction,PG
+21,1,Reinforcement of Mechanical Splices in Bar for concrete specifications,PG
+22,1,Risk assessment & Mitigation of Real Estate Projects in Maharashtra,PG
+23,1,Study of Pumped concrete productivity at various heights of multistory Building,PG
+24,1,Comparative study of cost & duration related to Night time and Day time construction flyover project,PG
+25,1,Smoke regulation and emergency provisions to counteract fire hazards in High Rise Buildings,PG
+26,1,Assessing Building Construction Project for Delay and cost over-run,PG
+27,1,Application of Life Cycle analysis and Design For Selection of Pavement,PG
+28,1,Effectiveness and Cost comparision of Mivan Formwork over the conventional formwork,PG
+29,2,Effects of Steel Fibre on Paver Block,UG
+30,3,Implementation of Refined Material Management System In Construction Industry ,PG
+31,3,Analysis of economical Aspects for Waste construction Material,PG
+32,3,Construction management approach towards repair and maintenance of industrial buildings,UG
+33,4,"Inter Bsin Water Transfer, Concrete Composites",UG/PG
+34,5,local scour reduction around bridge pier,UG
+35,6,Study on Causes & Impact of Rework on construction Projects,PG
+36,6,Improving construction project management using Primavera P6 software,PG
+37,6,Comparative study of BIM modeling and conventional modeling for bridge construction,PG
+38,6,Study and Design of floodproofing Non-residential structure,UG
+39,6,Planning & designing of Smart city,UG
+40,6,Supply chain Management in construction Industry,UG
+41,7,Study of abrasion on Concrete,UG
+42,8,Study of Self Healing Concrete,UG
+43,8,"Precast Factory Management,",PG
+44,8,Automation And Robotics Used In a construction Industry,PG
+45,8,Effect of greywater on properties of concrete,UG
+46,9,Soil Stabilization,UG
+47,10,comparison study between Crumb rubber modified bitumen and polymer modified bitumen,UG
+48,11,Structural Health Monitoring of Bridges,UG
+49,11,structural design using bamboo reinforced,UG
+50,11,Mountain foot over bridge technical support by DRDO ,UG
+51,12,Traffic Volume Study,UG
+52,12,Vertical Axis Turbine,UG
+53,12,Construction Quality Management,PG
+54,13,Use of Mollases in Concrete ,UG
+55,14,Feasibility analysis of Pune Metro Rail,UG
+56,14,Study of Bio-filters,UG
+57,15,Structural Analysis of Steel Structures,UG
+58,16,"""RERA"" Future Need of Construction World",UG
+59,17,Structural Optimization of RC structures,PG
+60,18,Fragility Analysis of Mid-Rise Existing RC Buildings,PG
+61,18,Evaluation of Response Reduction Factor For Flat Slab Structures,PG
+62,18,Comparative Study on 4-Legged Transmission Line Tower With Different Bracings By Using Staad Pro,UG
+63,19,Replacement of inactive concrete by waste plastic (U-Boot)analysis of building using modified shear wall,UG
+64,20,Application of geosynthetic material in construction of road pavements,UG
+65,21,Stress analysis of laminated composite and sandwich plates resting on elastic foundation,PG
+66,22,Analysis and Design of Extradosed cable string bridge,UG
+67,22,Automation And Robotics Used In a construction Industry,PG
+68,23,Construction Automation & Robotics,UG
+69,23,BIM Application to Pune Metro,UG
+70,23,Intelligent Transport System,UG
+71,23,Implementation of Fleet management of construction equipment for Highway construction Project,PG
+72,24,Determining and analysis of critical success factors of construction project in Pune Region,PG
+73,24,Urban water distribution by Water Cad Software\n\n,UG
+74,24,Water Quality Monitoring of Mula-Mutha River,UG
+75,25,Study of Mechanical Properties of Polymer Concrete using OPS,UG
+76,26,RECYCLING OF SOLID WASTES INTO ORGANIC FERTILIZERS\nUSING LOW COST TREATMENT: VERMICOMPOSTING,UG
+77,26,An Overview: Feasibility of Earthworm Species for Organic Waste,UG
+78,27,Integrated urban rainwater Management,UG
+79,28,Study of conventional and modified biosand filter,UG
+80,29,Experimental study and response of Geogrid in cement Concrete,UG
+81,30,Self Healing Concrete,UG
+82,31,Design & construction of Eco-friendy building,UG
+83,31,Design & Manufacturing Of Plastic Tiles,UG
+84,31,Design of Flexible Pavement by using west material,UG
+85,32,Effectiveness of Natural Herbs for Disinfection of Water,UG
+86,32,Watershed Management in Draught Zone,UG
+87,32, Hi Tech City Cleaning of Solid Waste Management,UG
+88,33,"Study of fly ash bricks using stp sludge, pressmud,gyspum and lime",UG
+89,33,Effective traffic management system,UG
+90,34,Decentrailized Biogas Plant Design,UG
+91,34,Sewage Treatment Plant Design for College Campus,UG
+92,35,Analysis of Deep Beam,UG
+93,35,Impact Strength of SFRC Concrete using Shreder's apparatus of fibre reinfored concrete,UG
+94,35,comparitive study of Impact Strength of concrete by IS Code method and using shreders apparatus,UG
+95,35,Flexural strength of ferrocement concrete panels,UG
+96,35,Experimental Evaluation of shear strength of steel fibre reinfored concrete deep beam,UG
+97,35,Flexural Strength of Geopolymer concrete incorporated with bagash ash,UG
+98,35,Experimental evaluation of flexure strength of Fibre reinforced ferrocement concrete.,UG
+99,35,Push over analysis of irregular building,UG
+100,36,Pervious concrete pavement,UG
+101,37,Experimental study on partial replacement of cement by aluminium dross in concrete,UG
+112,39,ONLINE TOLL PAYMENT SYSTEM,UG
+113,39,A Secure and Dynamic Multikeyword Search Over Encrypted Cloud.,UG
+114,39,IMPROVING RESOURCE UTILIZATION IN INFRASTRUCTURAL CLOUD,UG
+115,39,TO DESIGN A COLLEGE ENTERPRISE RESOURCE PLANNING SYSTEM USING RFID TAGS AND TO HOST THE SAME ON CLOUD,UG
+116,39,ENABLING DYNAMIC DATA AND INDIRECT MUTUAL TRUST FOR STAND ALONE STORAGE SYSTEM,UG
+117,39,ATTRIBUTE BASED ENCRYPTION IN PERSONAL HEALTH RECORD,UG
+118,39,IMPLEMENTATION OF REAL-TIME MONITORING SYSTEM UNDER LAN,UG
+119,39,SINGLE TO MULTI DATA FRAGMENTATION FOR OPTIMAL PERFORMANCE AND SECURITY,PG
+120,39,A SECURE AND DYNAMIC MULTI-KEYWORD RANKED SEARCH SCHEME OVER ENCRYPTED CLOUD DATA,PG
+121,39,Attribute Based Encryption In Cloude Computing,PG
+122,40,AN INNOVATIVE CONSISTENCY MODEL FOR CLOUD SERVICES,UG
+123,40,IMPROVED RELIABILITY OF DISTRIBUTED DEDUPLICATION SYSTEM WITH VSH,UG
+124,40,SMART PARKING SYSTEM BASED ON INTERNET OF THINGS,UG
+125,40,PRIVACY PRESERVING AND RANKED KEYWORD SEARCH USING CLOUD,UG
+126,40,Image to Text recognition using OCR (Optical Capture Recognition),pg
+127,41,SMART CRAWLER USING DEEP WEB INTERFACE,UG
+128,41,A PRODUCT RECOMMENDATION SYSTEM BASED ON HYBRID APPROACH,UG
+129,41,MULTI-LEVEL SECURE CLOUD AND FILE SHARING IN MILITARY SERVER SYSTEM,UG
+130,42,To reduce energy consumption by using GSTAS Scheduler,UG
+131,42,Password Authentication Key Exchange by two server password only in web applications,UG
+132,42,VIRTUAL MACHINE CONVERTER,UG
+133,42,FAST : IMPLEMENTATION OF CLUSTER BASED FEATURE SUBSET SELECTION ALGORITHM,UG
+134,42,DUAL SENTIMENT ANALYSIS: CONSIDERING TWO SIDES OF ONE REVIEW,PG
+135,42,Implementation of multilevel trust in privacy preserving data mining against nonlinear attack,PG
+136,42,IMPLEMENTATION OF COST OPTIMIZATION APPROACH FOR BIG DATA STREAM PROCESSING IN HADOOP FRAMEWORK,PG
+137,43,DISCOVERY OF NETWORK ELEMENTS AND RECONCILIATION,UG
+138,43,PEER TO PEER FILE SHARING USING NETWORK CODING,UG
+139,43,DYNAMIC LOAD BALANCER FOR DISTRIBUTED SYSTEM,UG
+140,43,DESKTOP BASED RECOMMENDATION SYSTEM FOR CAMPUS RECRUITMENT PROCESS USING MAHOUT,UG
+141,43,GRAPHICAL PASSWORDS FOR PROVIDING A NEW SECURITY PRIMITIVE,PG
+142,43,A MAPREDUCE-BASED NEAREST NEIGHBOR APPROACH FOR BIG-DATA-DRIVEN TRAFFIC FLOW PREDICTION.,PG
+143,43,CONTENT BASED CLASSIFICATION ALGORITHM FOR EMAIL FILTERING,PG
+144,44,Graphical password for new security primitives based on hard AI problems,UG
+145,44,FAULT NODE RECOVERY ALGORITHM FOR WIRELESS SENSOR NETWORK,UG
+146,44,TRUST MANAGEMENT IN PEER TO PEER SYSTEM USING SORT MODEL,UG
+147,44,SUPPORTING PRIVACY PROTECTION IN PERSONALIZED WEB SEARCH,PG
+148,44,Grafical password scheme over shoulder security attack,PG
+149,44,High Speed Data Communication using LiFi providing Security,PG
+150,45,"Preference Based Personalized tour planner with 360 View weather prediction,guide allocation using collaborative filtering",UG
+151,45,MULTI-FOLDER EMAIL CLASSIFICATION USING GRAPH BASED TECHNIQUE,UG
+152,45,To implement web application for Food ordering and better Hotel experience,UG
+153,46,Intrusion Detection System,UG
+154,46,VAMPIRE ATTACKS : DRAINING LIFE FROM WIRELESS ADHOC SENSOR NETWORKS,UG
+155,46,MULTI-FOLDER EMAIL CLASSIFICATION USING GRAPH BASED TECHNIQUE,UG
+156,46,DATA MINING FOR MALICIOUS CODE DETECTION SYSTEM AND SECURITY APPLICATIONS,UG
+157,46,SCALABLE RECORD LINKAGE AND DEDUPLICATION FOR ELECTION DATABASE,PG
+158,46,USE OF SDN IN E-BANKING SYSTEM FOR DETECTION AND PREVENTION OF DDOS ATTACKS.,PG
+159,46,Health Prediction System Using Data Mining,PG
+160,46,DETECTION AND PREVENTION OF SQL INJECTION ATTACKS,PG
+161,47,Advanced Secure Online Payment System Using Blowfish Algorithm,UG
+162,47,Private & Secure Data Transmission & Analysis for Wireless System,UG
+163,48,Data Security In Cloud Computing,UG
+164,48,Log In Security Enhancement,UG
+165,49,Andorid App Development for Autometed Water Irrigation System & Crop Analysis,UG
+166,49,Health Prediction System Using Data Mining,UG
+167,49,Android System,UG
+173,51,Using Augmented Reality for Teaching Kindergarten Students,UG
+174,51,"Preference Based Personalised Tour Planner with 360 view,weather prediction and guide allocation",UG
+175,51,Patient Tretment Time Prediction using Effective RF Algorithm,UG
+176,52,High Speed Data Communication using LiFi providing Security,UG
+177,52,Patient Tretment Time Prediction using Effective RF Algorithm,UG
+178,53,IOT Based Samrt System for Human Saftey,UG
+179,53,"To Implement Smart Ration Card using RFID,Sensors & Biometrics",UG
+180,54,RATING PREDICTION OF SOCIAL SENTIMENT FROM TEXTUAL REVIEW BY RECOGNIZING\n CONTEXTUAL POLARITY.,UG
+181,54,DATA EXTRACTION USING JAVA APPLICATION AND VISUAL BASIC,UG
+182,55,Patient Healthcare & Smart Ambulance Tracking System,UG
+183,55,Virtual Mouse By Using Hand Gesture,UG
+184,55,Detection & Prevention of SQLIA using Machine Learning Approach,UG
+185,56,Using Augmented Reality for Teaching kindergarten students,UG
+186,56,Protection of IoT transaction Using ID-KEM,UG
+187,57,Smart Security System for Home based on GSM Technology,UG
+188,57,Transforming Physical Browsing in Library Using IOT,UG
+189,57,Detection & Prevention of SQLIA using Machine Learning Approach,UG
+190,58,DETECTION AND PREVENTION OF SQL INJECTION ATTACKS USING MACHINE LEARNING APPROACH,UG
+191,58,PRIVATE AND SECURE DATA TRANSMISSION AND ANALYSIS FOR WIRELESS NETWORKS,UG
+194,60,NIL,<blank>
+195,61,NIL,<blank>
+196,62,"Internal & External Threat Detection ,Tracking & Protection System",<blank>
+197,63,Progressive Source – Channel Embedded Coding of Image Over Static (Memory Less) Channel,PhD
+198,63,Impact of Xilinx ISE Design Suite’s MAP and Generate Programming Optimization Settings on FPGAs Bitstream Size,PhD
+199,63,Analysis and simulation of composite bridge  for electrostatic MEMs Brodge,PhD
+200,63,High power EDFA analysis,PhD
+201,63,QoS Improvement in OCDMA Systems using Optical Normalizer,PhD
+202,64,Pattern Recognition with footprint imaging sensor system using Gait\nactivities,PG
+203,64,Geographic opportunistic routing in wireless sensor Network by Joint Cooperative Routing.,PG
+204,64,Electronic Ration card with finger Print Authetication,UG
+205,64,Construction Of Filter For Image Smoothing               ,UG
+206,64,FPGA Based Green House Monitoring System,UG
+207,64,Brain Tumor segmentation  using convolutional nueral networks in MRI images,UG
+208,65,Frequency Reconfigurable Monopole patern Antenna using DGS,PG
+209,65,Satellite Multispectral image Enhancement based on PAN sharpening using NSC Transform,PG
+210,65,Circular polarized microstrip antenna for WiMAX Application.,UG
+211,65,"Blind Aid stick using offline GPS:Obstacle detection,voice based co-operation via GPS along with panic alert system",UG
+212,66,Automatic attendance system using face detection,UG
+213,66,Road detection and extraction techniques for autonomous vehicle,PG
+214,66,Video shot boundary detection using CNN,PhD
+215,66,Aura Detection and Analysis for stress measurement,PhD
+216,66,Video shot boundary detction using Transform based techniques,PhD
+217,66,Home automation exploiting Artificial Intelligence and Fog computing,PhD
+218,66,Empirical mode detection,PG
+219,66,Cotton disease detection using neural network,PG
+220,66,Novel techniques for noise removal in an MRI image,PG
+221,66,Fuzzy logic for fruit type separation,PG
+222,66,Face detection using Principal component analysis,PG
+223,67,NIL,<blank>
+224,68,Rash driving alert system,UG
+225,68,Graphical Notice Board using android application,UG
+226,69,IOT based liquid level monitoring system,UG
+227,69,IOT based Industrial Automation using ARM7,UG
+228,70,Y-shaped microstrip patch antenna for LTE and WI-MAX application,UG
+229,70,Tremor detection & correction,UG
+230,71,NIL,PG
+231,72,CPW feed stacked rectangular microstrip patch antenna.,UG
+232,72,Design of X shaped micro strip patch antenna array,UG
+233,73,Security Intelligence and fire fighting Robot,UG
+234,73,Bidirectional DC-DC converter with fifth order resonant control,UG
+235,74,NIL,<blank>
+236,75,RF controlled Robot to Travel on Uneven Surfaces for space applicaton,UG
+237,75,PL-PL communication using Li-Fi,UG
+239,77,Automatic Chairs parking using NISAAN technology.,UG
+240,77,Smart lab assistant with instrument protection,UG
+241,77,Pick and place robot by using Image processing & FPGA,UG
+242,78,NIL,<blank>
+243,79,WSN Architecture for Smart Irrigaton System,UG
+244,80,NIL,<blank>
+245,81,LPG Gas Leakage Protection using IOT,UG
+246,81,Smart Irrigation System with Intruder Detection using TIVA-C,<blank>
+247,82,Cashless Campus,UG
+248,82,Advance Pipeline leakage detection and choke up cleaning Robot,UG
+249,82,IOT based intervehicular communication using LI-FI,UG
+250,83,An embedded based railwar track fault detection using ATMEGA328,UG
+251,83,Lift automation and material sorting,UG
+252,84,NIL,<blank>
+253,85,Design of dualband microstrip patch antenna for MIMO,UG
+254,85,Mobile E-care health service system using IOT,UG
+255,85,IOT based Automatic traffic light control,UG
+256,86,NIL,<blank>
+257,87,Smart lab assistant with instrument protection,<blank>
+258,122,1. Application of SMED for increasing the productivity\n\n,UG\n
+259,122,2. Line balancing using simulation tool,UG
+260,122,3. Automation of washing system in continuous mesh belt furnace,UG
+261,122,4. Modal analysis of Go-Kart Chasis,UG
+262,122,5. Steering Control Mechanism,UG
+263,122,6. Fault Detection in machine component by using fuzzy logic,UG
+264,122,7. Recent advancements in modal analysis,PG
+265,122,8. Defect identification in bearing using vibration analysis,PG
+266,122,9. Design Analysis Of Piston For Four Stroke Single Cylinder Engine Using Ansys,PG
+267,122,10. Design and Analysis of Bio-gas operated intake device intake device,PG
+268,122,11. Reliability based design optimization of structural tubular section,PG
+269,122,12. Robust parametric design of screw jack,PG
+270,122,13. Design modification of two wheeler frame by using FEA &amp; modal analysis,PG
+271,122,14. Study of influence of grease contaminants in vibration response of ball bearings,PG
+272,123,1. Design of gear box for mechanical lifter\n,UG\n\n
+273,123,2. Automatic Bottlefilling of sugarcane juice,UG
+274,123,3. Thermal analysis of IC engines,UG
+275,123,4. Productivity improvement of assembly line,UG
+276,123,5. Apllications of design of experiments for process optimization of milling,UG
+277,123,6. Design and analysis of wind turbine blades,UG
+278,123,7. Welding joint  analysis of structure using ANSYS,UG
+279,123,8. Parametric Investigation of turning process ,UG
+280,123,9. To improve efficiency of gyromill darrieus vertical axis wind turbine,UG
+281,123,10. Performance analysis of heat tranfer rate by nano fluid,UG
+282,123,11. Working of plastic shredding machine ,UG
+283,123,12. Crushing preservation and semi automatic bottle filling plant of sugarcane juice,UG
+284,123,13. Set-up time reduction of vertical milling center using SMED,UG
+285,124,1. Design and Manufacturing of Parallel flow and Counter Flow Heat Exchanger Test Rig\n,UG\n\n          
+286,124,2. Design and Manufacturing of Experimental Setup for Natural Convection Heat Transfer.,UG
+287,124,3. Inbuild Hydraulic Operated Jack,UG
+288,124,4. Sterling Engine.,UG
+289,124,5. Ocean Clean-up Array,UG
+290,124,6. Electric Bike.,UG
+291,124,7. Mechanically Operated Automatic Fluid Filling Machine,UG
+292,124,8. Experimental Investigation on performance of Diesel Engine using Mixture of Diesel and Bio-Diesel as a working fuel with Copper Oxide & zinc oxide Nano Particle Additive,PG
+293,124,9. Thermal Analysis of Cylindrical Roller Bearing with Change in Roller Material (Silicon Carbide and Steel) ,PG
+294,124,10. Experimental Investigation of Heat Transfer Enhancement in Shell and Tube Heat Exchangers Using Al2O3 /water and CuO/water Nano fluid.,PG
+295,124,11. Experimental Investigation of Rotary Tiller Blades For Performance Analysis.,PG
+296,124,12. Heat transfer Augmentation in Tube in Tube Type Heat Exchanger using Wire Coil Insert.,PG
+297,124,13. Comparative Thermal Analysis between Water & Al2O3 Nanofluid as Coolant on Sintered Copper Heat Pipe using Hybrid Vortex Al Cold Plate.,PG
+298,124,14. Enhancement of Aerodynamic Drag Reduction for Sedan Based Passenger Car Model using Add on Device.,PG
+299,124,15. Heat Transfer enhancement in double pipe heat exchanger using twisted pipe.,PG
+300,124,16. Study of Parabolic Solar Cooker with PCM for Energy Storage and Improving its Performance with Utility.,PG
+301,124,17. Numerical & Experimental Investigation of Staggered Interrupted Fin Arrangement in a Numerical Convection Field.,PG
+302,124,18. Design & finite Element Analysis of Guide Pillar for Compound Press Tool.,PG
+303,125,Impact response of cenosphere epoxy syntactic foam composites\n\n,PG
+304,125,Tensile behavior of walnut shell epoxy composites,PG
+305,126,Design of critical object handling system,UG
+306,126,Development & Definement of low cost chamfe machine,UG
+307,126,Automatic Braking system with pneumatic bumper,UG
+308,126,Design &amp development of alternative fixed pitch CVT for singular stepless control,UG
+309,127,1. Performance analysis of single cylinder diesel engine using biogas in duel fuel mode\n\n\n\n,PG
+310,127,2. Performance analysis of thermosyphon using methanol,PG
+311,127,"3.A study of productivity improvement at PZS1 forging line, Bharat Forge Ltd.",PG
+312,127,4.Multi Domain Multi Copter (A DRDO Sponsored Project),PG
+313,127,5.Biogas -Biodiesel Dual Fuelling and performance Analysis of Single Cylinder Diesel Engine,PG
+314,128,1. Productivity enhancement by application of time study \n,UG\n
+315,128,2.Anti-roll mechanisms for four wheeler ,UG
+316,128,3. Ball turning attatchment for lathe machine,UG
+317,128,4. Drilling jigs for JJ industries,UG
+318,128,5.Design of gigs for industrial applications ,UG
+319,128,6. Implementation of maglev turbines and solar energy for generation of electricity,UG
+331,130,1.Utilization of exhaust gas for space cooling\n,UG\n
+332,130,2. Experimental investigation of heat transfer by pin fin,UG
+333,130,3.Experimental investigation of Aluminium & Copper wavy twisted tape inserts,UG
+334,130,4. Design and analysis of work holding device for milling operation on front axial beam,UG
+335,130,5. Automatic gear transmission using embedded systems,UG
+336,130,6. Manufacturing of dryer for anodized aluminium sections,PG
+337,130,7. Development of natural gas fired boiler by installing condensing economiser,PG
+338,130,8. Combined effect of EGR and sesame oil biodiesel blends on CI engine,PG
+339,130,9. Optimization of GTAW process parameters for joining AA6082,UG
+340,130,10. Optimization of hard steel turning parameters by using Taguchi and RSM,UG
+341,131,1. Design and analysis of track width mine plough \n,UG\n
+342,131,2. Automated 3D cutting and bending machine,UG
+343,131,3. Automatic sorting system using photoelectric sensor,UG
+344,131,4. Customization of CAD software for compond die design,UG
+345,131,5. Design and development of semi automatic wall spray painting machine,UG
+346,131,6. Analysis of composite Materials for bumper,UG
+347,132,1. Customization of catia software for designing of pilger die for suspension pipe tube manufacturing\n\n\n \n\n\n\n,UG\n
+348,132,2. Design and development  of drainage cleaning system,UG
+349,132,3. Power generation  using speed breaker,UG
+350,132,4. Design improvement to increase the COP of compressor,UG
+351,132,5.Solar operating air cooler with high speed control,UG
+352,132,6.Redesingning  boiler chimney system against fauling for enhancement of boiler efficiency ,UG
+353,132,7.Variable displacement pump using kinematic linkage,UG
+354,132,8.Investigation and performance testing of diesel engine using vegetable oil ,UG
+355,132,9.Design improvement to increase the COP of compressor.,UG
+356,133,1. Pneumatically operated seed sowing machine\n,UG\n
+357,133,2. Design and development of semi-automatic surface grinding machine,UG
+358,133,3. Design and fabrication of folding bicycle,UG
+359,133,4. Production line automatic to enchance plant capacity and efficiency,UG
+360,133,5. Implementation of productivity improvement techniques to enhance thge outcome of nmanufacturing firms,UG
+361,133,6. Design and development of hybrid engine,UG
+362,134,"1. Optimization of condenser using micro channel,\n",UG\n
+363,134,2. Heat transfer analysis during curing of rocket motor,UG
+364,134,3. Condenser Analysis & Comparative Study of R134a & HC (R600a),UG
+365,134,4. Solar water cooler based on methanol activated carbon vapour absorption rate,UG
+366,135,1. Robotic Application in welding\n,UG\n
+367,135,2. Experimantal investigation on the performance and emission characterisctics of diesel ,UG
+368,135,engine operating on tune oil,UG
+369,135,3. Design and development of solar dryer for food indusrty,UG
+370,135,4. Automatic Plastering Machine,UG
+371,135,5. Design and analysis of wheel choke,UG
+372,135,6. Peltier Effect,UG
+373,135,7. Value Analysis and Value Engineering,UG
+374,136,8. Design and Analysis of Jigs and Fixture,UG
+375,136,2. Performance analysis of solar air heater using phase change material,UG
+376,136,3. Experimental investigation of metering of fuel in two wheeler ,UG
+377,136,4. Computerised inspection of gear profile,UG
+378,136,5. Experimental investigetion of clay cool refrigerator by using evaporative cooling ,UG
+379,136,6. Design of BIW Fixture,UG
+380,137,1. Performance and investigation of VCC by applying magnet at condenser exit\n,UG\n
+381,137,2. An experimantal study of rate of heat transfer by natural forced and mixed convection ,UG
+382,137,3. Experimental study of heat transfer analysis of rectungular perforated fin array,UG
+383,137,4. To analyse the induction hardness of tulip and crack radiation,UG
+384,138,1. Thermal Performance analysis of modern domestic air cooler\n,UG
+385,138,2. Thermal and performance analysis of R600a in VCC,UG
+386,138,3. Performance analysis of solar air heater with different ribs on the surface of absorber plate,UG
+387,139,1. Development of Hydraulic oil cooler using Heat Pipe.\n,UG\n
+388,139,2. Automatic Plastering Machine,UG
+389,139,3. Performance evalution of AC cum refrigerator,UG
+390,140,1. Heat transfer analysis using liquid jet on plane surface\n,UG\n
+391,140,2.Study of hydraulic jump and interactions due to impingement of multiple liquid jet on plane surface,UG
+392,141,1. Advanced braking system in four wheeler\n,UG\n
+393,141,2. Four wheel drive for four wheeler,UG
+394,141,3. Multi level parking using hydraulic cylinder,UG
+395,141,4. Design and analysis of Composite gear coupling ,UG
+396,141,5. Design and analysis of exhaust recirculation valve,UG
+397,142,1. Performance evaluation of solar powered dehydrators for agricultural products\n,UG\n
+398,142,2. Design and Optimization of solar air heater using phase change material ,UG
+399,142,3. Desing and manufacturing of machining fixture for end carriage  ,UG
+400,142,4. Performance analysis of brake pads using different materials ,UG
+401,142,5. Design of Self Locking Gripper   ,UG
+402,142,6. Design of Filtration System For Okamoto Grinding Machine,UG
+403,142,7. Design and Analysis of composite leaf spring,UG
+404,143,1. Automatic hand brake release system\n,UG\n
+405,143,2. Fabrication and manufacturing of jowar cutting mechanisms,UG
+406,143,3. Design and development of fixture for bolt on lift valve ,UG
+407,143,4. Study of Hemp and its characteristics in form of SMC,UG
+408,144,1. PLC operated Hydraulic Press\n                      ,UG\n
+409,144,2. Improvement in the productivity of fork by reducing cycle time,UG
+410,144,3. Maintenance of aircraft engines,UG
+411,144,4. Waste heat recovery by using TUG model,  UG
+412,144,5. Performance Analysis of Rotating heat pipe.     ,UG
+413,145,1. Developement of special purpose lathe machine\n,UG\n
+414,145,2. Design of hill assist vehicle system,UG
+415,146,1.Development of forklift ladder\n,UG\n
+416,146,2. Expermental investigation and comparitive analysis of non asbestos band brake ,UG
+417,146,3. Dseign optimaization chassis  of GO-Kart Chassis,UG
+418,146,4. Design and analysis of Plennium bracket,UG
+419,147,1.Wind solar hybrid resource indication tool\n\n\n,UG\n
+420,147,2. Design and optimization struture for multistage pump base plate through FEA,UG
+421,147,3. Study the effect of MMH & Design of AGV,UG
+422,147,4. Effect of reinforcewment of Aluminium aloy with SIC flash using liquid metullargy method,UG
+423,147,5. Design and Manufacturing of  sugarcane planter,UG
+424,147,6. Design & Analysis of Tower Parking Systems,UG
+425,148,1.Optimisation of high density polyethylene  jar by using FEA \n\n\n\n\n\n\n\n,UG\n
+426,148,2. Design and analysis of kinetic energy recovery system in bicycle ,UG
+427,149,1. Design of solar operated Grass Cutter. \n,UG\n
+428,149,2. Design of solar refrigetion system using TEG Module. ,UG
+429,149,3. Development of Hydraulic oil cooler using Heat Pipe.,UG
+430,149,4. Design and production of dummy chrome mould using injection moulding,UG
+431,150,1. Magnetic Gyroscope\n,UG\n
+432,150,2. Four wheel streeing system,UG
+433,150,3. Analysis of glass fiber chassis,UG
+434,150,4. Analysis of automobile chassis with honeycomb structure,UG
+435,151,1. Design of PCM panel for domestic refrigerator \n,UG\n\n
+436,151,2. Experimantal investigation of VCRS by using nano lubricant ,UG
+437,151,3. Performance evaluation of descient coated Heat exchanger,UG
+438,151,4. Experimental and CFD analysis of Pulsating heat pipe ,UG
+439,151,5. Experimental and CFDanalysis of Loop heat pipe,UG
+440,151,6. Experimantal investigation of VCRS by using nano refrigerant,UG
+441,151,7. Performance evaluation of VARS using Engine exhauxt,UG
+442,151,8. Performance evaluation of VCRS using Nanorefrigerant,UG
+443,152,1. Performance evaluation of concentric tube in tube coil heat exchanger.\n,UG\n
+444,152,2. Parametric analysis of Double coil heat exchanger,UG
+445,153,1. Automatic object rejection on conveyor belt\n  ,UG\n
+446,153,2. Hydraullic steering mechanism in Automotive    ,UG
+447,153,3.Design of Automotive valve and manufacturing of Semi Automatic Valve Bending Machine   ,UG
+448,154,1. Thermoelectric air conditioning \n,UG\n
+449,154,2. CFD analysis of trapeziodal fins,UG
+450,154,3. Optimization of polishing machine,UG
+451,154,4. Performance Analysis of exhaust system,UG
+452,155,1. Multi operational Machine Tool\n,UG\n
+453,155,2. Pneumatic operated ramming machine for Casting Process,UG
+454,156,1. Automatic reverse braking system\n,UG\n
+455,156,2. Performance analysis of VCR by using micro channel condenser,UG
+456,157,1. Redesigning of silencer by using hemp fibre\n,UG\nUG
+457,157,2. Designing of hydraulic breaking system for bullock cart,UG
+458,158,1. Paper cutting by using Geneva mechanism\n2. Design and Fabrication of soil tiller and weeder ,UG\nUG
+459,159,"1. Modelling & study of minimum quantity lubrication using EN9 material,\n\n",UG\nUG      UG
+460,159,2.Design & fabrication of vortex wind mill                                                                                        ,UG
+461,159,3.Design And Fabrication of Prototype Of Multipurposes Machine for Metal Operations,UG
+462,160,1. 3 in 1 mechanism\n                                                                                                     ,UG\n
+463,160,2. Analysis of composite material on pin on disc ,UG
+464,160,3. Mechanical testing on UTM machine,UG
+465,160,4. Leaf spring analysis and testing,UG
+466,160,5. Tribological behaviour of materials.    ,UG
+468,162, 1. Analysis of turbine blader\n,UG\n
+469,162,2. Design and analysis of gear,UG
+472,164,1.Agricultural Robot\n,UG\nUG
+473,164,2.Performance Analysis of Vortex Tube,UG
+474,165,NIL,UG
+475,166,NIL,UG
+476,167,1. Electricity genertated by Railway track\n,UG\nUG\nUG
+477,167,2. Testing and analysisof ethanol blends at variable compression ratio in CI engine,UG
+478,167,3. Performance evalution of AC cum refrigerator,UG
+479,167,4.Developement of automatic bumper shock absorption and braking system.,UG
+480,168,NIL,UG
+481,169,1. Performance analysis of engine for reduction in exhaust by using Aqua silencer\n,UG\n\n
+482,169,2. Design and analysis of rolling mill crusher shaft for weight reduction and strength enhancement,UG
+483,169,3. Analysis of Belt conveyor,UG
+484,169,4. CFD analysis of superheater,UG
+485,169,5. Design of climbing wheel,UG
+486,169,6. Experimental analysis of VCS,UG
+487,169,7. Experimental evalution of Air conditioning system by using nano particles,PG 
+488,169,8. Analysis of optimization in LED lamp fins by using various cross sections ,UG
+489,170,1.Performance and evaluation of MQL with turning of alloy steel\n,UG
+490,170,2.Cycle operated spraying pump,UG
+493,172,1. Multiple shock absorber testing machine\n\n,UG\n
+494,172,2. In – Pipe Spherical turbine hydroelectric power plant ,UG
+495,172,3. Aquasilencer ,UG
+496,172,4. Adaptive heat light system ,UG
+497,173,Work Study and analysis on lead time reduction,UG
+498,174,1. Vibrational analysis of gear box\n,UG\n
+499,174,2. Waste Heat Recovery from water cooler,UG
+500,174,3. Design of Composite leaf spring ,UG
+501,175,1. Design and fabrication of Automatic Photo sensor inspection system\n ,UG\nUG
+502,175,2. Rearranging and modification of tapping machine,UG
+503,176,1.Design  & fabrication of Forklift leafs for mechanism enhancement\n,UG
+504,176,2.Automatic pneumatic bumper for frontside of vehicle,UG
+505,176,3.Automatic pneumatic bumper for rearside of vehicle,UG
+506,176,4. Epicyclic ,UG
+507,177,1. Experimental and CFD investigation of Centrifugal Pump\n,UG\n
+508,177,2. Performnace Analysis of Portable Solar Dryer for drying medicinal plant,UG
+509,177,3. Performnace Analysis of Solar Tunnel Dryer with and without heat source for drying ,UG
+510,178,Gear Roller Tester,UG
+511,179,1. Performance analysis of water cooled domestic refrigerator \n,UG
+512,179,2. Design & Fabrication of Fish Pellet Machine,UG
+513,179,3. Design & Optimisation of Connecting rod used in Four Wheeler,UG
+514,179,4. Value Stream Mapping,UG
+515,180,5. Design & Development of Water Tunnel Test Set Up\n,UG
+516,181,1. Thermoelectric Refrigeration\n,UG\n
+517,181,2. Reliablity Testing Machine for remote control,UG
+518,182,1.Design and manufacturing of chairless chair \n,UG\n
+519,182,2.Manufacturing and Testing (Analysis) of composite material              ,UG
+520,182,3.Design and Analysis of Wind Lens,UG
+521,183,Thermal Analysis of disc brake\n,UG
+522,183,Fabrication & modification of Hand Brake,UG
+523,183,Analysis of Rotating type bike parking system,UG
+524,184,NIL,<blank>
+525,185,1. Automatic gear shifting Mechanism for two wheeler\n,UG\n
+526,185,2. Converting Manually Operated Die Into Automation Mode By Using Robotic Vacuum Gripper,UG
+527,186,1. Co-generation of Energy from waste Heat by Organic Ranking Cycle.\n                                                                                                                                     ,UG\n
+528,186,2. Performance Improvisation of Chilling Unit at Radhekrishna Products,UG
+529,186,3. Study Of Heat Transfer Enhancement In Rectangular Channel With Different Inlet Conditions,UG
+530,186,4.  Experimental Investigation to Evaluate COP by using refrigerant Hc-22 a in domestic Refrigerator as alternative with R-134-a,PG
+531,186,5 “Investigation of Heat Transfer Characteristics In Rectangular Duct With Square Rib Roughened Surfaces      ,PG
+532,88,Ticket Management System,UG-100+
+533,88,Advanced Electronic Voting Machine,UG-100+
+534,88,Manless Gun,UG-100+
+535,88,High Frequency Multitasking Inverter,UG-100+
+536,88,Electronic Toll System,UG-100+
+537,89,NIL,Nil
+538,90,NIL,UG-14
+539,91,NIL,UG
+540,92,NIL,Nil
+541,93,NIL,Nil
+542,94,NIL,Nil
+543,95,NIL,nil
+544,96,NIL,Nil
+545,97,NIL,Nil
+546,98,NIL,Nil
+547,99,NIL,"UG-12, PG-08"
+548,100,NIL,Nil
+549,101,NIL,nil
+550,102,NIL,UG-6
+551,103,NIL,nil
+552,104,NIL,nil
+553,105,NIL,nil
+554,106,NIL,UG-10
+555,107,NIL,PG BE -30
+556,108,NIL,Nil
+557,109,NIL,UG-3
+558,110,NIL,"UG-8, PG-07"
+559,111,NIL,Nil
+560,112,NIL,BE  -1
+561,113,NIL,BE( 1 GROUP PROJECT) 
+562,114,NIL,Nil
+563,115,NIL,BE-3
+566,118,NIL,Nil
+567,119,NIL,UG-8
+568,120,NIL,NIL
+569,121,NIL,NIL
+570,187,Managing and improving suppliers on-Time delivery ( OTD) performance,PG
+571,187,A study of Analysis of Employee Training and development technique,PG
+572,188,A study on recruitment and selection process ,PG
+573,188,A study on Employee welfare ,PG
+574,188,A study on Training and development,PG
+575,189,Marketing Mix ,PG
+576,189,"Market Potential of Corrugated Box packging, Ahmednagar",PG
+577,189,A study of training and development,PG
+578,190,The study on the impact and importance of ERP in the organisation,PG
+579,190,To study the working capital Management ,PG
+580,190,To analyse the Financial Statement,PG
+581,190,Mutual Fund,PG
+582,190,To study and analyse the financial statements by using Ratio analysis techniques,PG
+583,191,To analyse the financial statement by using the technique of Ratio analysis ,PG
+584,191,Inventory Management by MOQ reduction using VSM,PG
+585,191,A study on recruitment and selection process ,PG
+586,206,NIL,UG
+587,207,Development of Fabrication Material for Low cost housing using sisal fibers composite.,UG
+588,208,Effect on concrete by replacement of Nano Alumina and Fly ash,UG
+589,209,Mechanical properties of concrete by using clay brick as aggregate,UG
+590,209,Study of mechanical propertis of concrete made from different admixture,UG
+591,209,Analysis of flexible pavement and rigid pavement,UG
+592,209,Comperative study of flexible and rigid pavement,UG
+593,209,Study of traffic intensity in jalna with probable solution,UG
+594,64,Drone delivery system based on IoT,UG
+595,65,Home automation and security using MSP430,UG
+596,77,construction of Quad copter with video camera for surveillance system,UG
+597,70,Design og harmonic separation antenna,UG
+598,75,3D Object detection System for Vehicle,UG
+599,75,Design CPW fed monopole rectenna for energy harvesting,UG
+600,72,Smart shopping system using IoT,UG
+601,80,Protection of three phase induction motor using microcontroller,UG
+602,81,LPG gas leakage projection using IOT,UG
+603,70,smart irrigation system,UG
+604,68,MSP430 based smart green house system,UG
+605,78,IoT new rate petrol pump automation,UG
+606,83,IoT based thief security alert system,UG
+607,83,blind parameter estimation based on match filter detection for cognitive radio networks.,UG
+608,75,Integrated SIOL control process with bottel feeling assembly,UG
+609,73,Voice controlled home automation system,UG
+610,73,IoT based water management system using arduino,UG
+611,82,Car to car communication using IoT,UG
+612,82,smart home monitoring and security system,UG
+613,72,design of multiband antenna using FR4 substarte,UG
+614,84,smart bus transportation system ,UG
+615,84,splant monitoring wireless communicaton using FPGA,UG
+616,69,Measurement of Current Consumption of Industril Appliances using GSM,UG
+617,67,Fire Rescue System for Railway,UG
+618,79,WSN architecture for smart irrigation system,UG
+619,66,charging point Kisok,UG
+621,85,Boimetric based electronic voting machine,UG
+622,215,Hydraulic Compressed Bricks Using fly ash,UG
+623,215,Flexural behaviour of concrete with basalt fibre,UG
+624,216,Experimental study of high strenght self compacting concrete,UG
+625,217,Use of Plastic Waste in Civil Constructioin,UG
+626,218,NIL,-
+627,210,"1.Performance of Hexagonal Pyramid Solar Still at Dawadimi, KSA",UG
+628,210,2.Enhancement of performance of Passive Solar Still with Cylindrical Copper Fins,UG
+629,210,3.Study of Air Flow Over thr Truck Using OpenFoam.,PG
+630,210,4.Heat Transfer Enhancement by Using Twisted Tape with Elliptical Holes,PG
+631,210,5.Experimental Investigation of forced convection heat transfer enhancement through dimple tube,PG
+632,210,6.Engine Combustion Simulation using OpenFoam,PG
+633,210,7.CFD simulation of Air flow motion in Diesel Engine,PG
+634,210,8.Heat Transfer Enhancement in a Round tube with Snail Entry and Coiled-Wire Insert with Spring Turbulators,PG
+635,210,9.Study of flow Over Car Body by Changing Different Parameters using OpenFoam,PG
+636,210,10.Experimental and Numerical study of Natural Convection in Engine Block,PG
+637,210,11.Experimental and Numerical study of Forced Convection in Engine Block,PG
+638,210,12.Experimental study on enhancement of thermal performance of wire woundtube in tube helical coil heat exchanger,PG
+639,210,13.An experimental investigation of effect of cooled exhaust gas recirculation (EGR)for Nox reduction in single cylinder C. I. Engine with biodiesel blends,PG
+640,210,14.Experimental investigations on Divergent Vortex Tube with Multiple Helical Entry Nozzles,PG
+641,210,15.Biogas as Fuel in Dual Fuel Diesel Engine,PG
+642,210,16.Heat Transfer Enhamcement by using twisted tape with triangular holes,UG
+

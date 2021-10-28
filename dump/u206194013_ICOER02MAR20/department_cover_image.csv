@@ -1,0 +1,9 @@
+id,url,department
+1,depart_images/COMPCoverDepartment.jpg,COMP
+2,depart_images/MECHCoverDepartment.jpg,MECH
+3,depart_images/ENTCCoverDepartment.jpg,ENTC
+4,depart_images/ELECCoverDepartment.jpg,ELEC
+5,depart_images/FECoverDepartment.jpg,GEN
+6,depart_images/CIVILCoverDepartment.jpg,CIVIL
+7,depart_images/MBACoverDepartment.jpg,MBA
+

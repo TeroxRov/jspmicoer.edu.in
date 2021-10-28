@@ -1,0 +1,4 @@
+SQL_PATH,SCHEMA_NAME,CATALOG_NAME,SCHEMA_COMMENT,DEFAULT_COLLATION_NAME,DEFAULT_CHARACTER_SET_NAME
+<blank>,information_schema,def,<blank>,utf8_general_ci,utf8
+<blank>,u206194013_ICOER02MAR20,def,<blank>,utf8mb4_unicode_ci,utf8mb4
+

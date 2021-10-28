@@ -1,0 +1,121 @@
+ENGINE,CHECKSUM,DATA_FREE,VERSION,CHECK_TIME,ROW_FORMAT,TABLE_NAME,TABLE_ROWS,TABLE_TYPE,CREATE_TIME,DATA_LENGTH,UPDATE_TIME,TEMPORARY,INDEX_LENGTH,TABLE_SCHEMA,TABLE_CATALOG,TABLE_COMMENT,AUTO_INCREMENT,AVG_ROW_LENGTH,CREATE_OPTIONS,MAX_DATA_LENGTH,TABLE_COLLATION,MAX_INDEX_LENGTH
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,ALL_PLUGINS,SYSTEM VIEW,0,max_rows=1812732 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133672000,<blank>,<blank>,Fixed,<blank>,APPLICABLE_ROLES,SYSTEM VIEW,980,max_rows=136956,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,131478528,<blank>,<blank>,Fixed,<blank>,CHARACTER_SETS,SYSTEM VIEW,384,max_rows=349525,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,CHECK_CONSTRAINTS,SYSTEM VIEW,0,max_rows=1499639 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133639044,<blank>,<blank>,Fixed,<blank>,COLLATIONS,SYSTEM VIEW,231,max_rows=581029,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,130862160,<blank>,<blank>,Fixed,<blank>,COLLATION_CHARACTER_SET_APPLICABILITY,SYSTEM VIEW,195,max_rows=688296,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,COLUMNS,SYSTEM VIEW,0,max_rows=533757 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134076085,<blank>,<blank>,Fixed,<blank>,COLUMN_PRIVILEGES,SYSTEM VIEW,2893,max_rows=46393,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132848096,<blank>,<blank>,Fixed,<blank>,ENABLED_ROLES,SYSTEM VIEW,388,max_rows=345921,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133488252,<blank>,<blank>,Fixed,<blank>,ENGINES,SYSTEM VIEW,732,max_rows=183357,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,EVENTS,SYSTEM VIEW,0,max_rows=117460 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134081948,<blank>,<blank>,Fixed,<blank>,FILES,SYSTEM VIEW,4004,max_rows=33520,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134129040,<blank>,<blank>,Fixed,<blank>,GLOBAL_STATUS,SYSTEM VIEW,6340,max_rows=21169,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134129040,<blank>,<blank>,Fixed,<blank>,GLOBAL_VARIABLES,SYSTEM VIEW,6340,max_rows=21169,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,130862160,<blank>,<blank>,Fixed,<blank>,KEYWORDS,SYSTEM VIEW,195,max_rows=688296,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133409100,<blank>,<blank>,Fixed,<blank>,KEY_CACHES,SYSTEM VIEW,660,max_rows=203360,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134158788,<blank>,<blank>,Fixed,<blank>,KEY_COLUMN_USAGE,SYSTEM VIEW,4638,max_rows=28938,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,OPTIMIZER_TRACE,SYSTEM VIEW,0,max_rows=111076740 transactional=0,8192,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,PARAMETERS,SYSTEM VIEW,0,max_rows=1157881 transactional=0,8192,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,PARTITIONS,SYSTEM VIEW,0,max_rows=1074458 transactional=0,8192,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,PLUGINS,SYSTEM VIEW,0,max_rows=1812732 transactional=0,8192,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,PROCESSLIST,SYSTEM VIEW,0,max_rows=2923072 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132927165,<blank>,<blank>,Fixed,<blank>,PROFILING,SYSTEM VIEW,309,max_rows=434361,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134189235,<blank>,<blank>,Fixed,<blank>,REFERENTIAL_CONSTRAINTS,SYSTEM VIEW,4815,max_rows=27874,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,ROUTINES,SYSTEM VIEW,0,max_rows=110695 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134114890,<blank>,<blank>,Fixed,<blank>,SCHEMATA,SYSTEM VIEW,6539,max_rows=20525,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133949010,<blank>,<blank>,Fixed,<blank>,SCHEMA_PRIVILEGES,SYSTEM VIEW,2507,max_rows=53537,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134129040,<blank>,<blank>,Fixed,<blank>,SESSION_STATUS,SYSTEM VIEW,6340,max_rows=21169,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134129040,<blank>,<blank>,Fixed,<blank>,SESSION_VARIABLES,SYSTEM VIEW,6340,max_rows=21169,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134073954,<blank>,<blank>,Fixed,<blank>,STATISTICS,SYSTEM VIEW,5754,max_rows=23325,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,130862160,<blank>,<blank>,Fixed,<blank>,SQL_FUNCTIONS,SYSTEM VIEW,195,max_rows=688296,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,SYSTEM_VARIABLES,SYSTEM VIEW,0,max_rows=100944 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134149652,<blank>,<blank>,Fixed,<blank>,TABLES,SYSTEM VIEW,14833,max_rows=9048,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134062368,<blank>,<blank>,Fixed,<blank>,TABLESPACES,SYSTEM VIEW,6952,max_rows=19306,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133788720,<blank>,<blank>,Fixed,<blank>,TABLE_CONSTRAINTS,SYSTEM VIEW,2504,max_rows=53601,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134017200,<blank>,<blank>,Fixed,<blank>,TABLE_PRIVILEGES,SYSTEM VIEW,2700,max_rows=49710,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,TRIGGERS,SYSTEM VIEW,0,max_rows=108105 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133869528,<blank>,<blank>,Fixed,<blank>,USER_PRIVILEGES,SYSTEM VIEW,2314,max_rows=58002,0,def,information_schema,utf8_general_ci
+137438945280,2021-10-28 06:56:20,8192,<blank>,0,<blank>,2021-10-28 06:56:20,Y,<blank>,Aria,3221225472,<blank>,<blank>,Page,11,VIEWS,SYSTEM VIEW,0,max_rows=1155803 transactional=0,8192,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132163312,<blank>,<blank>,Fixed,<blank>,CLIENT_STATISTICS,SYSTEM VIEW,386,max_rows=347714,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134139537,<blank>,<blank>,Fixed,<blank>,INDEX_STATISTICS,SYSTEM VIEW,1743,max_rows=77003,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134202239,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_DATAFILES,SYSTEM VIEW,12007,max_rows=11178,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134089180,<blank>,<blank>,Fixed,<blank>,GEOMETRY_COLUMNS,SYSTEM VIEW,4244,max_rows=31625,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,131072000,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_TABLESTATS,SYSTEM VIEW,250,max_rows=536870,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134123349,<blank>,<blank>,Fixed,<blank>,SPATIAL_REF_SYS,SYSTEM VIEW,7691,max_rows=17451,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134064756,<blank>,<blank>,Fixed,<blank>,INNODB_BUFFER_PAGE,SYSTEM VIEW,3556,max_rows=37744,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134153690,<blank>,<blank>,Fixed,<blank>,INNODB_TRX,SYSTEM VIEW,4430,max_rows=30297,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132451200,<blank>,<blank>,Fixed,<blank>,INNODB_CMP_PER_INDEX,SYSTEM VIEW,600,max_rows=223696,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134069460,<blank>,<blank>,Fixed,<blank>,INNODB_METRICS,SYSTEM VIEW,1830,max_rows=73343,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132382720,<blank>,<blank>,Fixed,<blank>,INNODB_LOCK_WAITS,SYSTEM VIEW,505,max_rows=265777,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,104857600,<blank>,<blank>,Fixed,<blank>,INNODB_CMP,SYSTEM VIEW,25,max_rows=5368709,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,121634816,<blank>,<blank>,Fixed,<blank>,THREAD_POOL_WAITS,SYSTEM VIEW,58,max_rows=2314098,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,104857600,<blank>,<blank>,Fixed,<blank>,INNODB_CMP_RESET,SYSTEM VIEW,25,max_rows=5368709,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,125829120,<blank>,<blank>,Fixed,<blank>,THREAD_POOL_QUEUES,SYSTEM VIEW,30,max_rows=4473924,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133876979,<blank>,<blank>,Fixed,<blank>,TABLE_STATISTICS,SYSTEM VIEW,1181,max_rows=113647,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132927062,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_FIELDS,SYSTEM VIEW,206,max_rows=651542,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134177859,<blank>,<blank>,Fixed,<blank>,INNODB_BUFFER_PAGE_LRU,SYSTEM VIEW,3559,max_rows=37712,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134173026,<blank>,<blank>,Fixed,<blank>,INNODB_LOCKS,SYSTEM VIEW,30994,max_rows=4330,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133963400,<blank>,<blank>,Fixed,<blank>,INNODB_FT_INDEX_TABLE,SYSTEM VIEW,1054,max_rows=127341,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,121634816,<blank>,<blank>,Fixed,<blank>,INNODB_CMPMEM,SYSTEM VIEW,29,max_rows=4628197,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,113246208,<blank>,<blank>,Fixed,<blank>,THREAD_POOL_GROUPS,SYSTEM VIEW,27,max_rows=4971026,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,132451200,<blank>,<blank>,Fixed,<blank>,INNODB_CMP_PER_INDEX_RESET,SYSTEM VIEW,600,max_rows=223696,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133667496,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_FOREIGN_COLS,SYSTEM VIEW,972,max_rows=138084,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133963400,<blank>,<blank>,Fixed,<blank>,INNODB_FT_INDEX_CACHE,SYSTEM VIEW,1054,max_rows=127341,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,130167900,<blank>,<blank>,Fixed,<blank>,INNODB_BUFFER_POOL_STATS,SYSTEM VIEW,225,max_rows=596523,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,75497472,<blank>,<blank>,Fixed,<blank>,INNODB_FT_BEING_DELETED,SYSTEM VIEW,9,max_rows=14913080,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133607520,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_FOREIGN,SYSTEM VIEW,1752,max_rows=76608,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,121634816,<blank>,<blank>,Fixed,<blank>,INNODB_CMPMEM_RESET,SYSTEM VIEW,29,max_rows=4628197,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,117440512,<blank>,<blank>,Fixed,<blank>,INNODB_FT_DEFAULT_STOPWORD,SYSTEM VIEW,56,max_rows=2396745,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133880460,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_TABLES,SYSTEM VIEW,1995,max_rows=67277,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133019292,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_COLUMNS,SYSTEM VIEW,222,max_rows=604584,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133642656,<blank>,<blank>,Fixed,<blank>,INNODB_FT_CONFIG,SYSTEM VIEW,1163,max_rows=115406,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133980966,<blank>,<blank>,Fixed,<blank>,USER_STATISTICS,SYSTEM VIEW,567,max_rows=236715,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133699944,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_TABLESPACES,SYSTEM VIEW,2072,max_rows=64776,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,95070885,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_VIRTUAL,SYSTEM VIEW,17,max_rows=7895160,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,133060520,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_INDEXES,SYSTEM VIEW,230,max_rows=583555,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134163510,<blank>,<blank>,Fixed,<blank>,INNODB_SYS_SEMAPHORE_WAITS,SYSTEM VIEW,60190,max_rows=2229,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134158962,<blank>,<blank>,Fixed,<blank>,INNODB_MUTEXES,SYSTEM VIEW,24017,max_rows=5588,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134191547,<blank>,<blank>,Fixed,<blank>,user_variables,SYSTEM VIEW,6631,max_rows=20240,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,134017488,<blank>,<blank>,Fixed,<blank>,INNODB_TABLESPACES_ENCRYPTION,SYSTEM VIEW,2013,max_rows=66675,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,75497472,<blank>,<blank>,Fixed,<blank>,INNODB_FT_DELETED,SYSTEM VIEW,9,max_rows=14913080,0,def,information_schema,utf8_general_ci
+0,2021-10-28 06:56:20,0,<blank>,0,<blank>,Y,11,<blank>,MEMORY,129642085,<blank>,<blank>,Fixed,<blank>,THREAD_POOL_STATS,SYSTEM VIEW,85,max_rows=1579032,0,def,information_schema,utf8_general_ci
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,22,34,744,0,Dynamic,alumni,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,bus_time_table,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,N,16384,0,10,<blank>,0,2021-10-28 04:34:30,<blank>,40,384,409,0,Dynamic,career_enquiry,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,22,59,744,0,Dynamic,cell_record,def
+0,2021-10-21 20:49:46,0,<blank>,0,<blank>,BASE TABLE,N,<blank>,InnoDB,0,<blank>,<blank>,Dynamic,10,colloborations,u206194013_ICOER02MAR20,585,<blank>,16384,def,28,utf8_unicode_ci
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,10,13,1638,0,Dynamic,events,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,events_registration,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,174,175,94,0,Dynamic,invitedtalks,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,49152,0,<blank>,<blank>,0,N,<blank>,84,89,585,0,Dynamic,search,def
+0,2021-10-21 20:49:46,0,<blank>,0,<blank>,BASE TABLE,N,<blank>,InnoDB,0,<blank>,<blank>,Dynamic,10,extra_curricular,u206194013_ICOER02MAR20,0,<blank>,16384,def,0,utf8_unicode_ci
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,111,113,147,0,Dynamic,photos,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,157,158,104,0,Dynamic,research,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,jobs,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,114688,0,<blank>,<blank>,0,N,<blank>,1140,1141,100,0,Dynamic,faculty_profile,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,98304,0,<blank>,<blank>,0,N,<blank>,642,643,153,0,Dynamic,projects_guided,def
+0,2021-10-21 20:49:46,0,<blank>,0,<blank>,BASE TABLE,N,<blank>,InnoDB,0,<blank>,<blank>,Dynamic,10,lab_details,u206194013_ICOER02MAR20,1241,<blank>,81920,def,66,latin1_swedish_ci
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,196608,0,<blank>,<blank>,0,N,<blank>,887,888,221,0,Dynamic,publications,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,30,67,546,0,Dynamic,recruiters,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,slider,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,10,16,1638,0,Dynamic,testimonials_details,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,N,65536,0,10,<blank>,0,2021-10-28 06:38:53,<blank>,372,373,176,0,Dynamic,admission_enquiry,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,7,8,2340,0,Dynamic,department_cover_image,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,81920,0,<blank>,<blank>,0,N,<blank>,202,203,405,0,Dynamic,areaofinterest,def
+0,<blank>,InnoDB,<blank>,2021-10-25 12:06:22,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,1589248,0,<blank>,<blank>,0,N,<blank>,11453,11824,138,2097152,Dynamic,admission_enquiry1,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,N,16384,0,10,<blank>,0,2021-10-28 06:52:08,<blank>,0,2,0,0,Dynamic,view_count,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,2,3,8192,0,Dynamic,drives,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,drive_registration,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,2,14,8192,0,Dynamic,student_verification,def
+0,<blank>,InnoDB,<blank>,2021-10-25 12:06:22,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,N,2637824,0,10,<blank>,0,2021-10-28 05:01:26,<blank>,6905,6900,382,4194304,Dynamic,enquiry_entries,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,event_photos,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,0,1,0,0,Dynamic,extra_curricular_activities,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,latin1_swedish_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,146,147,112,0,Dynamic,otheractivities,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,49152,0,<blank>,<blank>,0,N,<blank>,124,221,396,0,Dynamic,department_wise_faculty_info,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,49152,0,<blank>,<blank>,0,N,<blank>,127,221,387,0,Dynamic,department_wise_faculty_info1,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,13,24,1260,0,Dynamic,news_ticker1,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,13,15,1260,0,Dynamic,news_ticker,def
+0,<blank>,InnoDB,<blank>,2021-10-21 20:49:46,utf8_unicode_ci,u206194013_ICOER02MAR20,BASE TABLE,10,16384,0,<blank>,<blank>,0,N,<blank>,5,10,3276,0,Dynamic,departmental_head_emails,def
+

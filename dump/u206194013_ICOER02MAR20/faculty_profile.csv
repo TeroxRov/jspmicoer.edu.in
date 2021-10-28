@@ -1,0 +1,1077 @@
+id,faculty_id,level,courses_taught,nooftimes_taught,innovations_achievements
+1,1,UG,Fluid Mechanics I & II,6,NIL
+2,1,UG,Dams and Hydraulic Structures,4,<blank>
+3,1,UG,Open Channel Flow.,3,<blank>
+4,1,UG,Hydrology Water Resources Engineering,3,<blank>
+5,1,UG,Environmental Engineering,2,<blank>
+6,1,UG,Transportation Engineering,2,<blank>
+7,1,UG,Engineering Mechanics,7,<blank>
+8,1,UG,Basic Civil & Environmental engineering,6,<blank>
+9,1,PG,Construction Technology,2,<blank>
+10,2,UG,Fluid Mechanics-I,<blank>,<blank>
+11,2,<blank>,Strength of material,<blank>,<blank>
+12,2,<blank>,Geotechnical Engineering Foundation engineering,<blank>,<blank>
+13,2,<blank>,surveying,<blank>,<blank>
+14,3,UG,Construction Management,5,<blank>
+15,3,UG,Surveying,10,<blank>
+16,3,UG,Advanced Surveying,5,<blank>
+17,3,UG,Infrastructure Engineering,3,<blank>
+18,4,UG,Engg. Mechanics,4,<blank>
+19,4,UG,Water Resources Engg.,10,<blank>
+20,4,UG,Transportation Engg,6,<blank>
+21,4,UG,Fluid Mechanics,10,<blank>
+22,4,UG,Quantity Surveying & Valuation,6,<blank>
+23,4,PG,Bridge Engineering,4,<blank>
+24,4,PG,Water Management,4,<blank>
+25,4,PG,Concrete Composits,4,<blank>
+26,5,UG ,FM I,8,<blank>
+27,5,UG ,FM II,9,<blank>
+28,5,UG ,DHS,3,<blank>
+29,5,UG ,HWRE,3,<blank>
+30,5,UG ,EM,2,<blank>
+31,5,UG ,TRE,1,<blank>
+32,6,UG,Construction management,5,<blank>
+33,6,UG,Architectural and Town Planning,2,<blank>
+34,6,UG,TQM & MIS In Civil Engineering,5,<blank>
+35,6,UG,Hydrology and water resource Engineering,1,<blank>
+36,6,UG,Project Management & Engineering Economics,1,<blank>
+37,6,PG,Operations Research,5,<blank>
+38,6,PG,Construction Technology,4,<blank>
+39,7,UG,Engineering Mechanics,5,<blank>
+40,7,UG,Structural analysis -I,2,<blank>
+41,7,UG,Structural analysis -II,2,<blank>
+42,7,UG,Structural Design-I,2,<blank>
+43,7,UG,Structural Design-I,2,<blank>
+44,7,UG,Structural Dynamics Engineering,2,<blank>
+45,8,UG,"Quantity surveying Contracts and tenders, ",4,<blank>
+46,8,UG,PMEE,3,<blank>
+47,8,UG,IECT,5,<blank>
+48,8,UG,Concrete Technology,2,<blank>
+49,8,PG,Contracts Management,4,<blank>
+50,9,UG ,Fluid Mechanics-I,7,<blank>
+51,9,UG ,Fluid Mechanics-II,7,<blank>
+52,9,UG ,Hydropower Engg.,4,<blank>
+53,10,UG ,GEOTECHNICAL ENGINEERING,7,<blank>
+54,10,UG ,FOUNDATION ENGINEERING,8,<blank>
+55,10,UG ,TRANSPORTATION(PRACT),3,<blank>
+56,10,UG ,TOM(PRACT),2,<blank>
+57,10,UG ,BTM(PRACT),2,<blank>
+58,10,UG ,SA-I (TUT),1,<blank>
+59,10,UG ,CT(PRACT),3,<blank>
+60,11,UG,Structural analysis -I,5,<blank>
+61,11,UG,Structural analysis -II,5,<blank>
+62,11,UG,SOM,2,<blank>
+63,11,UG,TPS,3,<blank>
+64,11,UG,SD3,2,<blank>
+65,11,PG,Structural Dynamics,4,<blank>
+66,12,UG ,Basic Civil,1,<blank>
+67,12,UG ,Building Technology,1,<blank>
+68,12,UG ,"Architectural planning and Design of building,",2,<blank>
+69,12,UG ,Transportation Engineering,4,<blank>
+70,12,UG ,Architecture and Town Planning,1,<blank>
+71,13,UG,Structural Analysis-I,4,<blank>
+72,13,UG,Structural Analysis-II,3,<blank>
+73,13,UG,Concrete Technology,2,<blank>
+74,13,UG,Dams and Hydraulics Structure,1,<blank>
+75,14,UG ," Engineering Geology, ",5,<blank>
+76,14,UG ,Soft Skill,2,<blank>
+77,14,UG ,Employabale skill,4,<blank>
+78,15,UG ,"Surveying,",7,<blank>
+79,15,UG ,Engineering Mechanics,2,<blank>
+80,15,UG,Dams and Hydraulic Structures,8,<blank>
+81,15,UG ,Strength of Materials,1,<blank>
+82,15,UG ,Hydrology and Water Resource Engineering,4,<blank>
+83,16,UG ,Engineering Mechanics,3,<blank>
+84,16,UG ,Structural Analysis-I,1,<blank>
+85,16,UG ,Structural Analysis-II,1,<blank>
+86,17,UG ,BTM,6,<blank>
+87,17,UG ,APDB,6,<blank>
+88,17,UG ,PMEE,4,<blank>
+89,17,UG ,QSCT,3,<blank>
+90,18,UG,Strength of Materials,3,<blank>
+91,18,UG,Concrete Technology,3,<blank>
+92,18,UG,Structural Design-I,3,<blank>
+93,18,UG,Structural Design-II,3,<blank>
+94,18,UG,Structural Design-III,3,<blank>
+95,18,UG,Theory of Elasticity,3,<blank>
+96,19,UG ,Structural Design-I,2,<blank>
+97,19,UG , Structural Design-II,3,<blank>
+98,19,UG ,Structural analysis-I,2,<blank>
+99,19,UG ,CT,2,<blank>
+100,19,UG ,Structural Design-III,2,<blank>
+101,19,UG ,Strength of Materials,2,<blank>
+102,19,UG ,Engineering Mechanics,1,<blank>
+103,19,UG ,Basic civil Engg.,1,<blank>
+104,20,UG ,ENV-1,2,<blank>
+105,20,UG ,Strength of material,2,<blank>
+106,20,UG ,Engineering Mechanics,5,<blank>
+107,20,UG ,Fluid Mechanics.,3,<blank>
+108,21,UG ,ADS,2,<blank>
+109,21,UG ,Engineering Geology,3,<blank>
+110,21,UG ,Strength of materials,1,<blank>
+111,21,UG ,SA-I (PRACT),1,<blank>
+112,21,UG ,ATP,2,<blank>
+113,21,UG ,SA-II,2,<blank>
+114,22,UG ,SA-I,3,<blank>
+115,22,UG ,SA-II,3,<blank>
+116,22,UG ,SD-I,3,<blank>
+117,22,UG ,SD-II,3,<blank>
+118,22,UG ,SD-III,3,<blank>
+119,22,UG ,"Engineering Mechanics,",3,<blank>
+120,22,UG ,SOM,1,<blank>
+121,22,UG ,FM-2,2,<blank>
+122,22,UG ,Foundation Engineering,2,<blank>
+123,23,UG ,Avanced surveying,4,<blank>
+124,23,UG ,Transportation Engineering,3,<blank>
+125,23,UG ,Surveying,2,<blank>
+126,24,UG ,Env. Engg. Part I,6,<blank>
+127,24,UG ,Env. Engg. Part II,7,<blank>
+128,24,UG ,"Architectural planning and design of Building,",3,<blank>
+129,24,UG ,CM,3,<blank>
+130,24,UG ,Irrigation Engineering,1,<blank>
+131,24,UG ,IECT,2,<blank>
+132,24,UG ,TQM and MS,1,<blank>
+133,25,UG ,DHS,1,<blank>
+134,25,UG ,HWRE,2,<blank>
+135,25,UG ,APC,2,<blank>
+136,25,UG ,EE-1 (PRACT),1,<blank>
+137,26,UG ,Foundation Engineering,1,<blank>
+138,26,UG ,HWRE,2,<blank>
+139,26,UG ,DHS,2,<blank>
+140,26,UG ,PMEE,1,<blank>
+141,26,UG ,Environmental Engg I & II,1,<blank>
+142,27,UG ,Engineering Mechanics,3,<blank>
+143,27,UG ,Design of Structure,1,<blank>
+144,28,UG ,"Hydropower Engineering,",2,<blank>
+145,28,UG ,Environmental Engg I & II,2,<blank>
+146,28,UG ,IECT,1,<blank>
+147,29,UG ,Structural Analysis-I,4,<blank>
+148,29,UG ,Structural Analysis-II,3,<blank>
+149,29,UG ,Foundation Engineering,4,<blank>
+150,29,UG ,GEOTECHNICAL ENGINEERING,4,<blank>
+151,29,UG ,Concrete Technology,2,<blank>
+152,29,UG ,SOM,1,<blank>
+153,29,UG ,TQM,1,<blank>
+154,30,UG ,ADS,1,<blank>
+155,30,UG ,ATP,1,<blank>
+156,30,UG ,CT,3,<blank>
+157,30,UG ,SD-III,2,<blank>
+158,30,UG ,SD-II,1,<blank>
+159,30,UG ,CM,1,<blank>
+160,30,UG ,SOM,2,<blank>
+161,30,UG ,FOUNDATION ENGINEERING,2,<blank>
+162,30,UG ,DHS,1,<blank>
+163,30,UG ,TQM,3,<blank>
+164,31,UG ,Foundation Engineering,3,<blank>
+165,31,UG ,HWRE,5,<blank>
+166,31,UG ,DHS,3,<blank>
+167,31,UG ,FM-I,4,<blank>
+168,31,UG ,FM-II,6,<blank>
+169,31,UG ,Geotecnical Engineering,2,<blank>
+170,31,UG ,Concreat Technology,2,<blank>
+171,32,UG ,"Basaic Civil & Environmental Engineering,",4,<blank>
+172,32,UG ,Concrete Technology,3,<blank>
+173,32,UG ,Environmental Engineering(PRACT),1,<blank>
+174,33,UG ,Architectural planning and design of Building,5,<blank>
+175,33,UG ,Building Technology and Materials,5,<blank>
+176,33,UG ,Construction Management,2,<blank>
+177,33,UG ,Surveying,1,<blank>
+178,33,UG ,Advance Surveying,1,<blank>
+179,34,UG ,Environmental Engineering,2,<blank>
+180,34,UG ,Geotechnical Engineering,2,<blank>
+181,34,UG ,Foundation Engineering,2,<blank>
+182,34,UG ,Transportation Engineering,1,<blank>
+183,34,UG ,Design of Concrete Structures II,1,<blank>
+184,34,UG ,Project Management,1,<blank>
+185,35,UG ,Structural Design-I,4,<blank>
+186,35,UG ,Structural Design-II,4,<blank>
+187,35,UG ,Structural analysis-I,1,<blank>
+188,35,UG ,CT,4,<blank>
+189,35,UG ,Structural Design-III,5,<blank>
+190,35,UG ,Engineering Mechanics,1,<blank>
+191,35,UG ,Basic civil Engg.,3,<blank>
+192,36,UG ,HWRE,2,<blank>
+193,37,<blank>,"Basic civil ,Mechanices, HWRE,ENV1,2 APDB",2,<blank>
+200,39,UG,Data Structers,3,<blank>
+201,39,UG,Digital Signal Processing,5,<blank>
+202,39,UG,Software Engineering,7,<blank>
+203,39,UG,Human Computer Interface and Usability,2,<blank>
+204,39,UG,Software Engg and Project Managament,4,<blank>
+205,40,PG,Research Methodology,4,<blank>
+206,40,UG,STC,2,<blank>
+207,40,<blank>,Advances in Algorithms,<blank>,<blank>
+208,40,<blank>,Operating Systems,<blank>,<blank>
+209,41,UG,Data Structures & Program Design,2,<blank>
+210,41,UG,Design & Analysis of Algorithms,2,<blank>
+211,41,"UG,PG",Distributed Operating Systems,4,<blank>
+212,41,UG,Operating Systems,3,<blank>
+213,41,UG,Business Analytics & Intelligence,1,<blank>
+214,41,PG,Advances in Algorithms,5,<blank>
+215,41,PG,Object Oriented Systems,5,<blank>
+216,41,PG,Real time Systems,2,<blank>
+217,42,UG,Systems Programming and Operating System,1,<blank>
+218,42,UG,Principles of Modern Compiler Design,2,<blank>
+219,42,UG,Cyber Security,2,<blank>
+220,42,UG,Operating System Administration,1,<blank>
+221,42,PG,Information Retrieval,3,<blank>
+222,42,UG,Theory of Computation,2,<blank>
+223,42,UG,Software Engineering,1,<blank>
+224,42,PG,Network Security,2,<blank>
+225,43,UG,Software Engineering,4,<blank>
+226,43,UG,Human Computer Interface and Usability,2,<blank>
+227,43,UG,Software Engg and Project Managament,2,<blank>
+228,43,UG,Software Modeling Deisgn,2,<blank>
+229,43,UG,Theory of Computation,4,<blank>
+230,43,UG,Object Oriented Modelling & Design,3,<blank>
+231,43,UG,Software Testing & Quality Asurance,2,<blank>
+232,44,UG,Digital electronics andligic design,9,<blank>
+233,44,UG,Microprocessor Architecture,3,<blank>
+234,44,UG,Computer Networks,4,<blank>
+235,44,UG,Distributed Systems,2,<blank>
+236,44,UG,Software Testing & quality Assurance,2,<blank>
+237,44,PG,NETWORK SECURITY,2,<blank>
+238,45,UG,Data maining techniques and applications,5,<blank>
+239,45,<blank>,AIR,2,<blank>
+240,45,UG,Software Engineering,1,<blank>
+241,46,UG,Database Management System,4,<blank>
+242,46,UG,Software Modeling Deisgn,2,<blank>
+243,46,UG,Advanced Database,2,<blank>
+244,46,UG,Principle of Programming lauguage,1,<blank>
+245,46,UG,Information retrieval,2,<blank>
+246,47,UG,High Performance Computing,2,<blank>
+247,47,UG,ISEE,2,<blank>
+248,47,UG,Computer Graphics,1,<blank>
+249,47,UG,Database Management System,3,<blank>
+250,47,UG,System programming and operating systems,2,<blank>
+251,47,UG,Fundamentals of Programming Language - I,2,<blank>
+252,47,PG,Network security,1,<blank>
+253,48,UG,Distributed Systems,1,<blank>
+254,48,UG,Fundamentals of Programming Language - I,2,<blank>
+255,48,UG,Data Structure & Algorithms,1,<blank>
+256,48,UG,Advaced Computer Architecture,1,<blank>
+257,48,UG,Mobile Computing,1,<blank>
+258,48,UG,Principles of compiler and Distributed Programming,2,<blank>
+259,48,UG,Pervasive Computing,2,<blank>
+260,48,UG,Advanced Database System,1,<blank>
+261,49,UG,Microprocessor Architecture,3,<blank>
+262,49,UG,Embedded Operating System,3,<blank>
+263,49,UG,Microprocessor,2,<blank>
+264,49,UG,Microprocessor and Interfacing Technique,3,<blank>
+265,49,UG,Distributed Operating Systems,1,<blank>
+266,49,UG,Fundamentals of Programming Language - I,1,<blank>
+267,49,UG,Data Structure LAB,1,<blank>
+268,49,UG,Computer Organization and Architecture,1,<blank>
+269,49,UG,Embedded Systems & Internet of Things Lab,1,<blank>
+278,51,UG,System Programming & Operating System,1,<blank>
+279,51,UG,Design & Analysis of Algorithms,2,<blank>
+280,51,UG,Operating System Design,1,<blank>
+281,51,UG,Software Engineering,2,<blank>
+282,51,UG,Cyber Security,1,<blank>
+283,51,UG,Skill Development Laboratory,1,<blank>
+284,51,UG,Soft Skills,3,<blank>
+285,51,UG,Object Oriented Programming Laboratory,1,<blank>
+286,51,UG,Microprocessor Interfacing & Technologies Lab,2,<blank>
+287,52,UG,Design & Analysis of Algorithm,4,<blank>
+288,52,UG,Digital Signal Processing And Application,3,<blank>
+289,52,UG,Data Structure & Algorithms,2,<blank>
+290,52,UG,Advanced Data Structure,1,<blank>
+291,52,UG,Soft Skills,1,<blank>
+292,52,UG,Data Structure LAB,1,<blank>
+293,52,UG,Microprocessor Lab,1,<blank>
+294,53,UG,Software Design Methodologies & Testing,3,<blank>
+295,53,UG,Smart System Design & Applications,3,<blank>
+296,53,UG,Principles of Programming Language,1,<blank>
+297,53,UG,Computer Networks,1,<blank>
+298,53,UG,Advaced Computer Architecture,1,<blank>
+299,53,UG,Software Testing & quality Assurance,1,<blank>
+300,53,UG,Computer Organization,1,<blank>
+301,53,UG,Digital Electronics & logic Design,1,<blank>
+302,54,UG,Principles of ccompiler design,6,<blank>
+303,54,UG,Data Structures and Algorithms,2,<blank>
+304,54,UG,System Programming & Operating System,1,<blank>
+305,54,UG,Advanced Data Structures,1,<blank>
+306,54,UG,Design & Analysis of Algorithms,1,<blank>
+307,54,UG,Cyber Security,2,<blank>
+308,54,UG,Computer grapics and gamming,1,<blank>
+309,55,UG,Database Management System,4,<blank>
+310,55,UG,Digital Signal Processing And Application,2,<blank>
+311,55,UG,Ciber Security,1,<blank>
+312,55,UG,Digital Electronics & logic Design,1,<blank>
+313,55,UG,Machine Learning,1,<blank>
+314,56,UG,Data maining techniques and applications,3,<blank>
+315,56,UG,Big Data and Data Analytics,1,<blank>
+316,56,UG,Business analytics and intelligence,2,<blank>
+317,56,UG,Object oriented programming,2,<blank>
+318,56,UG,Programming methadologies,2,<blank>
+319,57,UG,Pervasive computing,1,<blank>
+320,57,UG,Cyber forensics and computer applications,2,<blank>
+321,57,UG,Computer organization,1,<blank>
+322,57,UG,Principles of compiler and Distributed Programming,2,<blank>
+323,57,UG,Principles of programming language,2,<blank>
+324,57,UG,Object Oriented Programming Language,1,<blank>
+325,58,UG,EMBEDED SYSTEMS AND INTERNET OF THINGS,1,NA
+326,58,UG,HIGH PERFORMANCE COMPUTING,2,<blank>
+327,58,UG,PERVASIVE COMPUTING,2,<blank>
+328,58,UG,DISTRIBUTED SYSTEM,1,<blank>
+329,58,UG,INFORMATION AND CYBER SECURITY,1,<blank>
+330,58,UG,COMPUTER NETWORKS,2,<blank>
+331,58,UG,BUSINESS ANALYSIS AND INTELLIGENCE,1,<blank>
+339,60,UG,Object oriented Programming,2,<blank>
+340,60,UG,Operating System,2,<blank>
+341,60,UG,Information Systems & Engineering Economics,3,<blank>
+342,61,UG,information security,1,<blank>
+343,61,UG,informatiron storage retrieval,3,<blank>
+344,61,UG,discrite structure,2,<blank>
+345,61,UG,multimedia tehchnology,2,<blank>
+346,61,UG,information technology and project managenmnet,2,<blank>
+347,61,UG,digital electronics and logic design,2,<blank>
+348,61,UG,compter networking,1,<blank>
+349,62,UG,Object oriented Programming,3,<blank>
+350,62,UG,Operating System,2,<blank>
+351,62,UG,Software Engineering and Project Management,3,<blank>
+352,62,UG,Numerical Computing,3,<blank>
+353,62,UG,Software Testing,2,<blank>
+354,62,UG,Operating System and Design,1,<blank>
+355,62,UG,Mobile Computing,1,<blank>
+356,62,UG,Cyber System Security,3,<blank>
+357,62,UG,Information Cyber Security,2,<blank>
+358,62,UG,Ethics in IT,3,<blank>
+359,62,UG,Data Analytics,1,<blank>
+360,63,Intelligent Color identification Color approach for child,Signals and systems : 5,UG,<blank>
+361,63,<blank>,Linear Integreted Circuits.:5,UG,<blank>
+362,63,<blank>,Optical Fiber Communication:4,UG,<blank>
+363,63,<blank>,Linear Circuits.:6,UG,<blank>
+364,63,<blank>,Analaong comunication :7,UG,<blank>
+365,63,<blank>,Audio Video Engineering-2,UG,<blank>
+366,63,<blank>,Digital Communication :6,UG,<blank>
+367,64,<blank>,Digital Electronics :20,UG,<blank>
+368,64,<blank>,Integrated Circuits:10,UG,<blank>
+369,64,<blank>,Digital Signal Processing:10,UG,<blank>
+370,64,<blank>,Mathematics for Signal Processing:05,PG,<blank>
+371,64,<blank>,Image Processing and Analysis:05,PG,<blank>
+372,65,<blank>,Network Analysis(NA):8,UG,<blank>
+373,65,<blank>,Analog Communication(AC): 8,UG,<blank>
+374,65,<blank>,Electromagnetics & Transmission Lines(EMTL):6,UG,<blank>
+375,65,<blank>,Management(DM):4,UG,<blank>
+376,65,<blank>,Digital Communication(DC):4,UG,<blank>
+377,65,<blank>,Mobile Communication(MC):10,UG,<blank>
+378,65,<blank>,Antenna Wave Propagation(AWP):4,UG,<blank>
+379,65,<blank>,Audio Video Engineering (AVE):4,UG,<blank>
+380,65,<blank>,Research Methodology(RM):4 Disaster,PG,<blank>
+381,66,Two patents filed1. water comtamination dtection and measurement 2. Intelligent Color identification Color approach for child,Digital Signal Processing(DSP): 3,UG,<blank>
+382,66,<blank>,Digital Image Processing(DIP):2,UG,<blank>
+383,66,<blank>,Business Management(BM):1,UG,<blank>
+384,66,<blank>,"Fuzzy maths, Research methodology:2",PhD,<blank>
+385,66,<blank>,Mechatronics:2,UG,<blank>
+386,66,<blank>,Biomedical Electronics-1,UG,<blank>
+387,66,<blank>,"Artificial intelligence-1,",UG,<blank>
+388,66,<blank>,"Advanced Digital Signal Processing,",UG,<blank>
+389,66,<blank>,"Transdicer Design, Research Methodology",PhD,<blank>
+390,66,<blank>,Computer Techniques and Applications-2,PhD,<blank>
+391,66,<blank>,Proces Automation,PhD,<blank>
+392,66,<blank>,Audio-Video Engineering-1,UG,<blank>
+393,67,<blank>,Electronic Measurement & Instrumentation.,UG,<blank>
+394,67,<blank>,Digital Electronics:1,UG,<blank>
+395,67,<blank>,Basic Electronics:2,UG,<blank>
+396,67,<blank>,Audio Video Engineering:2,UG,<blank>
+397,68,<blank>,Mobile Communication:3,UG,<blank>
+398,68,<blank>,Electronic Devices & Circuits:2,UG,<blank>
+399,68,<blank>,Linear Control Systems:3,UG,<blank>
+400,68,<blank>,Computer Networks:3,UG,<blank>
+401,68,<blank>,Network Theory:5,UG,<blank>
+402,68,<blank>,Computer Organisation & Architecture:2,UG,<blank>
+403,68,<blank>,Microwave Engineering:1,UG,<blank>
+404,68,<blank>,Embedded Processors:1,UG,<blank>
+405,68,<blank>,Digital Image Processing:3,UG,<blank>
+406,68,<blank>,Microcontrollers:3,UG,<blank>
+407,69,Recorded Course INTEGRATED CIRCUITS for TMSOnline,Digital Signal Processing [DSP]: 05 D,UG,<blank>
+408,69,<blank>,Power Devices &Machines[PDM]: 03,UG,<blank>
+409,69,<blank>,Power Electronics [PE]: 02,UG,<blank>
+410,69,<blank>,Basic Electronics Engg[BEE]: 05 ,UG,<blank>
+411,69,<blank>,Semiconductor Devices &Circuits[SDC]: 01,UG,<blank>
+412,69,<blank>,Integrated Circuits & Applications [ICA]: 04,UG,<blank>
+413,69,<blank>,Integrated Circuits [IC]: 05,UG,<blank>
+414,69,<blank>,Signals and Systems [SS]: 03,UG,<blank>
+415,69,<blank>,Signal Processing Techniques [SPT]: 05,UG,<blank>
+416,69,<blank>,Advanced DSP [ADSP]: 01,UG,<blank>
+417,70,<blank>,"Antenna & Wave Propagation (AWP):3,",UG,<blank>
+418,70,<blank>,"Analog Communication (AC):2,",UG,<blank>
+419,70,<blank>,"Digital Communication (DC):4,",UG,<blank>
+420,70,<blank>,"Digital Electronics(DE):1,",UG,<blank>
+421,70,<blank>,"VLSI Design & Technology (VLSI):3,",UG,<blank>
+422,70,<blank>,"Speech Signal Processing (SSP):4,",UG,<blank>
+423,70,<blank>,"Mixed Signal Processing (MSP):5,",UG,<blank>
+424,70,<blank>,Telecommunication Switching Systems(TSS):1,UG,<blank>
+425,70,<blank>,Priciples of Communication Engineerng(PCE):1,PG,<blank>
+426,70,<blank>,Radiation & Microwave Techniques(RMT):01,UG,<blank>
+427,70,<blank>,"Signals & System (SS):1,",UG,<blank>
+428,71,NA,Digital Signal Processing,UG,<blank>
+429,71,<blank>,Audio Video Engineering (AVE):4,UG,<blank>
+430,71,<blank>,Digital image procesing :5,UG,<blank>
+431,71,<blank>,Electronic Devices & Circuits[EDC ]: 6 \n   ,UG,<blank>
+432,71,<blank>,Integrated circuits[IC]:7,UG,<blank>
+433,71,<blank>,Advanced Digital Signal Processing[ADSP]:5,PG,<blank>
+434,71,<blank>,Image & video Compression techniques:05,PG,<blank>
+435,71,<blank>,Networks analysis[NA]:6,<blank>,<blank>
+436,72,Working on Compact Multiband Antenna for Ambient RF Energy Harvesting.,Antenna & Wave Propagation [AWP]:4 \n,UG,<blank>
+437,72,<blank>,Optical Fiber Communication [OFC]:3 ,UG,<blank>
+438,72,<blank>,Data Structure & Algorithm [DSA]:4 ,UG,<blank>
+439,72,<blank>,Microwave Engineering [MWE]:5,UG,<blank>
+440,72,<blank>,Data Science & Analytics [DS&A]:1,UG,<blank>
+441,72,<blank>,Electronics Product Design [EPD]:2 ,UG,<blank>
+442,72,<blank>,Wave Theory & Antenna [WTA]:4,UG,<blank>
+443,72,<blank>,Broadband Communication Systems [BCS]:2,UG,<blank>
+444,72,<blank>,Fundamental of Programming Language-II [FPL-II]:1,UG,<blank>
+445,73,NA,Electronic Devices & Circuits[EDC 2012C]: 6 \n   ,UG,<blank>
+446,73,<blank>,Semiconductor Devices & Circuits[SDC]:5,UG,<blank>
+447,73,<blank>,Electronics Measurement & Instrument Tools[EMIT]:2,UG,<blank>
+448,73,<blank>,Electronic Devices & Circuits[EDC 2015C]: 2,UG,<blank>
+449,73,<blank>,Power Electronics [PE 2012C]:2,UG,<blank>
+450,73,<blank>,Power Electronics [PE 2015C]:2,UG,<blank>
+451,73,<blank>,Computer Organisation[CO]:1,UG,<blank>
+452,74,NA,"Digital Electronics-6, \n",UG\n,<blank>
+453,74,<blank>," Analog Communication-3,\n",UG,<blank>
+454,74,<blank>,"computer network-2,",UG,<blank>
+455,74,<blank>,"Basic Electronics -5,",UG,<blank>
+456,74,<blank>,Integrated Circuits-3,UG,<blank>
+457,75,<blank>,"Nano Electronics and MEMS [NEMS],",UG,<blank>
+458,75,<blank>,"Electronics Product Design [EPD],",UG,<blank>
+459,75,<blank>,"Signals and Systems [SS],",UG,<blank>
+460,75,<blank>,Business Management,UG,<blank>
+463,77,<blank>,Digital Electronics[DE] :2,UG\n,<blank>
+464,77,<blank>,Object oriented programming[OOPS]:2,UG\n,<blank>
+465,77,<blank>,System Programming and Operating System[SPOS]:2 ,UG\n,<blank>
+466,77,<blank>,Industrial Management[IM] :2,UG\n,<blank>
+467,78,<blank>,Information & coding Technique[ITCT] :2,UG\n,<blank>
+468,78,<blank>,Digital Image Processing[DIP]:1,UG\n,<blank>
+469,78,<blank>,Embedded System & RTOS[ES & RTOS]:2,UG\n,<blank>
+470,78,<blank>,Audio Video Engineering[AVE] :3,UG\n,<blank>
+471,78,<blank>,Data Science and Analytics[DSA]:1,UG\n,<blank>
+472,79,<blank>,Data Structure & Algorithms[DSA] : 4,UG,<blank>
+473,79,<blank>,Mobile Communication[MC] : 1,UG,<blank>
+474,79,<blank>,Computer Organization[CO]:1,UG,<blank>
+475,79,<blank>,Object oriented programming[OOPS]:1,UG,<blank>
+476,79,<blank>,Fundamentals of Programmimng Language I[FPL I] :1,UG,<blank>
+477,79,<blank>,Fundamentals of Programmimng Language II[FPL II]:1,UG,<blank>
+478,80,<blank>,Digital Signal Processing[DSP] :3,UG,<blank>
+479,80,<blank>,Information & coding Technique[ITCT]:3,UG,<blank>
+480,80,<blank>,Optical Fiber Communication(OFC):1,UG,<blank>
+481,80,NA,Digital Communication(DC):1,UG\n \n ,<blank>
+482,81,<blank>,Digital Electronics[DE]: 3,UG,<blank>
+483,81,<blank>,VLSI Design and Technology: 3,UG,<blank>
+484,81,<blank>,Mobile Communication : 1,UG,<blank>
+485,81,<blank>,Embedded Processors[EP]:3,UG,<blank>
+486,81,<blank>,Internet of Things[IOT]: 1,UG,<blank>
+487,81,<blank>,Fundamental Programming language II[FPL II]: 1,UG,<blank>
+488,81,<blank>,Advanced Processors(AP):1,UG,<blank>
+489,82,<blank>,Microcontroller & Applications (MCA): 3,UG,<blank>
+490,82,<blank>,Microcontrollers ( MIC): 2,UG,<blank>
+491,82,<blank>,Embedded Processors[EP] : 3,UG,<blank>
+492,82,<blank>,Advanced Processors (AP): 2,UG,<blank>
+493,83,<blank>,Signals and systems[SS]: 3,UG,<blank>
+494,83,<blank>,Electromagnetics and Transmission Line(EMTL):2,UG,<blank>
+495,83,<blank>,Broadband Communication Systems[BCS]:3,UG,<blank>
+496,83,<blank>,Object oriented programming[OOPS]:1,UG,<blank>
+497,84,<blank>,Control System[CS]:2,UG,<blank>
+498,84,<blank>,Microcontrollers[MA]:1,UG,<blank>
+499,84,<blank>,Electrical and Electronics Engineering[EEE]:4,UG,<blank>
+500,84,<blank>,Electronics System Design[ESD]:3,UG,<blank>
+501,84,<blank>,VLSI Design and Technology(VLSI):2,UG,<blank>
+502,85,<blank>,Electronics Devices & circuits (EDC) :2,UG,<blank>
+503,85,<blank>,Digital Electronics :4,UG,<blank>
+504,85,<blank>,Computer Network :4,UG,<blank>
+505,85,<blank>,Information Theory Coding and Communication network :2,UG,<blank>
+506,85,<blank>,Analog Communication:2,UG,<blank>
+507,85,<blank>,Digital communication : 1,UG,<blank>
+508,86,<blank>,Mechatronics :2,UG,<blank>
+509,86,<blank>,Electrical and ElectronicsEngineering[EEE] :3,UG,<blank>
+510,86,<blank>,Digital Electronics[DE] : 4,UG,<blank>
+511,86,<blank>,Basic Electronic Engg[BEE]:2,UG,<blank>
+512,86,<blank>,Industrial Management[IM]:3,UG,<blank>
+513,86,<blank>,Electronics Measurement & Instrument Tools[EMIT]:3,UG,<blank>
+514,87,<blank>,VLSI Design and Technology(VLSI):2,UG,<blank>
+515,88,PG,Research Methodology,3,NIL
+516,88,PG,Memory Organization,2,NIL
+517,88,UG,Basic Electronics Engineering,3,NIL
+518,88,UG,Soft Skills,2,NIL
+519,88,UG,Power Electronics,3,NIL
+520,88,UG,Power Electronics-I,3,NIL
+521,88,UG,Power Electronics-II,3,NIL
+522,88,UG,Television Engineering,4,NIL
+523,88,UG,Audio Video Engg.,5,NIL
+524,88,UG,Electronics products Deign,3,NIL
+525,88,UG,Network Theory,4,NIL
+526,88,UG,Digital Electronics,5,NIL
+527,88,UG,Basic Electronics & Electronics Engineering,4,NIL
+528,88,UG,Process Control System,6,NIL
+529,88,UG,Industrial Electronics,5,NIL
+530,88,UG,Industrial drives and Controls,4,NIL
+531,88,UG,process Instrumentation,2,NIL
+532,88,UG,Arificial Intelligence,3,NIL
+533,88,UG,Communication Systems,4,NIL
+534,89,UG,Applied Science-I,19,NIL
+535,89,UG,Applied Science-II,19,NIL
+536,89,UG,Engineering Physics,10,NIL
+537,90,UG,Applied Science-I ,8,NIL
+538,90,UG,Applied Science-II,8,NIL
+539,90,UG,Engineering Physics,12,NIL
+540,91,UG,Engineering Chemistry,3,NIL
+541,92,UG,Engineering Mathematics - I ,1,NIL
+542,92,UG,Engineering Mathematics - II,1,NIL
+543,93,UG,BASIC ELECTRICAL ENGG.,20,NIL
+544,94,UG,Basic Electrical Engg,15,NIL
+545,94,UG,Basic Electronics Engg,2,NIL
+546,94,UG,Electrical and Electronics engg,3,NIL
+547,94,UG,Electrical Circuits and Machines,2,NIL
+548,95,UG,Basic Electrical Engineering,14,NIL
+549,95,UG,Basic Electronics Engineering,2,NIL
+550,95,UG, Electrical and electronics engg,3,NIL
+551,96,UG,ENGG.CHEMISTRY,13,NIL
+552,97,UG,Applied Science-I ,1,NIL
+553,97,UG,Applied Science-II ,1,NIL
+554,97,UG,Engineering Physics,15,NIL
+555,98,UG,Engineering Mathematics - I ,4,NIL
+556,98,UG,Engineering Mathematics - II,4,NIL
+557,98,UG,Engineering Mathematics - III,8,NIL
+558,99,"UG, PG",Image & video Compression techniques:05,2,NIL
+559,99,UG,Networks analysis[NA]:6,3,NIL
+560,99,UG,DISCREATE MATHEMATICS,2,NIL
+561,99,UG,Optimization Techniques,3,NIL
+562,99,UG,Probability and Combinatorics,3,NIL
+563,99,UG,Application of statistical methods in Civil Engg,4,NIL
+564,99,UG,Advanced mathematics,1,NIL
+565,99,UG,Statistical quantative methods,3,NIL
+566,100,UG,Engineering Mathematics - I,6,NIL
+567,100,UG,Engineering Mathematics - II,6,NIL
+568,100,UG,Engineering Mathematics - III,8,NIL
+569,101,UG,Engineering Chemistry(Physical Chemistry),11,NIL
+570,102,UG,Engineering Mathematics-I,4,NIL
+571,102,UG,Engineering Mathematics-II,6,NIL
+572,102,UG,Engineering Mathematics-III,10,NIL
+573,102,UG, Computer Oriented Numerical Methods,1,NIL
+574,103,UG,Engineering Mathematics - I,2,NIL
+575,104,UG,Engineering Mathematics-I,2,NIL
+576,104,UG,Engineering Mathematics-II,2,NIL
+577,104,UG,Engineering Mathematics-III,2,NIL
+578,105,UG,Engineering Mathematics-I,2,NIL
+579,105,UG,Engineering Mathematics-II,2,NIL
+580,105,UG,Engineering Mathematics-III,2,NIL
+581,106,"UG, PG",Computer Architecture and Organization,2,NIL
+582,106,UG,C Programming,1,NIL
+583,106,UG,Fundamentals of Programming Languages-II,1,NIL
+584,106,UG,Cloud Computing,1,NIL
+585,106,UG,Storage Area Networks,1,NIL
+586,106,UG,Adhoc Networks,1,NIL
+587,107,UG,Basic Electronics Engineering,5,NIL
+588,107,UG,Digital Signal Processing,5,NIL
+589,107,UG,Audio Video Engineering (AVE),4,NIL
+590,107,UG,Digital image procesing :5,5,NIL
+591,107,UG,Electronic Devices & Circuits[EDC ]\n   ,6,NIL
+592,107,UG,Integrated circuits[IC],7,NIL
+593,107,UG,Advanced Digital Signal Processing[ADSP],5,NIL
+594,108,UG,Digital Electronics,4,NIL
+595,108,UG,Computer Network,2,NIL
+596,108,UG,Analog Communication,3,NIL
+597,108,UG,Integrated Circuit,2,NIL
+598,108,UG,Basic Electronics Engineering,4,NIL
+599,109,UG,Basic Electrical Engg.,2,NIL
+600,109,UG,Electrical and Electronics engg,3,NIL
+601,109,UG,Electrical Circuits and Machines,1,NIL
+602,109,UG,Digital Signal Procesing,2,NIL
+603,109,UG,Control system,1,NIL
+604,110,"UG, PG","Engg Mechanics,",3,NIL
+605,110,UG,Strength of Material,3,NIL
+606,110,UG,Structural Analysis-I,4,NIL
+607,110,UG,Structural Analysis-II,5,NIL
+608,110,UG,RCC Design and Steel Design,2,NIL
+609,110,UG,Bridge Design,2,NIL
+610,110,UG,Basic Civil & Environmental Engg.,4,NIL
+611,111,UG,Engineering Graphics,5,NIL
+612,111,UG,SOM-Strength of Material,2,NIL
+613,111,UG,BCEE-Basic Civil & Environmental Engg.,3,NIL
+614,111,UG,FM-Fluid Mechanics,2,NIL
+615,111,UG,EE-Environmental Engg.,2,NIL
+616,112,UG,Basic Civil & Environmental Engg.,6,NIL
+617,112,UG,Engineering Mechanics,7,NIL
+618,112,UG,Structure Design-I,1,NIL
+619,113,UG,Structural Analysis-I,1,NIL
+620,113,UG,"Engg Mechanics,",3,NIL
+621,113,UG,Strength of Material,1,NIL
+622,113,UG,Basic Civil & Environmental Engg.,1,NIL
+623,114,UG,Heat Transfer,3,NIL
+624,114,UG,Turbo Machines,2,NIL
+625,114,UG,Hydraulics & Pneumatics,3,NIL
+626,114,UG,Applied Thermodynamics,2,NIL
+627,114,UG,Advanced Thermodynamics,1,NIL
+628,114,UG,Basic Mechanical Engineering,1,NIL
+629,114,UG,Refrigeration & Airconditioning,1,NIL
+630,115,UG,DOM-Dynamics of Machinery,3,NIL
+631,115,UG,MSD-Mechnical System Design,2,NIL
+632,115,UG,BME-Basic Mechnical Engineering,1,NIL
+650,118,"UG, PG",Heat Transfer,3,NIL
+651,118,UG,TurboMachines,2,NIL
+652,118,UG,Hydraulics & Pneumatics,2,NIL
+653,118,UG,Applied Thermodynamics,2,NIL
+654,118,UG,Advanced Thermodynamics,1,NIL
+655,118,UG,Material Science,1,NIL
+656,118,UG,Basic Mechanical Engineering,2,NIL
+657,118,UG,Refrigeration & Airconditioning,1,NIL
+658,119,UG,Basic Mechanical Engineering,2,NIL
+659,119,UG,Engineering Graphics,1,NIL
+660,119,UG, Theory of machine-I,1,NIL
+661,119,UG, Theory of machine-II,1,NIL
+662,119,UG,Dynamics of Mechanism,4,NIL
+663,119,UG,Mechanical System Design,1,NIL
+664,119,UG,Material Science,1,NIL
+665,120,UG,Engineering Mathematics - I,2,NIL
+666,120,UG,Engineering Mathematics - II,2,NIL
+667,121,UG,Fuundamental of Programming Language-I,1,NIL
+668,121,UG,Fundamental of Programming Language-II,1,NIL
+669,122,UG\n\n\n,Operation Research Techniques\n\n,10\n,<blank>
+670,122,UG,Quality and Reliability Engineering,6,<blank>
+671,122,UG,Total Quality Management,4,<blank>
+672,122,UG,Engineering Drawing,4,<blank>
+673,122,UG,Industrial Product Design,4,<blank>
+674,122,UG,Mechanical Measurement & Metrology,6,<blank>
+675,122,UG,Elements of Mechanical Engineering,1,<blank>
+676,122,UG,Engineering Mechanics,2,<blank>
+677,122,UG,Industrial Engineering & Technology Management,2,<blank>
+678,122,UG,Reliability Engineering,4,<blank>
+679,122,UG,Material Science,1,<blank>
+680,122,UG,Strength of Material,4,<blank>
+681,122,UG,Dynamics of Machines,4,<blank>
+682,122,UG,Advanced Mechanical Vibrations,2,<blank>
+683,122,UG,Optimization Techniques,2,<blank>
+684,122,PG,Vehicle Dynamics,1,<blank>
+685,123,PG,Operation Research\n,3\n3\n2\n4\n4\n4\n3\n2,<blank>
+686,123,UG,Numerical Methods and Optimization,3,<blank>
+687,123,UG,Metrology and Quality Control,2,<blank>
+688,123,UG,Design of Machine Elements,4,<blank>
+689,123,UG,Optimization Techniques,4,<blank>
+690,123,UG,Machine Tool Design,4,<blank>
+691,123,UG,Research Methodology,3,<blank>
+692,123,UG,Metullargy,2,<blank>
+693,124,UG,Heat Transfer\n,12\n,<blank>
+694,124,UG,Applied Thermodynamics,10,<blank>
+695,124,UG,Power Plant Engineering,1,<blank>
+696,124,UG,CAD CAM ,1,<blank>
+697,124,UG,Industrial Hydraulic and Pneumatic,2,<blank>
+698,124,UG,Numerical Methods and Optimization,6,<blank>
+699,124,UG,Geometrical Modeling,1,<blank>
+700,124,UG,Machine Drawing and Computer Graphics,2,<blank>
+701,124,PG,Research Methodology,1,<blank>
+702,124,PG,Tribology,2,<blank>
+703,125,UG\n,Finite Element Analysis\n\n                                                                      ,3\n\n,<blank>
+704,125,UG,Manufacturing Process II ,1,<blank>
+705,125,UG,Mechatronics,1,<blank>
+706,125,UG,Theory of Machines I,1,<blank>
+707,125,UG,Elements of Mechanical Engineering,2,<blank>
+708,126,UG\n,Design of Machine Element-I\n\n,5\n,<blank>
+709,126,UG\n,Design of Machine Element-II,5,<blank>
+710,126,UG\n,Advanced Stress Analysis,4,<blank>
+711,126,UG\n,Theory of Machines-I,4,<blank>
+712,126,UG\n,Theory of Machines-II,5,<blank>
+713,126,UG\n,Basic Mechanical Engineering,4,<blank>
+714,127,UG\n\n,Fluid Mechanics\n,7\n,"Learning Material, Online Quiz"
+715,127,PG,Advanced Fluid Mechanics,2,<blank>
+716,127,UG,Turbo Machines,7,<blank>
+717,127,UG,Thermodynamics,2,<blank>
+718,127,UG,Metallurgy,2,<blank>
+719,127,UG,Manufacturing Processes,2,<blank>
+720,127,UG,Engineering Graphics,3,<blank>
+721,127,UG,CAD/CAM/CIM,2,<blank>
+722,128,UG\n,Manufacturing Process I\n,20\n,"Project Sponsored by Karnataka State Council For Science and Technology, Bangalore. Won the prize "
+723,128,UG,Manufacturing Process II,20,<blank>
+724,128,UG,Production Planning and Control,8,<blank>
+725,128,UG,Materials Management ,10,<blank>
+726,128,UG,Operations management,10,<blank>
+727,128,UG,Management Information Systems,10,<blank>
+728,128,UG,Organisational Behaviour,15,<blank>
+729,128,UG,Project Management,10,<blank>
+730,128,PG,Advance Manufacturing Process ,10,<blank>
+739,130,UG\n,Power Plant Engineering\n,4\n,<blank>
+740,130,UG,Energy Audit and Management ,3,<blank>
+741,130,UG,Applied Thermodynamics ,2,<blank>
+742,130,UG,Automobile Engineering,3,<blank>
+743,130,UG,Industrial Fluid Power ,1,<blank>
+744,130,UG,Manufacturing Processes ,1,<blank>
+745,130,UG,Advanced Air conditioning and Refrigeration ,1,<blank>
+746,130,PG,Advanced Heat Transfer,1,<blank>
+747,130,UG,Energy Engineering,1,<blank>
+748,131,UG,CAD/CAM and Automation\n\n,6\n\n,Learning Material
+749,131,UG, Design of Machine Elements-II,1,<blank>
+750,131,UG,Mechanical System Drawing,2,<blank>
+751,131,UG,Production Technology,1,<blank>
+752,131,UG,Theory of Machines - I,1,<blank>
+753,131,UG,Meterology and Quality Control,1,<blank>
+754,131,UG,Geometric Modeling ,2,<blank>
+755,131,UG,Numerical Methods and Optimization,1,<blank>
+756,132,UG\n,Engineering Graphics-I\n\n,3\n\n\n,<blank>
+757,132,UG,Engineering Graphics-II,4,<blank>
+758,132,UG,Manufacturing Processes-I,2,<blank>
+759,132,UG,Energy Audit and Management,3,<blank>
+760,132,UG,Computer Oriented Numerical Method,1,<blank>
+761,132,UG,Heat Transfer,3,<blank>
+762,132,UG,Turbo Machines,2,<blank>
+763,132,UG,Numerical Methods And Optimization,4,<blank>
+764,132,PG,Advanced Heat Transfer,2,<blank>
+765,132,PG,Advanced Thermodynamics,1,<blank>
+766,132,PG,Advanced Mathematical Model,2,<blank>
+767,133,UG\n,Design of machine element -II\n,3\n,Fabricated joints for the folding bicycle based on the concepts of theory of machines
+768,133,UG,Design of machine element -I,5,<blank>
+769,133,UG,Engineering Graphics,2,<blank>
+770,133,UG,Strength of material,5,<blank>
+771,133,UG,Material Science,1,<blank>
+772,133,UG,Manufacturing Processes-I,2,<blank>
+773,133,UG,Manufacturing Processes-II,2,<blank>
+774,134,UG\n,Refrigeration & air conditioning\n,3\n,Developed models based vapor absorption cycle
+775,134,UG,Heat transfer,2,<blank>
+776,134,UG,Power plant engg,2,<blank>
+777,134,UG,Turbo machinery,1,<blank>
+778,135,UG\n,Industrial Engineering and Techonology Management\n,1\n,<blank>
+779,135,UG,Design of machine element -I,3,<blank>
+780,135,UG,Engineering Graphics,3,<blank>
+781,135,UG,Mechanical System Design,2,<blank>
+782,135,UG,Strength of material,6,<blank>
+783,135,UG,Dynamics of Machinery,1,<blank>
+784,135,UG,Computer Aided Machine Drawing,1,<blank>
+785,135,UG,Quantitative Techniques,1,<blank>
+786,135,UG,Basic Mechanical Engineering,3,<blank>
+787,136,UG\n,Machine drawing and computer\n,2\n,<blank>
+788,136,UG,Thermodynamics,4,<blank>
+789,136,UG,Applied themodynamics,5,<blank>
+790,136,UG,Power Plant Engineering,3,<blank>
+791,136,UG,Refrigeration and air conditioning,1,<blank>
+792,136,<blank>,Production Technology,<blank>,<blank>
+793,137,UG\n,Power Plant Engineering\n                                                                                                                                                                                                                                                  ,2\n\n\n,Learning Material
+794,137,UG,Heat Transfer,2,<blank>
+795,137,UG,Thermodynamics ,2,<blank>
+796,137,UG,Refrigeration & air Conditioning,2,<blank>
+797,137,UG,Turbo Machinery                                                     ,1,<blank>
+798,138,UG\n,Fluid Mechanics\n,2\n,<blank>
+799,138,UG,Thermodynamics,3,<blank>
+800,138,UG,Turbo Machines,3,<blank>
+801,138,UG,Heat Transfer,2,<blank>
+802,138,PG,Advanced Fluid Dynamics,2,<blank>
+803,138,PG,Computational Fluid Dynamics,2,<blank>
+804,139,UG\n,Numerical Methods And Optimization\n,4\n,<blank>
+805,139,UG,Computer Oriented Numerical Method,4,<blank>
+806,139,UG,Hydraulics & Pnumatics,4,<blank>
+807,139,UG,Heat Transfer,2,<blank>
+808,139,UG,Fluid Mechanics,2,<blank>
+809,139,UG,Applied Thermodynamics,3,<blank>
+810,139,UG,I.C. Engines,4,<blank>
+811,140,UG\nUG\nUG\nUG\nUG\nUG,Automobile Engineering\n,1\n,<blank>
+812,140,<blank>,Engineering Drawing,10,<blank>
+813,140,<blank>,Heat Transfer,1,<blank>
+814,140,<blank>,Mechanical Engineering Drawing,8,<blank>
+815,140,<blank>,Manufacturing Process                                                                           Energy Engineering  ,1,<blank>
+816,141,UG\n,Engineering Graphics\n\n,3\n,Case Study for Chassis Design 
+817,141,UG ,Basic Mechanical Engineering,4,<blank>
+818,141,UG,Computer Oriented Numerical Methods,1,<blank>
+819,141,UG,Tribology,1,<blank>
+820,141,UG ,Dynamics of Machinery,3,<blank>
+821,141,UG,Theory of Machines - I,4,<blank>
+822,141,UG,Theory of Machines - II,4,<blank>
+823,141,UG,Metrology and Quality Control,2,<blank>
+824,141,PG,Mechanical Measurements and Controls,2,<blank>
+825,141,PG,Analysis and Synthesis of Mechanisms,3,<blank>
+826,141,PG,Advanced Mechanical Vibrations,3,<blank>
+827,142,UG\n,"Design of Machine Element-I,\n",3\n,Prepared models\nFormula Workbook
+828,142,UG,Design of Machine Element-II,3,<blank>
+829,142,UG,Theory of Machines-II,1,<blank>
+830,143,UG\n,"CAD/CAM & Automation,\n",2\n,Prepared models\nFormula Workbook
+831,143,UG,Mechanical system design,2,<blank>
+832,143,UG,Design of Machine Elements,1,<blank>
+833,144,UG\n,Hydraulics And Pneumatics\n,3\n,Developed PLC operated hydraulic press
+834,144,UG,Mechatronics,5,<blank>
+835,144,UG,Refrigeration And Air Conditioning,1,<blank>
+836,145,UG\n,Hydraulics And Pneumatics\n,1\n,Developed PLC operated hydraulic press
+837,145,UG,Mechatronics,3,<blank>
+838,145,UG,Theory of Machines-II,1,<blank>
+839,145,UG,Compter Aided Machine Drawing,2,<blank>
+840,146,UG\n,CAD/CAM And Automation\n,3\n\n,Developed \nMCQ question \nbank Prepared model
+841,146,UG,Industrial Engineering,2,<blank>
+842,146,UG,Finite Element Analysis,1,<blank>
+843,146,UG,Mechatonics,2,<blank>
+844,147,UG\n,Dynamics of Machines\n,2\n,Prepared models\nFormula Workbook
+845,147,UG,Finite Element Analysis ,2,<blank>
+846,147,UG,Design of Machine Elements-I,2,<blank>
+847,147,UG,Design of Machine Elements-II,2,<blank>
+848,147,UG,Hydraulics and Pneumatics,1,<blank>
+849,147,UG,Material Science,2,<blank>
+850,147,UG,Engineering Metallurgy ,1,<blank>
+851,148,UG\n,"Engineering Graphics, \n",3\n,<blank>
+852,148,UG,Basic Mechanical Engineering,3,<blank>
+853,148,UG,Material Science,1,<blank>
+854,148,UG,Mechtronics,1,<blank>
+855,148,UG,Mechanical System Design.,1,<blank>
+856,148,UG,Design of machine element-I,1,<blank>
+857,149,UG\n,Engineering Graphics\n,3\n,<blank>
+858,149,UG,Basic Mechanical Engineering,3,<blank>
+859,149,UG,Manufacturing Process,1,<blank>
+860,149,UG,Refrigeration and Airconditioning,2,<blank>
+861,149,UG,Power Plant Engineering,1,<blank>
+862,149,UG,Energy Audit and Management,1,<blank>
+863,150,UG\n,Mechanical system design\n,1\n,Activities for students
+864,150,UG,Theory of machine II,1,<blank>
+865,150,UG,Theory of machine I,3,<blank>
+866,150,UG,Strength of material,2,<blank>
+867,151,UG\n,Fluid Mechanics\n,3\n\n,Experimental Set-up development for RAC lab
+868,151,UG,Refrigeration and Air Conditioning,5,<blank>
+869,151,UG,Thermodynamics,2,<blank>
+870,151,UG,Applied Thermodynamics,2,<blank>
+871,151,UG,Theory of Machines,2,<blank>
+872,151,UG,Production Engineering,1,<blank>
+873,152,UG,Power Plant Engineering,1,<blank>
+874,152,UG,Heat Transfer,3,<blank>
+875,152,UG,Turbo Machines ,2,<blank>
+876,152,UG,Applied Thermodynamics ,2,<blank>
+877,152,UG,Hydraulics and Pneumatics,3,<blank>
+878,153,UG\n,Theory of Machines-II\n\n,4\n,"Developed MCQ question bank,Knowlwedge note of each unit"
+879,153,UG,Theory of Machines-I,1,<blank>
+880,153,UG,Engineering Metallurgy,3,<blank>
+881,154,UG\n,Heat Transfer\n,3\n,<blank>
+882,154,UG,Fluid Mechanics,3,<blank>
+883,154,UG,Applied thermodynamics,2,<blank>
+884,154,UG,Numerical Method and Optimization ,2,<blank>
+885,154,UG,Energy Audit and Management,1,<blank>
+886,154,UG,Energy Engineering,1,<blank>
+887,155,UG\n,Material Science\n,1\n,Model Development
+888,155,UG,Engineering Metallurgy,1,<blank>
+889,155,UG,Design of Machine Element-I,1,<blank>
+890,155,UG,Theory of Machine-I,1,<blank>
+891,156,UG\nUG\nUG,Finite Element Analysis\n,2\n,<blank>
+892,156,UG,Computer Aided Machine Drawing,2,<blank>
+893,156,UG,Product design and development,1,<blank>
+894,156,UG,Theory of Machine II,1,<blank>
+895,157,UG\n\n,Dynamics of  Machinery\n,3\n,<blank>
+896,157,UG,Mechanical System Design,2,<blank>
+897,157,UG,Basic Mechanical Engineering,1,<blank>
+898,158,UG\n\n,Industrial Engineering\n                                                                       ,2\n2\n1,<blank>
+899,158,UG,Product Design And Development    ,2,<blank>
+900,158,UG,Advanced Manufacturing Processes,1,<blank>
+901,159,UG\n,Heat transfer\n\n,3\n,Learning Material
+902,159,UG,Energy audit and manegment,1,<blank>
+903,159,UG,Fluid Mecanics,3,<blank>
+904,159,UG,Applied thermodynamics,2,<blank>
+905,159,UG,Power plant engineering,3,<blank>
+906,159,UG,Turbomachinery,5,<blank>
+907,159,UG,Thermodynamics,2,<blank>
+908,160,UG\n,Design of Machine Element-I\n,3\n,<blank>
+909,160,UG,Design of Machine Element-II,4,<blank>
+910,160,UG,Theory of Machine II,2,<blank>
+911,160,UG,Material Science,1,<blank>
+912,160,UG,Basic Mechanical Engineering,1,<blank>
+913,160,UG,Computer Aided Machines Drawing,1,<blank>
+921,162,UG\n,Machine Design\n,2\n,<blank>
+922,162,UG,Theory of Machines,2,<blank>
+923,162,UG,Material Science,1,<blank>
+924,162,UG,Basic Mechanical Engineering,2,<blank>
+925,162,UG,Engineering Graphics,1,<blank>
+926,162,UG,Computer Aided Machine Drawing,3,<blank>
+933,164,UG\n,Turbo Machines\n,1\n,Prepared MCQ'S & Question Bank
+934,164,UG,Fluid Mechanics,2,<blank>
+935,164,UG,Hydraulis and Pnuematics,1,<blank>
+936,165,UG,Mechanical System Design\n,1\n,Taught subject with industry based practical examples
+937,165,UG,Dynamics of Machinery,1,<blank>
+938,165,UG,Numerical methods and optimization,1,<blank>
+939,166,UG\n,"Material Science,\n",1\n,<blank>
+940,166,UG,Industrial Engineering,1,<blank>
+941,166,UG,Engineering Metallurgy,1,<blank>
+942,167,UG\n,Design Engineering\n,2\n,<blank>
+943,167, UG , Manufacturing Processes ,1,<blank>
+944,167, UG , Basic Mechanical Engineering , 1 ,<blank>
+945,167, UG , Machine Design , 1 ,<blank>
+946,167,UG,Engineering Graphics,1,<blank>
+947,167,<blank>,CAD/CAM,1,<blank>
+948,168,UG\n,Heat transfer\n,1\n,<blank>
+949,168,UG,Energy audit and mgmt,1,<blank>
+950,168,UG,Computer oriented numerical method,1,<blank>
+951,168,UG,Applied thermodynamics,2,<blank>
+952,168,UG,power plant engineering,1,<blank>
+953,169,UG\n,Material Science\n,1\n,<blank>
+954,169,UG,Metallurgy,2,<blank>
+955,169,UG,Metrology and Quality Control,1,<blank>
+956,170,UG\n\n,Refrigeration and Air Conditioning\n,6\n,<blank>
+957,170,UG,Heat Transfer,3,<blank>
+958,170,UG,Fluid Mechanics,1,<blank>
+959,170,UG,Turbo Machines,1,<blank>
+960,170,PG,Computational Fluid Dynamics,1,<blank>
+965,172,UG\n,Operation Research\n\n\n,4\n,<blank>
+966,172,UG,Industrial Engineering,2,<blank>
+967,172,UG,Metrology and Quality Control,2,<blank>
+968,172,UG,Manufacturing Process I,1,<blank>
+969,172,UG,Manufacturing Process II,2,<blank>
+970,172,UG,Advanced Manufacturing Process,1,<blank>
+971,173,UG\n,Heat Transfer\n,2\n,Prepared MCQ'S & Question Bank
+972,173,UG,Applied Thermodynamics,3,<blank>
+973,173,UG,Thermodynamics,2,<blank>
+974,173,UG,Numerical Method and Optimization,1,<blank>
+975,174,UG\n,Metallurgy \n,1\n,"Learning Material, online Quiz"
+976,174,UG,Fluid Mechanics,5,<blank>
+977,174,UG,Theory of Machine-I,2,<blank>
+978,174,UG,Theory of Machine-II,5,<blank>
+979,175,UG\n,Mechanical System Design\n\n,4\n,<blank>
+980,175,UG,Dynamics of Machinery   ,5,<blank>
+981,175,UG,Advance manufacturing processes,1,<blank>
+982,175,UG,Strength Of Materials,2,<blank>
+983,176,UG\n,Turbo Machinery\n,3\n,"Conducted classes in ICT, taught subjects with innovative videos of live industries and animated 3D's "
+984,176,UG,Fluid Mechanics,2,<blank>
+985,176,UG,Thermodynamics,2,<blank>
+986,176,UG,Applied Thermodynamics,2,<blank>
+987,176,UG,Basic Mechanical Engineering,1,<blank>
+988,176,UG,Heat Transfer,3,<blank>
+989,176,UG,Hydraulic and Pneumatics,2,<blank>
+990,177,UG\n,Metrology and Quality Control\n,1\n,"Conducted classes in ICT, taught subjects with innovative videos of live industries and animated 3D's "
+991,177,UG,Industrial Engineering,1,<blank>
+992,177,UG,Manufacturing Processes-I,1,<blank>
+993,177,UG,Manufacturing Processes-II,1,<blank>
+994,177,UG,Computer Aided Machine Drawing,1,<blank>
+995,177,UG,Strength of Materials,1,<blank>
+996,177,UG,Automobile Engineering,1,<blank>
+997,177,UG,Design of Machine Elements,1,<blank>
+998,178,UG\n,Heat Transfer\n,4\n,Prepared models\nMCQ & Question bank Booklet Preparation\nFormula Workbook\nNumerical Booklet for Practice
+999,178,UG,Turbo Machines ,2,<blank>
+1000,178,UG,Applied Thermodynamics,2,<blank>
+1001,178,UG,Refrigeration & AirConditioning,2,<blank>
+1002,178,UG,Basic Mechanical Engineering    ,1,<blank>
+1003,178,UG,Hydraulics & Pneumatics                 ,2,<blank>
+1004,178,PG,Advanced Thermodynamics,1,<blank>
+1005,178,PG,Advanced Heat Transfer,1,<blank>
+1006,179,UG\n,Design of Machine Elements-I\n,1\n,Prepared models\nFormula Workbook
+1007,179,UG,Design of Machine Elements-II,1,<blank>
+1008,179,UG,Material Science,1,<blank>
+1009,179,UG,Computer Aided Machine Drawing,1,<blank>
+1010,179,UG,Basic Mechanical Engineering ,1,<blank>
+1011,179,UG,Theory of Machines- II,1,<blank>
+1012,179,UG,Mechanical System Design,1,<blank>
+1013,180,UG\n,Strength of Materials\n,3\n,Prepared MCQ'S & Question Bank
+1014,180,UG,Design of Machine Elements-II,2                                                              2,<blank>
+1015,180,UG,Manufacturing Processes-I,1,<blank>
+1016,180,UG,Manufacturing Processes-II,4,<blank>
+1017,180,UG,Computer Aided Machine Drawing,3,<blank>
+1018,181,UG\n,Basic Mechanical Engineering\n,1\n,Prepared MCQ'S & Question Bank
+1019,181,UG,Material Science,2,<blank>
+1020,181,UG,Industrial Engg.,2,<blank>
+1021,181,UG,Automobile Engg.  ,1,<blank>
+1022,181,UG,Computer Aided Machine Drawing,1,<blank>
+1023,182,UG\n,Basic Mechanical Engineering\n\n,1\n,Prepared MCQ'S & Question Bank
+1024,182,UG,Metrology & Quality Control,1,<blank>
+1025,182,UG,Mechatronics ,1,<blank>
+1026,182,UG,Hydraulics And Pneumatics,1,<blank>
+1027,182,UG,Energy Engineering,1,<blank>
+1028,183,UG\n,Engineering Metallurgy\n                                                        ,2\n,Prepared MCQ'S & Question Bank
+1029,183,UG                                                 UG,Design of Machine Element-I   ,2                                                       1,<blank>
+1030,183,UG                                                 ,Manufacturing Process - II,1,<blank>
+1031,184,UG\n,Theory of Machine II\n,1\n,Taught subject in practical / industry based 
+1032,184,UG,Finte Element Analysis,2,<blank>
+1033,184,UG,Strength of Material,1,<blank>
+1034,184,UG,Hydraulics & pnumatics,1,<blank>
+1035,184,UG,Engineering Graphics,1,<blank>
+1036,184,UG,Design of Machine Elements-II,1,<blank>
+1037,185,UG\n,Design of Pumps Blowers and Compressors \n,1\n\n,Taught subject with industry based practical examples
+1038,185,UG ,Turbomachines ,1,<blank>
+1039,185,UG,Mechatronics,1,<blank>
+1040,186,UG ,Mechanical System Design,2,Prepared MCQ'S & Question Bank
+1041,186,UG,Cad Cam and Automation,2,<blank>
+1042,186,UG,Computer Aided Machine Drawing,1,<blank>
+1043,186,UG ,Advanced Manufacturing Process,1,<blank>
+1044,186,UG,Material Science ,1,<blank>
+1045,186,UG,Numerical Methods and Optimization,1,<blank>
+1046,187,UG & PG,Research Medology,7,<blank>
+1047,187,UG & PG,Start up and New Venture Management,3,<blank>
+1048,187,UG & PG,Strategic Management,2,<blank>
+1049,188,UG & PG,"Human Resource Management,",5,<blank>
+1050,188,UG & PG,"OB, ",4,<blank>
+1051,188,UG & PG,"Business Communication,  ",3,<blank>
+1052,188,UG & PG,"Soft Skills,",3,<blank>
+1053,188,UG & PG,Personality Development,3,<blank>
+1054,188,UG & PG,Principles of Management ,5,<blank>
+1055,189,UG & PG,Human Resource Management,4,<blank>
+1056,189,UG & PG,OB,2,<blank>
+1057,189,UG & PG,"Industrial Relation,",2,<blank>
+1058,189,UG & PG,"Labour Laws,",2,<blank>
+1059,189,UG & PG,Fundamentals of Management,3,<blank>
+1060,190,UG & PG,"Security Analysis and Portfolio Management,",2,<blank>
+1061,190,UG & PG,"Entrepreneurship Development,",1,<blank>
+1062,190,UG & PG,"Managerial Economics,",1,<blank>
+1063,190,UG & PG,"MIS, ",1,<blank>
+1064,190,UG & PG,EnterprisePerformanceManagement,2,<blank>
+1065,190,UG & PG,Ms-Excel & Advanced Excel Lab,2,<blank>
+1066,191,UG & PG,Basics of Marketing,2,<blank>
+1067,191,UG & PG,Marketing Management,2,<blank>
+1068,191,UG & PG,Business Research Methods,1,<blank>
+1069,191,UG & PG,CRM,2,<blank>
+1070,206,UG ,Hydraulics and hydraulics machines,1,NIL
+1071,206,UG ,Design of steel structures,1,NIL
+1072,206,UG ,Design of rcc strucures,1,NIL
+1073,207,UG ,Basic civil Engg.,1,NIL
+1074,207,UG ,Project Management,1,NIL
+1075,207,UG ,Remote Sensing & GIS ( Its Apllication in Civil Engineering),1,NIL
+1076,207,UG ,Surveying,1,NIL
+1077,207,UG ,Advanced Surveying,1,NIL
+1078,207,UG ,GT I,1,NIL
+1079,207,UG ,Engineering Geology,1,NIL
+1080,208,UG ,Structural analysis-II,1,NIL
+1081,208,UG ,Structural Design-III,1,NIL
+1082,208,UG ,"Quantity surveying, contracts and tenders",2,NIL
+1083,208,UG ,Building Technology and Materials,2,NIL
+1084,208,UG ,Basic civil Engg.,1,NIL
+1085,209,<blank>,Concrete Technology,2,NIL
+1086,209,<blank>,Design of RCC strucures,2,NIL
+1087,209,<blank>,Foundation Engineering,2,NIL
+1088,209,<blank>,Fluid Mechanics,2,NIL
+1089,209,<blank>,Basic civil Engg.,6,NIL
+1090,209,<blank>,Transportation Engineering,6,NIL
+1091,209,<blank>,Theory of plate and shells,3,NIL
+1092,209,<blank>,In elastic analysis of plates,3,NIL
+1093,212,UG,Mobile Communication ,1,NIL
+1094,212,UG,Analog Communication,1,NIL
+1095,212,UG,Data Structure and Algorithm,1,NIL
+1096,212,UG,Electrical Circuits and Machines,1,NIL
+1097,212,UG,Electronic System design,1,NIL
+1098,215,UG,Design of RCC Structure,3,NIL
+1099,215,UG,Structural Analysis,2,NIL
+1100,215,UG,Design of Steel Structurer,1,NIL
+1101,215,UG,Estimation and Costing,4,NIL
+1102,215,UG,Transportation Engineering,1,NIL
+1103,215,UG,Soil Mechanics,5,NIL
+1104,215,UG,Surveying,1,NIL
+1105,215,UG,Hydraulic Machines,1,NIL
+1106,215,UG,Strength Of material,2,NIL
+1107,216,UG,Basic Civil and Environmental Engineering,2,NIL
+1108,216,UG,Engineering Mechanics,5,NIL
+1109,216,UG,Design of RCC Structure,1,NIL
+1110,216,UG,Structural Analysis I,2,NIL
+1111,216,UG,Structural Analysis II,2,NIL
+1112,216,UG,Strength Of material,2,NIL
+1113,216,UG,SD III,1,NIL
+1114,217,UG,Geotechnical Engineering,2,NIL
+1115,217,UG,Foundation Engineering,2,NIL
+1116,218,UG,Fluid Mechanics-1,2,NIL
+1117,218,UG,Fluid Mechanics-2,2,NIL
+1118,218,UG,WRE-1,1,NIL
+1119,218,UG,WRE-2,2,NIL
+1120,211,UG,Fluid Mechanics,NULL,NULL
+1121,211,UG,Turbo Machines,<blank>,<blank>
+1122,211,UG,Heat Transfer,<blank>,<blank>
+1123,211,UG,Internal Combustion Engines,<blank>,<blank>
+1124,211,UG,Theory of Machines I,<blank>,<blank>
+1125,211,UG,Theory of Machines II,<blank>,<blank>
+1126,211,UG,Engineering Metallury,<blank>,<blank>
+1127,211,UG,Thermodynamics,<blank>,<blank>
+1128,211,UG,Manufacturing Process I,<blank>,<blank>
+1129,211,UG,Engineering Graphics,<blank>,<blank>
+1130,210,PG,Computational Fluid Dynamics ,<blank>,<blank>
+1131,210,PG,Finite Element Analysis,<blank>,<blank>
+1132,210,PG,Research Methodology,<blank>,<blank>
+1133,210,PG,Advanced Heat Transfer,<blank>,<blank>
+1134,210,PG,Advanced Fluid Mechanics,<blank>,<blank>
+1135,210,PG,Design of Heat Transfer Equipments,<blank>,<blank>
+1136,210,UG,Fluid Mechanics,<blank>,<blank>
+1137,210,UG,Advanced Fluid Mechanics,<blank>,<blank>
+1138,210,UG,Turbo Machines,<blank>,<blank>
+1139,210,UG,Thermodynamics,<blank>,<blank>
+1140,210,UG,Refrigeration and Air Conditioning,<blank>,<blank>
+

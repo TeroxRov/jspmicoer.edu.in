@@ -1,0 +1,374 @@
+id,city,name,email,course,mobile,cet_marks,pcm_marks,aggregrade,created_at
+1,<blank>,Rohan Ratnakar Dhobale,dhobalerohan444@gmail.com,Computer,9552138791,<blank>,<blank>,<blank>,2021-07-26 09:29:27
+2,<blank>,Rohan Ratnakar Dhobale,dhobalerohan444@gmail.com,Computer,9552138791,<blank>,<blank>,<blank>,2021-07-26 09:29:59
+3,<blank>,Rohan Ratnakar Dhobale,dhobalerohan444@gmail.com,Computer,9552138791,<blank>,<blank>,<blank>,2021-07-26 09:33:38
+4,<blank>,Sayali Arun Chavan,sayalichavan6649@gmail.com,Computer,9370105997,<blank>,<blank>,<blank>,2021-07-26 11:50:05
+5,New Delhi,Ritik Kumar,ritikrai.ghost@gmail.com,Computer,9599049113,63,200,335,2021-07-27 18:31:15
+6,<blank>,Rohit Narkhede,tusharnarkhede98@gmail.com,MBA,7588009174,<blank>,<blank>,<blank>,2021-07-28 10:24:54
+7,<blank>,Shinde Pallavi sanjay,pallavishinde2429@gmail.com,Computer,7620777080,<blank>,<blank>,<blank>,2021-07-30 03:55:02
+8,<blank>,Mukta shamrao Panchal,ganeshthengal1432@gmail.com,Computer,8862057217,<blank>,<blank>,<blank>,2021-08-01 04:46:02
+9,<blank>,Ahmed Maimoon,ahmedmmaimoon@gmail.com,Civil,9370325152,<blank>,<blank>,<blank>,2021-08-02 07:38:21
+10,<blank>,Vishwesh Shukla,vishweshashukla123@gmail.com,Civil,7559458755,<blank>,<blank>,<blank>,2021-08-02 12:02:43
+11,<blank>,Bejjam Abhiram,abhiram.1234.dsab@gmail.com,Computer,9346434593,<blank>,<blank>,<blank>,2021-08-02 12:38:28
+12,Vissannapet,Bejjam Abhiram,abhiram.1234.dsab@gmail.com,Computer,9346434593,0,943,943,2021-08-02 12:40:27
+13,<blank>,Manisha,pardeshi.manisha.28@gmail.com,Computer,7507478212,<blank>,<blank>,<blank>,2021-08-03 07:34:41
+14,<blank>,KARTAVYA DIVYAKANT MASTER,kartavyamaster17@gmail.com,Computer,7069779868,<blank>,<blank>,<blank>,2021-08-03 07:57:20
+15,<blank>,Prashant Yadav Bhoiwade,prashantbhoiwade1234@gmail.com,"Civil, Computer, FE",9356784370,<blank>,<blank>,<blank>,2021-08-04 09:03:19
+16,<blank>,Prashant Yadav Bhoiwade,prashantbhoiwade1234@gmail.com,"Civil, Computer, FE",9356784370,<blank>,<blank>,<blank>,2021-08-04 09:03:58
+17,<blank>,Asawari Satish Jagtap,asawarijagtap58@gmail.com,Computer,7276251485,<blank>,<blank>,<blank>,2021-08-04 10:41:04
+18,<blank>,Samarth Nitin Ghule,vishakha.ghule.vg@gmail.com,Mechanical,9158565555,<blank>,<blank>,<blank>,2021-08-05 07:44:38
+19,<blank>,pawan pole,pawanbpole7@gmail.com,Computer,9022627360,<blank>,<blank>,<blank>,2021-08-06 02:54:53
+20,<blank>,Rushikesh Balaji Musne,rushikeshmusne6280@gmail.com,Computer,9890301511,<blank>,<blank>,<blank>,2021-08-06 06:19:11
+21,<blank>,Rushikesh Balaji Musne,rushikeshmusne6280@gmail.com,Computer,9890301511,<blank>,<blank>,<blank>,2021-08-06 06:19:54
+22,<blank>,Amlesh Kumar,amleshkumarmdb@gmail.com,Computer,9304624208,<blank>,<blank>,<blank>,2021-08-06 18:57:12
+23,<blank>,Prashant Yadav Bhoiwade,prashantbhoiwade1234@gmail.com,"Computer, FE",9356784370,<blank>,<blank>,<blank>,2021-08-08 01:24:34
+24,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:50:55
+25,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:50:58
+26,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:02
+27,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:05
+28,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:06
+29,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:07
+30,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:07
+31,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:08
+32,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:10
+33,Pusad,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,110,110,above 100,2021-08-08 08:51:11
+34,<blank>,SANJAY NARAYAN GAVALI,sanjay.gavali@vishay.com,Computer,9158998099,<blank>,<blank>,<blank>,2021-08-09 09:28:43
+35,<blank>,Aditya Anil Kumawat,anilkumawat999999999@gmail.com,Computer,9822324878,<blank>,<blank>,<blank>,2021-08-09 16:06:31
+36,<blank>,Parth Dinesh Bhumkar,bhumkarparth589@gmail.com,Computer,8623881280,<blank>,<blank>,<blank>,2021-08-10 10:41:24
+37,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:43:17
+38,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:43:22
+39,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:43:25
+40,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:43:27
+41,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:43:28
+42,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:43:28
+43,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:12
+44,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:14
+45,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:16
+46,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:18
+47,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:46
+48,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:49
+49,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:44:50
+50,<blank>,Shital dnyaneshwar khune,sheetalkhune11@gmail.com,Computer,9403986840,<blank>,<blank>,<blank>,2021-08-10 11:45:38
+51,<blank>,Prajakta Jalindar Dahatonde,aartidahatonde7083@gmail.com,Computer,8080467084,<blank>,<blank>,<blank>,2021-08-11 09:21:39
+52,<blank>,Saee sachin kanase,saeekanase185@gmail.com,"Computer, Mechanical",8530001888,<blank>,<blank>,<blank>,2021-08-12 06:09:44
+53,<blank>,Shubham babasaheb gagare,shubham.gagare3516@gmail.com,Mechanical,8381080192,<blank>,<blank>,<blank>,2021-08-12 07:56:01
+54,<blank>,Shubham babasaheb gagare,shubham.gagare3516@gmail.com,Mechanical,8381080192,<blank>,<blank>,<blank>,2021-08-12 07:56:45
+55,<blank>,Sanika jotiba mohite,mohitesanika12sep@gmail.com,Computer,9881862688,<blank>,<blank>,<blank>,2021-08-12 18:16:20
+56,<blank>,Sanika jotiba mohite,mohitesanika12sep@gmail.com,Computer,9881862688,<blank>,<blank>,<blank>,2021-08-12 18:16:52
+57,<blank>,PRAJWAL PATARE,spatare137@gmail.com,Computer,8780250674,<blank>,<blank>,<blank>,2021-08-13 06:00:50
+58,<blank>,Dhulgude Monali Annasaheb,dhulgudemonali02@gmail.com,Computer,9545211671,<blank>,<blank>,<blank>,2021-08-13 09:21:52
+59,<blank>,Dhulgude Monali Annasaheb,dhulgudemonali02@gmail.com,Computer,9545211671,<blank>,<blank>,<blank>,2021-08-13 09:21:55
+60,<blank>,Dhulgude Monali Annasaheb,dhulgudemonali02@gmail.com,Computer,9545211671,<blank>,<blank>,<blank>,2021-08-13 09:22:56
+61,<blank>,Vaishnavi sunil nigade,vaishnavinigade13@gmail.com,Computer,9823744636,<blank>,<blank>,<blank>,2021-08-14 04:05:47
+62,<blank>,Shrikant Prashant Ingle,inglesp2003@gmail.com,Computer,9850013091,<blank>,<blank>,<blank>,2021-08-14 07:11:43
+63,<blank>,Shrikant Prashant Ingle,inglesp2003@gmail.com,Computer,9850013091,<blank>,<blank>,<blank>,2021-08-14 07:12:37
+64,<blank>,Suraj Shivaji Hullakbale,surajhullakbale5656@gmail.com,Computer,8788790337,<blank>,<blank>,<blank>,2021-08-14 08:25:06
+65,<blank>,Shubham Patil,shubhamp2844@gmail.com,MBA,8888702844,<blank>,<blank>,<blank>,2021-08-14 14:50:19
+66,<blank>,Abhay Kotkar,abhaykotkar5@gmail.com,Civil,7774022071,<blank>,<blank>,<blank>,2021-08-16 06:10:59
+67,<blank>,Ankit Adhikrao Pawar,ankitpawar190903@gmail.com,Computer,8625964709,<blank>,<blank>,<blank>,2021-08-16 13:40:25
+68,<blank>,Siddhant Bagul,sidhantbagul@gmail.com,Computer,7058582553,<blank>,<blank>,<blank>,2021-08-18 13:46:29
+69,<blank>,Sangharsh Rokade,sangharshrokade34@gmail.com,Computer,9834320551,<blank>,<blank>,<blank>,2021-08-19 12:33:18
+70,<blank>,Sakshi Ramesh Gadade,sakshirameshgadade8080@gmail.com,"Computer, ENTC, FE",8080373353,<blank>,<blank>,<blank>,2021-08-21 06:05:03
+71,<blank>,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,<blank>,<blank>,<blank>,2021-08-21 09:36:03
+72,<blank>,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,<blank>,<blank>,<blank>,2021-08-21 09:36:04
+73,<blank>,Atharva Dube,atharvadube18@gmail.com,Civil,8805766165,<blank>,<blank>,<blank>,2021-08-21 09:36:28
+74,<blank>,Udaypawar,udaypawar607@gmail.com,Computer,9356601906,<blank>,<blank>,<blank>,2021-08-22 13:37:44
+75,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-08-23 11:51:03
+76,<blank>,qdvxvhpe,sample@email.tst,Computer,987,<blank>,<blank>,<blank>,2021-08-23 11:51:09
+77,<blank>,xhaeyifh,sample@email.tst,ENTC,987,<blank>,<blank>,<blank>,2021-08-23 11:51:10
+78,<blank>,juftmrql,sample@email.tst,Civil,987,<blank>,<blank>,<blank>,2021-08-23 11:51:10
+79,<blank>,ajjgfnxx,sample@email.tst,Mechanical,987,<blank>,<blank>,<blank>,2021-08-23 11:51:11
+80,<blank>,yauobobn,sample@email.tst,MBA,987,<blank>,<blank>,<blank>,2021-08-23 11:51:14
+81,<blank>,oqoextiv,sample@email.tst,FE,987,<blank>,<blank>,<blank>,2021-08-23 11:51:15
+82,<blank>,vmdqqxoo,sample@email.tst,MCA,987,<blank>,<blank>,<blank>,2021-08-23 11:51:18
+83,<blank>,Aswale Mahesh sandipan,maheshaswale00606@gmail.com,Computer,8637765974,<blank>,<blank>,<blank>,2021-08-23 19:23:56
+84,<blank>,Avishkar Vivek deshmukh,avideshmukh962003@gmail.com,Computer,9322778598,<blank>,<blank>,<blank>,2021-08-24 05:33:15
+85,<blank>,Anagha thorat,anaghathorat13991@gmail.com,Computer,7498508803,<blank>,<blank>,<blank>,2021-08-24 17:50:39
+86,<blank>,Anagha thorat,anaghathorat13991@gmail.com,Computer,7498508803,<blank>,<blank>,<blank>,2021-08-24 17:50:41
+87,<blank>,Rathod Pralhad kaluram,pralhadrathod8982@gmail.com,Computer,8788998297,<blank>,<blank>,<blank>,2021-08-25 01:45:32
+88,<blank>,Rathod Pralhad kaluram,pralhadrathod8982@gmail.com,Computer,8788998297,<blank>,<blank>,<blank>,2021-08-25 01:45:35
+89,<blank>,Sudhir dhembare,dhembaresudhir@gmail.com,Computer,7020050389,<blank>,<blank>,<blank>,2021-08-25 03:41:41
+90,<blank>,Shravani manoj tekle,manoj77251@gmail.com,Computer,8788269798,<blank>,<blank>,<blank>,2021-08-25 15:37:20
+91,<blank>,Shravani manoj tekle,manoj77251@gmail.com,Computer,8788269798,<blank>,<blank>,<blank>,2021-08-25 15:38:49
+92,<blank>,Sangam namdev mundhe,sangammunde3@gmail.com,Computer,9370645756,<blank>,<blank>,<blank>,2021-08-26 08:52:38
+93,<blank>,Sangam namdev mundhe,sangammunde3@gmail.com,Computer,9370645756,<blank>,<blank>,<blank>,2021-08-26 08:53:07
+94,<blank>,Rutuja Bhimraj Todmal,todmalrutuja18@gmail.com,Computer,9307692307,<blank>,<blank>,<blank>,2021-08-27 11:29:17
+95,<blank>,Abhimanyu,abhimanyu.saini2003@gmail.com,"Computer, FE",8307106695,<blank>,<blank>,<blank>,2021-08-27 17:46:16
+96,<blank>,Potdar Mahesh Shrirang,maheshpotdar2051@gmail.com,Civil,8080993593,<blank>,<blank>,<blank>,2021-08-28 12:21:17
+97,<blank>,Ietisha R,ietisha246@yahoo.com,"Computer, FE",9819856359,<blank>,<blank>,<blank>,2021-08-29 14:15:20
+98,Boisar,Aryan Singh,aryansingh860032@gmail.com,Computer,8788224621,12,261,534,2021-08-29 15:25:33
+99,<blank>,Anand kishore,anandkishore506@gmail.com,Computer,8010050615,<blank>,<blank>,<blank>,2021-08-29 17:31:23
+100,Amravati,Vishal Vijayrao Athawale,vishalathawale355@gmail.com,Computer,8600890187,657,267,80%,2021-08-30 03:28:11
+101,<blank>,Dhruv Ravindra Marathe,marathedhruv0@gmail.com,Computer,8421038918,<blank>,<blank>,<blank>,2021-08-30 08:46:21
+102,<blank>,Mehra Deepaksingh,manoharsingh1198@gmail.com,Computer,8550952299,<blank>,<blank>,<blank>,2021-08-30 16:52:40
+103,<blank>,Neha,nehathakare62@gmail.com,Computer,8767540657,<blank>,<blank>,<blank>,2021-08-31 06:13:48
+104,<blank>,Tushar,tushargaikwad1880@gmail.com,ENTC,8483840358,<blank>,<blank>,<blank>,2021-08-31 09:16:00
+105,<blank>,Tejas Sahebrao Hade,tjhade7@gmail.com,Computer,7028684345,<blank>,<blank>,<blank>,2021-08-31 10:52:53
+106,<blank>,Sarah Azhar Sayyed,alliedcars1@gmail.com,Computer,9881981066,<blank>,<blank>,<blank>,2021-08-31 16:40:56
+107,<blank>,Pranita Ghanasham Sandim,pranitasandim@gmail.com,Computer,9175585880,<blank>,<blank>,<blank>,2021-09-01 03:35:14
+108,<blank>,Rushikesh Dipak sarwade,rushisarwade40@gmail.com,Civil,9356488064,<blank>,<blank>,<blank>,2021-09-02 03:06:26
+109,<blank>,Pratham Pawar,pawarpratham51509@gmail.com,Civil,8208594912,<blank>,<blank>,<blank>,2021-09-02 14:17:51
+110,<blank>,Ghadage pranaya anil,patilsanika093@gmail.com,"Civil, Computer, ENTC",8805230989,<blank>,<blank>,<blank>,2021-09-02 15:10:37
+111,<blank>,Manoj Kumar Modi,manojmodi143143@gmail.com,MCA,7909048147,<blank>,<blank>,<blank>,2021-09-03 16:01:44
+112,<blank>,Abhay Shivaji Chavan,shivajichavan197666@gmail.com,Computer,9158463010,<blank>,<blank>,<blank>,2021-09-04 12:49:21
+113,<blank>,Anshuad Kadam,anshudakadam@gmail.com,Computer,8080249002,<blank>,<blank>,<blank>,2021-09-04 13:25:17
+114,<blank>,Devshree pawar,devashreepawar2618@gmail.com,ENTC,8806956783,<blank>,<blank>,<blank>,2021-09-05 16:01:26
+115,<blank>,Devashree Pawar,devashreepawar2618@gmail.com,ENTC,8806956783,<blank>,<blank>,<blank>,2021-09-05 16:02:10
+116,<blank>,Prashant bhujbal,prashantsbhujbal@gmail.com,Computer,8975215458,<blank>,<blank>,<blank>,2021-09-06 11:11:05
+117,<blank>,Suyash Raju Shenkar,suyashshenkar9@gmail.com,Computer,7058128842,<blank>,<blank>,<blank>,2021-09-07 15:56:39
+118,<blank>,Shubham Mishra,shubhamak.mishra@gmail.com,Mechanical,9327368994,<blank>,<blank>,<blank>,2021-09-08 05:11:23
+119,<blank>,Amit Patil,amiticoer@gmail.com,Mechanical,7986006242,<blank>,<blank>,<blank>,2021-09-08 08:19:51
+120,<blank>,Pritesh Raghunath Kedari,pritk444@gmail.com,Computer,8805136558,<blank>,<blank>,<blank>,2021-09-08 12:45:53
+121,<blank>,Aditya,aditya@123gmail.com,Civil,8879361576,<blank>,<blank>,<blank>,2021-09-08 14:52:11
+122,<blank>,Rushikesh keshav janjire,rushijanjire855@gmail.com,Computer,9665201905,<blank>,<blank>,<blank>,2021-09-08 16:28:37
+123,<blank>,KHAN ANAS ZULFIKAR,khananas594@gmail.com,Civil,8888420299,<blank>,<blank>,<blank>,2021-09-09 14:21:11
+124,Bardapur,Sachin Korde,gamefreak69696@gmail.com,ENTC,8876798455,87,187,88,2021-09-09 14:48:36
+125,<blank>,soham santosh pawar,sohampawar1030@gmail.com,Computer,7030806080,<blank>,<blank>,<blank>,2021-09-10 09:44:13
+126,<blank>,Gaurav Yogesh Sonawane,gauravsonawane3158@gmail.com,Computer,9403425440,<blank>,<blank>,<blank>,2021-09-10 14:24:48
+127,<blank>,Sakshi Gadade,sakshirameshgadade8080@gmail.com,Computer,8080373353,<blank>,<blank>,<blank>,2021-09-11 07:12:07
+128,<blank>,Sakshi Gadade,sakshirameshgadade8080@gmail.com,Computer,8080373353,<blank>,<blank>,<blank>,2021-09-11 07:12:09
+129,<blank>,Suyash joshi,nareshjodhawat@gmail.com,Computer,9850509506,<blank>,<blank>,<blank>,2021-09-11 13:25:57
+130,<blank>,Bhujbal Neha Raju,nehabhujbal0915@gmail.com,Computer,9049401322,<blank>,<blank>,<blank>,2021-09-12 06:58:24
+131,<blank>,Pratyush Choudhary,pratyushch2001@gmail.com,Civil,9324238193,<blank>,<blank>,<blank>,2021-09-12 16:04:44
+132,<blank>,vijaya p kamble,vijaya.hankare@gmail.com,Civil,8999184669,<blank>,<blank>,<blank>,2021-09-13 10:04:28
+133,<blank>,Aditya Rajendra Jadhav,adijadhav898@gmail.com,Computer,9604773352,<blank>,<blank>,<blank>,2021-09-15 04:49:38
+134,<blank>,Sudarshan Suryakant Murkute,sudarshanmurkute778@gmail.com,Mechanical,8600695452,<blank>,<blank>,<blank>,2021-09-15 04:56:09
+135,<blank>,Sudarshan Suryakant Murkute,sudarshanmurkute778@gmail.com,Mechanical,8600695452,<blank>,<blank>,<blank>,2021-09-15 05:51:41
+136,<blank>,Krishna Jadhav,krishnajadhav5284@gmail.com,MBA,8446333789,<blank>,<blank>,<blank>,2021-09-15 18:20:46
+137,<blank>,Yash Dipak Chavan,yashchavancr7@gmail.com,Computer,9373277397,<blank>,<blank>,<blank>,2021-09-16 11:43:16
+138,<blank>,Prashant kavale,prashantkavale597@gmail.com,Mechanical,8888708985,<blank>,<blank>,<blank>,2021-09-16 15:05:08
+139,<blank>,Karan kailas bade,karanbade112@gmail.com,"Computer, ENTC",8605293174,<blank>,<blank>,<blank>,2021-09-17 15:34:49
+140,<blank>,Anshika Jaiswal,anshijaiswal1999@gmail.com,MBA,9569848953,<blank>,<blank>,<blank>,2021-09-18 08:33:18
+141,mysuru,Sarvajeeth U K,sarvajeethuk@gmail.com,Computer,8310934161,0,291,480,2021-09-20 06:31:03
+142,mysuru,Sarvajeeth U K,sarvajeethuk@gmail.com,Computer,8310934161,0,291,480,2021-09-20 06:31:04
+143,mysuru,Sarvajeeth U K,sarvajeethuk@gmail.com,Computer,8310934161,0,291,480,2021-09-20 06:31:07
+144,<blank>,Ananthakrishna Prashant Nair,nairkrishna2003@gmail.com,Computer,9028190888,<blank>,<blank>,<blank>,2021-09-20 12:55:25
+145,<blank>,Komal Prakash Bankar,komalbankar2711@gmail.com,"Computer, ENTC, FE",9822914316,<blank>,<blank>,<blank>,2021-09-21 04:10:56
+146,<blank>,Rohini Tukaram Mamdge,rohinimamdge0708@gmail.com,Computer,9307115952,<blank>,<blank>,<blank>,2021-09-21 14:49:19
+147,<blank>,VIJAY KALURAM ZANJARE,zanjarevijay@gmail.com,"Computer, Mechanical",7350007173,<blank>,<blank>,<blank>,2021-09-21 15:46:50
+148,<blank>,Mahesh Kundlik Kapate,maheshkapate300@gmail.com,MBA,9370781723,<blank>,<blank>,<blank>,2021-09-21 16:50:24
+149,<blank>,Mahesh Kundlik Kapate,maheshkapate300@gmail.com,MBA,9370781723,<blank>,<blank>,<blank>,2021-09-21 16:51:06
+150,<blank>,Chirag,chiragdive143@gmail.com,Computer,9307181631,<blank>,<blank>,<blank>,2021-09-22 03:46:13
+151,<blank>,Abhishek Bhika Rokade,abhirokade362@gmaul.com,Computer,8308417343,<blank>,<blank>,<blank>,2021-09-25 04:03:02
+152,<blank>,Aadesh Ashok Dongare,aadeshdongare98@email.com,MBA,9860061185,<blank>,<blank>,<blank>,2021-09-25 20:13:27
+153,<blank>,Saumya Sinha,saumya020610@gmail.com,Computer,9890102207,<blank>,<blank>,<blank>,2021-09-26 04:26:56
+154,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-09-26 04:27:00
+155,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-09-26 04:27:02
+156,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-09-26 04:27:03
+157,<blank>,Sudarshan Suryakant Murkute,sudarshanmurkute778@gmail.com,Mechanical,8600695452,<blank>,<blank>,<blank>,2021-09-26 05:47:12
+158,<blank>,Manasvi penshanwar,manasvipenshanwar071@gmail.com,"Computer, ENTC",9527871470,<blank>,<blank>,<blank>,2021-09-26 12:36:27
+159,Pusad,Manasvi Penshanwar,manasvipenshanwar071@gmail.com,Computer,9527871470,50,87,Jee mains 71,2021-09-26 12:44:19
+160,<blank>,Manthan Sunil Kumbhar,manthankumbhar02@gmail.com,Mechanical,9075515181,<blank>,<blank>,<blank>,2021-09-27 05:53:32
+161,<blank>,Anushka Vikrant Dixit,anushkadixit4444@gmail.com,Computer,7796277439,<blank>,<blank>,<blank>,2021-09-27 07:16:08
+162,<blank>,Sandesh Sapkal,sapkalsandesh19@gmail.com,Computer,8483973777,<blank>,<blank>,<blank>,2021-09-27 07:16:13
+163,<blank>,Anushka Vikrant Dixit,anushkadixit4444@gmail.com,Computer,7796277439,<blank>,<blank>,<blank>,2021-09-27 07:16:45
+164,<blank>,ashish sanjay puri,ashishpuri4244@gmail.com,FE,7620314997,<blank>,<blank>,<blank>,2021-09-27 07:21:51
+165,<blank>,Vijay Shivaji Pagote,vijaypagote511@gmail.com,Civil,9022335073,<blank>,<blank>,<blank>,2021-09-27 11:34:13
+166,<blank>,Lokesh Sujit Chaudhari,lokeshchaudhari.7083@gmail.com,Civil,8459120201,<blank>,<blank>,<blank>,2021-09-27 16:55:47
+167,<blank>,Atique Hussain,hussainatique2@gmail.com,Computer,7482967647,<blank>,<blank>,<blank>,2021-09-28 08:39:51
+168,Murbad,Yash,satishnemade1@gmail.com,"Computer, ENTC, Mechanical, FE",9970558563,128,128,128,2021-09-29 13:38:12
+169,<blank>,VINAYAK AMBADAS SHINDE,vinayakshinde1202@gmail.com,"Computer, Mechanical",9822169142,<blank>,<blank>,<blank>,2021-09-29 14:22:19
+170,<blank>,Sumit Babar,sumitbabar2002@gmail.com,Civil,7447300442,<blank>,<blank>,<blank>,2021-09-30 06:13:05
+171,<blank>,Shreyash Dasharath Patil,shreyashpatil3717@gmail.com,"Computer, FE, MBA",9730043717,<blank>,<blank>,<blank>,2021-09-30 08:17:05
+172,<blank>,Sandip govinda gopal,sandipgopal1234@gmail.com,"Computer, ENTC",7020872829,<blank>,<blank>,<blank>,2021-10-01 05:07:25
+173,<blank>,Pranali Ganpat falake,phalakepranali523@gmail.com,Computer,7058657705,<blank>,<blank>,<blank>,2021-10-01 08:56:00
+174,<blank>,Abhishek Wagh,abhishekwagh398@gmail.com,Computer,9322080539,<blank>,<blank>,<blank>,2021-10-02 07:45:30
+175,<blank>,Saukhya Anilrao Wankhede,saukhyawankhede21@gmail.com,MCA,7798040262,<blank>,<blank>,<blank>,2021-10-04 20:06:32
+176,<blank>,Shravani jejurkar,shravanijejurkar26210@gmail.com,Computer,7378808372,<blank>,<blank>,<blank>,2021-10-05 08:31:13
+177,<blank>,Chandan Sharma,chandans2405@gmail.com,Computer,9823536372,<blank>,<blank>,<blank>,2021-10-05 14:49:33
+178,<blank>,PRUTHVIRAJ Yadav,pruthvirajyadav88@gmail.com,ENTC,8080713184,<blank>,<blank>,<blank>,2021-10-05 16:38:09
+179,<blank>,PRUTHVIRAJ Yadav,pruthvirajyadav88@gmail.com,ENTC,8080713184,<blank>,<blank>,<blank>,2021-10-05 16:38:11
+180,<blank>,Sandhya Maske,maskesandhya3@gmail.com,Computer,7058290560,<blank>,<blank>,<blank>,2021-10-05 21:43:04
+181,<blank>,Pratik Ramkrushna Shinde,pratikshinde2612@gmail.com,ENTC,9158774611,<blank>,<blank>,<blank>,2021-10-06 04:42:13
+182,<blank>,Sanjana purohit,poruhitsanjana@gmail.com,Computer,7620679057,<blank>,<blank>,<blank>,2021-10-06 12:00:24
+183,Pune,ARIJITA MODAK,modakarijita@gmail.com,ENTC,9595959159,80,100,120,2021-10-06 12:26:35
+184,<blank>,Gunjan Mahajan,gunjanmahajan7219@gmail.com,"Computer, ENTC",7219173717,<blank>,<blank>,<blank>,2021-10-07 16:45:19
+185,<blank>,Ambika Srivastava,srivastava29ambika@gmail.com,FE,8408874623,<blank>,<blank>,<blank>,2021-10-08 04:49:52
+186,<blank>,Tejas sanjay gatane,tejasgatane@gmail.com,Computer,9552950928,<blank>,<blank>,<blank>,2021-10-09 06:13:45
+187,<blank>,Tushar Rajaram savant,savanttushar97@gmail.com,Computer,7499374553,<blank>,<blank>,<blank>,2021-10-10 09:42:44
+188,<blank>,Prasad Arun Devkate,prasaddevkate4079@gmail.com,Mechanical,9579198686,<blank>,<blank>,<blank>,2021-10-10 10:16:28
+189,<blank>,Vilas Ganpat Gawari,vilasgawari12233@gmail.com,MCA,9765646087,<blank>,<blank>,<blank>,2021-10-11 07:13:45
+190,<blank>,PARSHURAM SIDDHU HANCHNAL,hanchnalram@gmail.com,Civil,7387242730,<blank>,<blank>,<blank>,2021-10-12 07:29:09
+191,<blank>,Kiran shinde,patilkiran645@gmail.com,MBA,9611370560,<blank>,<blank>,<blank>,2021-10-12 13:19:48
+192,<blank>,Sujit borawane,sujitborawane22@gmail.com,"Computer, ENTC",7620083386,<blank>,<blank>,<blank>,2021-10-13 00:50:52
+193,<blank>,Aditya Maroti Gaikwad,gaikwadaditya724@gmail.com,Civil,7796820516,<blank>,<blank>,<blank>,2021-10-13 09:59:40
+194,NAGPUR,Krushna Dande,krdande2@gmail.com,Computer,7387308445,87,241,83.4,2021-10-13 13:51:02
+195,<blank>,Dhanashree Chavan,chavand876@gmail.com,Computer,9637462874,<blank>,<blank>,<blank>,2021-10-14 07:02:32
+196,<blank>,Vedant Slaunke,vedantsalunke17473@gmail.com,"Computer, ENTC, FE",7057890105,<blank>,<blank>,<blank>,2021-10-14 08:24:32
+197,Pune,Vedant Slaunke,vedantsalunke17473@gmail.com,"Computer, ENTC, FE",7057890105,61,225,300,2021-10-14 08:30:48
+198,<blank>,Pratik Navnath Hole,pratikhole02@gmail.com,Computer,9373223833,<blank>,<blank>,<blank>,2021-10-14 10:01:24
+199,<blank>,Faisal Khan,fk848115@gmail.com,Mechanical,9359297387,<blank>,<blank>,<blank>,2021-10-15 05:15:06
+200,<blank>,Kuldip sanjay wagh,kuldipwagh12@gmail.com,Mechanical,7083417830,<blank>,<blank>,<blank>,2021-10-15 13:01:23
+201,<blank>,Sujit Bhagat,sujit.bhagat1112@gmail.com,"Civil, Computer",8805588142,<blank>,<blank>,<blank>,2021-10-16 11:55:36
+202,<blank>,Sujit Bhagat,sujit.bhagat1112@gmail.com,"Civil, Computer",8805588142,<blank>,<blank>,<blank>,2021-10-16 11:55:47
+203,<blank>,Amol anil kolte,tachnicalpapu2003@gmail.com,Computer,8767549835,<blank>,<blank>,<blank>,2021-10-17 11:02:24
+204,<blank>,Ammolh Kulkarni,ammolhkulkarni@rediffmail.com,Civil,9949995548,<blank>,<blank>,<blank>,2021-10-18 05:21:45
+205,<blank>,Viraj santosh suryawanshi,virajsuryawanshi01official@gmail.com,Civil,7218859294,<blank>,<blank>,<blank>,2021-10-18 16:33:31
+206,<blank>,Roshni Sharma,roshnisharma7319194072@gmail.com,Computer,7319194072,<blank>,<blank>,<blank>,2021-10-19 12:10:37
+207,<blank>,Prathmesh Ravindra Sonwalkar,ravindrasonwalkar7777@gmail.com,Computer,9284717335,<blank>,<blank>,<blank>,2021-10-19 15:43:59
+208,<blank>,Prathmesh Ravindra Sonwalkar,ravindrasonwalkar7777@gmail.com,Computer,9284717335,<blank>,<blank>,<blank>,2021-10-19 15:46:14
+209,<blank>,Harish Gulab Santpal,harishsantpal8113@gmail.com,MCA,7058781290,<blank>,<blank>,<blank>,2021-10-20 08:43:55
+210,<blank>,Renuka tukaram jadhav,renujadhav2001@gmail.com,Computer,8446473076,<blank>,<blank>,<blank>,2021-10-21 06:03:40
+211,<blank>,Gadhave Rohit Ramdas,gadhaverohit811@gmail.com,Computer,7219162590,<blank>,<blank>,<blank>,2021-10-21 06:07:03
+212,<blank>,Dhotre prasad dattatraya,prasaddhotre37@gmail.com,Computer,9960700605,<blank>,<blank>,<blank>,2021-10-21 14:53:40
+213,PUNE,Riya Pandey,rp2140063@gmail.com,ENTC,8408814884,88,88,88,2021-10-22 10:37:48
+214,<blank>,Kumbhar Prathamesh kallappa,prathamesh2552002@gmail.com,Mechanical,7666483955,<blank>,<blank>,<blank>,2021-10-23 01:37:55
+215,<blank>,Yash salunke,yashsalunke9@gmail.com,Computer,9730717097,<blank>,<blank>,<blank>,2021-10-23 14:49:10
+216,<blank>,Ammolh Kulkarni,ammolhkulkarni@rediffmail.com,Civil,9949995548,<blank>,<blank>,<blank>,2021-10-23 15:57:31
+217,<blank>,Shubh Gupta,shubhmoth@gmail.com,Computer,8736043236,<blank>,<blank>,<blank>,2021-10-24 12:26:50
+218,<blank>,Leevan Herald,leevanherald5@gmail.com,Computer,7498412078,<blank>,<blank>,<blank>,2021-10-24 17:38:34
+219,<blank>,Raghubansh,raghubansh1709@gmail.com,MBA,9673706025,<blank>,<blank>,<blank>,2021-10-24 21:20:06
+220,<blank>,Priyanshu Urmaliya,priyanshuurmaliya2323@gmail.com,Computer,8770941053,<blank>,<blank>,<blank>,2021-10-25 07:25:09
+221,<blank>,Krutika Gawade,krutika.gawade.7060@gmail.com,"Computer, ENTC",7276067060,<blank>,<blank>,<blank>,2021-10-25 10:24:08
+222,<blank>,Noel,noeldsouza28@gmail.com,MBA,7276263659,<blank>,<blank>,<blank>,2021-10-25 18:03:23
+223,<blank>,Dhawal shailesh Patadia,dhawalpatadia10@gmail.com,Computer,8779695171,<blank>,<blank>,<blank>,2021-10-25 19:43:03
+224,<blank>,Dhawal shailesh Patadia,dhawalpatadia10@gmail.com,Computer,8779695171,<blank>,<blank>,<blank>,2021-10-25 19:43:28
+225,Valsad,Kashish Vinay Sagar,kashishsagar824@gmail.com,Computer,7359743319,57,207,207,2021-10-26 07:17:55
+226,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:07
+227,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:09
+228,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:12
+229,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:14
+230,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:17
+231,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:20
+232,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:23
+233,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:25
+234,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:28
+235,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:30
+236,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:18:33
+237,<blank>,<blank>,<blank>,<blank>,0,<blank>,<blank>,<blank>,2021-10-26 07:19:07
+238,<blank>,Sunny sangle,sunnysangle681@gmail.com,Computer,7057293545,<blank>,<blank>,<blank>,2021-10-26 16:48:19
+239,<blank>,pratiksha kawade,pratikshakawade2017@gmail.com,Computer,8788882667,<blank>,<blank>,<blank>,2021-10-27 05:21:55
+240,<blank>,pranav deshmukh,dpranav195@gmail.com,Computer,8459834042,<blank>,<blank>,<blank>,2021-10-27 05:52:42
+241,<blank>,BHAVESH SANJAY PATIL,bhaveshsanjaypatil2@gmail.com,Computer,7620092800,<blank>,<blank>,<blank>,2021-10-27 07:27:05
+242,<blank>,Prasad Palkar,pnpalkar443@gmail.com,Computer,7083521487,<blank>,<blank>,<blank>,2021-10-27 07:28:04
+243,<blank>,BHAVESH SANJAY PATIL,bhaveshsanjaypatil2@gmail.com,Computer,7620092800,<blank>,<blank>,<blank>,2021-10-27 07:28:10
+244,<blank>,Awadhut Bhanudas Ghandure,urmilaghandure@gmail.com,Computer,7666052112,<blank>,<blank>,<blank>,2021-10-27 07:28:23
+245,<blank>,Mahesh Joshi,maheshjishi9373@gmail.com,"Computer, ENTC",9373268022,<blank>,<blank>,<blank>,2021-10-27 07:29:22
+246,<blank>,Mahesh Joshi,maheshjishi9373@gmail.com,"Computer, ENTC",9373268022,<blank>,<blank>,<blank>,2021-10-27 07:29:57
+247,<blank>,Mahesh Joshi,maheshjishi9373@gmail.com,"Computer, ENTC",9373268022,<blank>,<blank>,<blank>,2021-10-27 07:30:13
+248,<blank>,Anirudha Ojha,anirudhaojha93664@gmail.com,Computer,9356651294,<blank>,<blank>,<blank>,2021-10-27 07:30:38
+249,<blank>,Anirudha Ojha,anirudhaojha93664@gmail.com,Computer,9356651294,<blank>,<blank>,<blank>,2021-10-27 07:30:42
+250,<blank>,Siddhant Bhagvan Mane,siddhantmane2805@gmail.com,"Computer, Mechanical",7755960544,<blank>,<blank>,<blank>,2021-10-27 07:33:00
+251,<blank>,Nikhil Mandlik,nmandlik839017@gmail.com,Computer,9172519335,<blank>,<blank>,<blank>,2021-10-27 07:35:22
+252,<blank>,Pratiksha Navnath Chandankar,chandankarpratiksha4@gmail.com,"Computer, FE",7666759919,<blank>,<blank>,<blank>,2021-10-27 07:35:43
+253,<blank>,Prajwal shingote,prajwalshingote18@gmail.com,Computer,7264956526,<blank>,<blank>,<blank>,2021-10-27 07:35:46
+254,<blank>,Mohit Dattatray Raut,mohitraut9021@gmail.com,Computer,9021849509,<blank>,<blank>,<blank>,2021-10-27 07:36:10
+255,<blank>,Mohit Dattatray Raut,mohitraut9021@gmail.com,Computer,9021849509,<blank>,<blank>,<blank>,2021-10-27 07:36:13
+256,<blank>,Darandale saurabh ambadas,darandalesaurabh1@gmail.com,"Computer, Mechanical",9405003024,<blank>,<blank>,<blank>,2021-10-27 07:44:39
+257,Shirpur,Jidnyesh Deore,jidnyeshdeore24@gmail.com,Computer,7498858377,72,72,0,2021-10-27 07:46:23
+258,<blank>,Abhijeet Arun Shinde,shindeabhi857@gmail.com,Computer,7499860492,<blank>,<blank>,<blank>,2021-10-27 07:48:33
+259,<blank>,Sarang sahebrao patil,patilsarang1452003@gmail.com,Computer,7796436796,<blank>,<blank>,<blank>,2021-10-27 07:53:30
+260,<blank>,Sarang sahebrao patil,patilsarang1452003@gmail.com,Computer,7796436796,<blank>,<blank>,<blank>,2021-10-27 07:54:12
+261,<blank>,Sarthak suryawanshi,sarthaksuryawanshi13@gmail.com,Computer,9112412067,<blank>,<blank>,<blank>,2021-10-27 07:57:25
+262,<blank>,Prajwal shingote,prajwalshingote18@gmail.com,Computer,7264956526,<blank>,<blank>,<blank>,2021-10-27 07:59:50
+263,<blank>,Vaibhav Mahadik,ipvaibhavmahadik77@gmail.com,Computer,9403725580,<blank>,<blank>,<blank>,2021-10-27 08:00:40
+264,pune,Suyash Shinde,suyashshinde606@gmail.com,"Civil, Computer, ENTC, Mechanical, FE",8698910639,140,88,88,2021-10-27 08:02:55
+265,<blank>,Jaykumar Chandrakant Shevate,shevatejay@gmail.com,Computer,9604375121,<blank>,<blank>,<blank>,2021-10-27 08:03:04
+266,<blank>,Sudhir Sudam Gange,sudhirgange21@gamil.com,Computer,8888011620,<blank>,<blank>,<blank>,2021-10-27 08:08:19
+267,<blank>,Sudhir Sudam Gange,sudhirgange21@gamil.com,Computer,8888011620,<blank>,<blank>,<blank>,2021-10-27 08:08:59
+268,<blank>,Rajkumar gokul pund,rajpund205@gmail.com,ENTC,8767011624,<blank>,<blank>,<blank>,2021-10-27 08:12:36
+269,<blank>,Rajkumar gokul pund,rajpund205@gmail.com,ENTC,8767011624,<blank>,<blank>,<blank>,2021-10-27 08:13:18
+270,Solapur,Saurabh Sambhaji Ingawale,saurabhingwale1243@gmail.com,Computer,9022630019,74,225,100,2021-10-27 08:15:43
+271,<blank>,Ilag krishna vishnu,krishnailag198@gmail.com,"Civil, Computer",9307577596,<blank>,<blank>,<blank>,2021-10-27 08:16:29
+272,<blank>,Gaurav Rameshrao Khose,gauravkhose258@gmail.com,Computer,8767468010,<blank>,<blank>,<blank>,2021-10-27 08:17:43
+273,<blank>,HITESH RAVINDRASINGH CHAUDHARI,hrchaudhari18@gmail.com,Computer,9370420095,<blank>,<blank>,<blank>,2021-10-27 08:21:04
+274,<blank>,Rajkumar gokul pund,rajpund205@gmail.com,"Computer, Mechanical",8767011624,<blank>,<blank>,<blank>,2021-10-27 08:21:24
+275,<blank>,Vishakha Uddesh Jagtap,vishakhajagtap1232@gmail.com,Computer,8625984408,<blank>,<blank>,<blank>,2021-10-27 08:23:38
+276,<blank>,Bhagyashri Sonawane,sonawanebhagyashri1530@gmail.com,Computer,7248935278,<blank>,<blank>,<blank>,2021-10-27 08:26:05
+277,<blank>,Aryan Varma,aryanovarma123@gmail.com,Computer,9766854853,<blank>,<blank>,<blank>,2021-10-27 08:27:22
+278,<blank>,Shinde Gitanjali Rajkumar,gitashinde2112@gmail.com,Computer,8767792123,<blank>,<blank>,<blank>,2021-10-27 08:29:34
+279,<blank>,Nilesh,mankapenilesh@gamil.com,ENTC,8857848056,<blank>,<blank>,<blank>,2021-10-27 08:30:22
+280,<blank>,Shinde Gitanjali Rajkumar,gitashinde2112@gmail.com,Computer,8767792123,<blank>,<blank>,<blank>,2021-10-27 08:30:48
+281,<blank>,Mayank Pravin Gawale,mayankgawale@gmail.com,Computer,9284142277,<blank>,<blank>,<blank>,2021-10-27 08:33:32
+282,<blank>,Bodakhe shubham Dattatray,shubhambodakhe02@gmail.com,"Civil, Computer, MBA",7387513370,<blank>,<blank>,<blank>,2021-10-27 08:34:55
+283,<blank>,Bhushan Bhausaheb Narawade,bhushannarawade2003@gmail.com,Computer,7218700483,<blank>,<blank>,<blank>,2021-10-27 08:36:15
+284,<blank>,Patik Pardeshi,pratikpardeshi297@gmail.com,Civil,8329475672,<blank>,<blank>,<blank>,2021-10-27 08:37:41
+285,<blank>,Varpe nikhil sunil,varpenikhil07@gmail.com,Computer,8329111686,<blank>,<blank>,<blank>,2021-10-27 08:37:45
+286,<blank>,Bansiddha Nagnath Doge,naganathdoge0464@gmail.com,Computer,9881429533,<blank>,<blank>,<blank>,2021-10-27 08:39:05
+287,<blank>,Nishigandha Rajesh Kumthekar,nishigandhakumthekar9915@gmail.com,Computer,9420306714,<blank>,<blank>,<blank>,2021-10-27 08:39:32
+288,<blank>,SRUSHTI ROHIDAS GAWANDE,srushtigawande0905@gmail.com,Computer,9604556438,<blank>,<blank>,<blank>,2021-10-27 08:41:23
+289,<blank>,SRUSHTI ROHIDAS GAWANDE,srushtigawande0905@gmail.com,Computer,9604556438,<blank>,<blank>,<blank>,2021-10-27 08:42:13
+290,<blank>,Samarth Upare,samarthupare2003@gmail.com,Mechanical,8262865496,<blank>,<blank>,<blank>,2021-10-27 08:42:39
+291,<blank>,Onkar Diwate,onkardiwate1234@gmail.com,Computer,8888156037,<blank>,<blank>,<blank>,2021-10-27 08:44:15
+292,<blank>,Swarup Ashok Patil,swaruppatil8808@gmail.com,ENTC,9922958808,<blank>,<blank>,<blank>,2021-10-27 08:52:13
+293,<blank>,Swarup Ashok Patil,swaruppatil8808@gmail.com,ENTC,9922958808,<blank>,<blank>,<blank>,2021-10-27 08:52:49
+294,<blank>,Omkar Patil,omkarpatil5574zz@gmail.com,Computer,9657002525,<blank>,<blank>,<blank>,2021-10-27 08:53:45
+295,<blank>,SAHIL RAJU GUNJAL,sahilgunjal12345@gmail.com,Computer,8080979279,<blank>,<blank>,<blank>,2021-10-27 09:07:16
+296,<blank>,ganesh dagadu irale,ganeshirale001@gmail.com,"Civil, Computer, Mechanical, FE",8600939838,<blank>,<blank>,<blank>,2021-10-27 09:22:26
+297,<blank>,Sakshi bhujbal,bhujbalsakahi438@gmail.com,Computer,9112283994,<blank>,<blank>,<blank>,2021-10-27 09:30:47
+298,<blank>,Pritesh ishwar sonar,priteshs2003@gmail.com,Mechanical,7756859021,<blank>,<blank>,<blank>,2021-10-27 09:32:14
+299,<blank>,Gajanan Ugamsing Bimrot,gajananbimrot098@gmail.com,Civil,9370922140,<blank>,<blank>,<blank>,2021-10-27 09:36:43
+300,<blank>,Kalpesh Vilas Navale,kalpeshnavale2061@gmail.com,"Civil, Computer, ENTC, Mechanical, FE",9322436478,<blank>,<blank>,<blank>,2021-10-27 09:43:36
+301,<blank>,ADITYA BHOYAR,adityabhoyar65@gmail.com,"Computer, ENTC, FE",7843042524,<blank>,<blank>,<blank>,2021-10-27 09:46:24
+302,<blank>,PAWAR VEDANT RAJENDRA,pawarvedantvp390@gmail.com,Computer,9325965907,<blank>,<blank>,<blank>,2021-10-27 10:03:19
+303,<blank>,PAWAR VEDANT RAJENDRA,pawarvedantvp390@gmail.com,Computer,9325965907,<blank>,<blank>,<blank>,2021-10-27 10:04:26
+304,<blank>,Anuja Shahaji Rode,rodeanuja2004@gmail.com,Computer,8459063644,<blank>,<blank>,<blank>,2021-10-27 10:11:30
+305,<blank>,Bagal Dhanashree Yashwant,dhanashree14903@gmail.com,Computer,9823866337,<blank>,<blank>,<blank>,2021-10-27 10:18:55
+306,<blank>,satyam jadhav,satyamjadhav1704@gmail.com,Computer,9766258885,<blank>,<blank>,<blank>,2021-10-27 10:30:40
+307,<blank>,Suraj Ashok Pankhade,surajpankhad63@gmail.com,Civil,7666489119,<blank>,<blank>,<blank>,2021-10-27 11:05:09
+308,<blank>,Niranjan kishor pathak,pathakniranjan506@gmail.com,Computer,9775806284,<blank>,<blank>,<blank>,2021-10-27 11:15:32
+309,<blank>,Niranjan kishor pathak,pathakniranjan506@gmail.com,Computer,9775806284,<blank>,<blank>,<blank>,2021-10-27 11:22:14
+310,<blank>,Sanket Sakhare,sakharesanket6@gmail.com,Computer,9923580625,<blank>,<blank>,<blank>,2021-10-27 11:41:02
+311,<blank>,Patil Roshni Dnyaneshwar,patilroshani930@gmail.com,Computer,8459378780,<blank>,<blank>,<blank>,2021-10-27 12:18:30
+312,<blank>,AMOL SUNDAR WADGAOKAR,amolwadgaokar7030@gmail.com,Computer,7030004629,<blank>,<blank>,<blank>,2021-10-27 12:34:34
+313,<blank>,Priyanka Pradeep Kamble,priyankakamble19042001@gmail.com,Computer,9579402340,<blank>,<blank>,<blank>,2021-10-27 13:46:48
+314,<blank>,Priyanka Pradeep Kamble,priyankakamble19042001@gmail.com,Computer,9579402340,<blank>,<blank>,<blank>,2021-10-27 13:47:41
+315,<blank>,Priyanka Pradeep Kamble,priyankakamble19042001@gmail.com,Computer,9579402340,<blank>,<blank>,<blank>,2021-10-27 13:51:50
+316,<blank>,Priyanka Pradeep Kamble,priyankakamble19042001@gmail.com,Computer,9579402340,<blank>,<blank>,<blank>,2021-10-27 13:52:01
+317,<blank>,Sangramsinh sandip kalaskar,sangramkalaskar2212@gmail.com,Civil,9373838351,<blank>,<blank>,<blank>,2021-10-27 13:55:19
+318,<blank>,Mohit Bafna,bafnamohit4@gmail.com,"Computer, Mechanical",8432843274,<blank>,<blank>,<blank>,2021-10-27 14:08:26
+319,Solapur,Shridhar narashinh balla,shridharballa3@gmail.com,Computer,8149527435,70,74,74,2021-10-27 14:17:57
+320,KOLHAPUR,Jay Nale,art.jaynale@gmail.com,"Computer, Mechanical",8087213132,84,95,94.5,2021-10-27 14:31:57
+321,<blank>,Krushna Dande,krdande2@gmail.com,Computer,7387308445,<blank>,<blank>,<blank>,2021-10-27 14:33:09
+322,<blank>,Uday Ganesh dane,udaydane@gmail.com,MBA,9823021763,<blank>,<blank>,<blank>,2021-10-27 14:43:08
+323,Pune,Abhijit Indulkar,abhijitindulkar08@gmail.com,Computer,9730617733,79,239,508,2021-10-27 14:45:13
+324,Nashik,Chinmay Sunil Ahire,chinmayahire3@gmail.com,Computer,8856918608,66,271,547,2021-10-27 14:59:40
+325,<blank>,Atharv nitin zore,atharavzore2044@gmail.com,Computer,7410582044,<blank>,<blank>,<blank>,2021-10-27 15:14:29
+326,<blank>,Athrav nitin Zore,atharavzore2044@gmail.com,Computer,7410582044,<blank>,<blank>,<blank>,2021-10-27 15:15:05
+327,<blank>,Rutuja lahare,rutujalahare4@gmail.com,Computer,7499268916,<blank>,<blank>,<blank>,2021-10-27 15:59:55
+328,<blank>,Rutuja lahare,rutujalahare4@gmail.com,Computer,7499268916,<blank>,<blank>,<blank>,2021-10-27 15:59:58
+329,<blank>,Rutuja lahare,rutujalahare4@gmail.com,Computer,7499268916,<blank>,<blank>,<blank>,2021-10-27 16:00:01
+330,Pune,Atharv Nanekar,atharvnanekar30@gmail.com,Computer,9307616511,59,200,45,2021-10-27 16:21:05
+331,<blank>,Onkar Diwate,onkardiwate1234@gmail.com,"Computer, ENTC",8888156037,<blank>,<blank>,<blank>,2021-10-27 16:24:29
+332,<blank>,Dipak kyadrkunte,dipakkyadrkunte39@gmail.com,Computer,9579536480,<blank>,<blank>,<blank>,2021-10-27 16:29:50
+333,<blank>,Pol subodh narayan,polsubodh27@gmail.com,"Computer, ENTC",7841982304,<blank>,<blank>,<blank>,2021-10-27 16:52:22
+334,<blank>,Pol subodh narayan,polsubodh27@gmail.com,"Computer, ENTC",7841982304,<blank>,<blank>,<blank>,2021-10-27 16:55:54
+335,<blank>,Pol subodh narayan,polsubodh27@gmail.com,"Computer, ENTC",7841982304,<blank>,<blank>,<blank>,2021-10-27 16:57:42
+336,<blank>,Garade aparna sandip,aparnasandipgarade@gmail.com,Computer,8421849885,<blank>,<blank>,<blank>,2021-10-27 17:27:35
+337,<blank>,Tushar bobade,10tusharbobade@gmail.com,Mechanical,9028023685,<blank>,<blank>,<blank>,2021-10-27 18:30:43
+338,<blank>,Manasi Madane,manasimadane05@gmail.com,FE,7875604161,<blank>,<blank>,<blank>,2021-10-27 19:04:26
+339,<blank>,Manasi Madane,manasimadane05@gmail.com,FE,7875604161,<blank>,<blank>,<blank>,2021-10-27 19:05:20
+340,<blank>,Amey Dinesh Joshi,dinesh260372@gmail.com,Computer,8007772137,<blank>,<blank>,<blank>,2021-10-27 19:34:06
+341,<blank>,Ruturaj limkar,limkarruturaj111@gmail.com,Civil,9022896551,<blank>,<blank>,<blank>,2021-10-27 19:40:45
+342,<blank>,Ram Balaji Surywanashi,ramsurywanashi4@gmail.com,Computer,9322471022,<blank>,<blank>,<blank>,2021-10-27 23:43:01
+343,<blank>,Lokesh Pramod Khachane,lokeshkhachane415@gmail.com,Computer,8208823127,<blank>,<blank>,<blank>,2021-10-28 00:22:38
+344,<blank>,Shobha Metkari,shobhametkari6@gmail.com,"Civil, Computer",9665435773,<blank>,<blank>,<blank>,2021-10-28 02:29:27
+345,<blank>,Shobha Metkari,shobhametkari6@gmail.com,"Civil, Computer",9665435773,<blank>,<blank>,<blank>,2021-10-28 02:30:44
+346,<blank>,Shobha Metkari,shobhametkari6@gmail.com,"Civil, Computer",9665435773,<blank>,<blank>,<blank>,2021-10-28 02:32:12
+347,<blank>,Rushikesh pratap Phawade,phawaderushikesh643@gmail.com,Computer,9049825043,<blank>,<blank>,<blank>,2021-10-28 02:59:20
+348,<blank>,Vishal Ravindra Arle,vishalarle0123@gmail.com,Computer,7720985616,<blank>,<blank>,<blank>,2021-10-28 03:16:21
+349,<blank>,Vishal Ravindra Arle,vishalarle0123@gmail.com,"Civil, Mechanical",7720985616,<blank>,<blank>,<blank>,2021-10-28 03:17:02
+350,<blank>,Shubham patil,shubhampatil88066@gmail.com,ENTC,9665526662,<blank>,<blank>,<blank>,2021-10-28 03:26:43
+351,<blank>,Shubham Patil,patilshubhampramod8@gmail.com,Computer,9022117310,<blank>,<blank>,<blank>,2021-10-28 03:27:49
+352,<blank>,sanjana sunendra jadhav,suvarnachavan068@gmail.com,Computer,7506923938,<blank>,<blank>,<blank>,2021-10-28 03:30:25
+353,<blank>,Omkar Kachare,omkarkachare355@gmail.com,Computer,7822071252,<blank>,<blank>,<blank>,2021-10-28 03:45:13
+354,Pune,Atharv Nanekar,atharvnanekar30@gmail.com,Computer,9307616511,59,59,45,2021-10-28 04:05:05
+355,<blank>,Aryan mevada,aryanmevada04@gmail.com,Computer,7588891180,<blank>,<blank>,<blank>,2021-10-28 04:08:15
+356,<blank>,Shrikant Dadasaheb Khedkar,shrikantkhedkar02032002@gmail.com,Computer,9657986498,<blank>,<blank>,<blank>,2021-10-28 04:23:47
+357,<blank>,Priyanka Pradeep Kamble,priyankakamble19042001@gmail.com,Computer,9579402340,<blank>,<blank>,<blank>,2021-10-28 04:23:55
+358,<blank>,Prathamesh Amrutkar,prathameshamrutkar445@gmail.com,Computer,9172553120,<blank>,<blank>,<blank>,2021-10-28 04:31:50
+359,<blank>,Tanmay Prabhakar Mahajan,prabhakarrmahajan@gmail.com,Computer,9850671047,<blank>,<blank>,<blank>,2021-10-28 04:34:02
+360,<blank>,Vishakha vijay shende,vishushende46@gmail.com,Computer,8767464479,<blank>,<blank>,<blank>,2021-10-28 04:38:00
+361,Pune,Tanmay Prabhakar Mahajan,prabhakarrmahajan@gmail.com,Computer,9850671047,106,245,497,2021-10-28 04:44:18
+362,<blank>,SHAIKH HASIB HASAN,hasibshaikh583@gmail.com,Computer,7820988265,<blank>,<blank>,<blank>,2021-10-28 04:59:07
+363,<blank>,Aparna Santosh Yadav,yadavaparna049@gmail.com,Computer,8446905075,<blank>,<blank>,<blank>,2021-10-28 05:11:15
+364,<blank>,Aparna Santosh Yadav,yadavaparna049@gmail.com,Computer,8446905075,<blank>,<blank>,<blank>,2021-10-28 05:12:21
+365,<blank>,Vishal Takale,vtakale91@gmail.com,Computer,8421313014,<blank>,<blank>,<blank>,2021-10-28 05:23:38
+366,Satara,Aparna Santosh Yadav,yadavaparna049@gmail.com,Computer,8446905075,80,80,80.2308950,2021-10-28 05:28:18
+367,<blank>,Ratnadeep salgar,ratnadeepsalgar79712@gmail.com,"Civil, Computer, ENTC",7620367255,<blank>,<blank>,<blank>,2021-10-28 05:39:46
+368,<blank>,Hindurao Sunil patil,hinduraop836@gmail.com,Computer,7709504988,<blank>,<blank>,<blank>,2021-10-28 05:54:23
+369,<blank>,Purwa Pokharkar,purwapokharkar@gmail.com,"Civil, Computer, ENTC, Mechanical",9408687163,<blank>,<blank>,<blank>,2021-10-28 05:55:37
+370,<blank>,Dhanashree Yashwant Bagal,dhanashree14903@gmail.com,Computer,9823866337,<blank>,<blank>,<blank>,2021-10-28 06:30:07
+371,<blank>,Rutik barde,rutikbarde9495@gmail.com,ENTC,9881951299,<blank>,<blank>,<blank>,2021-10-28 06:35:21
+372,<blank>,Khushi Ashok Tiwari,ashoktiwari1234@gmail.com,Computer,9657628833,<blank>,<blank>,<blank>,2021-10-28 06:38:53
+

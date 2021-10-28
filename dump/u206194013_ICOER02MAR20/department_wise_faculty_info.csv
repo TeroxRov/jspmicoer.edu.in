@@ -1,0 +1,116 @@
+id,mail_id,name,digree,image_url,position,department,designation,qualification,industry_experience,teaching_experience
+1,awdhawale_civil@jspmicoer.edu.in<br/>viceprincipal@jspmicoer.edu.in,Arun Wamanrao Dhawale,Dr.,faculty_images/AWDhavale.jpg,NULL,CIVIL,Professor & Vice Principal,Ph.D,1.5,18.11
+4,nvkhadake_civil@jspmicoer.edu.in,Navnath Vishwanath Khadake,Dr.,faculty_images/NVKhadake.jpg,<blank>,CIVIL,Professor & Head of Department,"Ph.D., M.B.A.",29,8.5
+5,avshirgire_civil@jspmicoer.edu.in,Anil Vasant Shirgire,Dr.,faculty_images/AVShirgire.jpg,<blank>,<blank>,Associate Professor,Ph.D. (Civil Engineering),0,11
+6,anbhirud_civil@jspmicoer.edu.in, Abhijit Narendra Bhirud ,Er.,faculty_images/ANBhirud.jpg,<blank>,CIVIL,Associate Professor ,Ph.D. (Pursuing),0,12
+10,ykpoul_civil@jspmicoer.edu.in,Yogesh Kundlik Poul,Er.,faculty_images/YPoul.jpg,<blank>,CIVIL,Assistant Professor,M.Tech (Geotechnical Engineering) ,0,8
+11,srsuryawanshi_civil@jspmicoer.edu.in,Shrinivas Ranganath Suryawanshi,Er.,faculty_images/SRSuryawanshi.jpg,<blank>,CIVIL,Assistant Professor,Ph.D. (Pursuing),1,8
+14,pgbongale_civil@jspmicoer.edu.in,Poornima Gopal Bongale,Er.,faculty_images/PGBongale.jpg,<blank>,CIVIL,Assistant Professor,M.SC Geology,0,4.6
+15,sslohar_civil@jspmicoer.edu.in,Sham Shivaji Lohar,Er.,faculty_images/SSLohar.jpg,<blank>,CIVIL,Assistant Professor,M.Tech- Water Management,0,6
+16,dnmandlik_civil@jspmicoer.edu.in,Dharmaraj Nagnath Mandlik,Er.,faculty_images/DNMandlik.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,0,3.2
+18,vpbhusare_civil@jspmicoer.edu.in,Vijaykumar Prakash Bhusare,Er.,faculty_images/VBhusare.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,1,5
+20,svk.icoer@gmail.com ,Javeed Sayyad Ahmad Kadagaonkar ,Er.,faculty_images/JSKadagaonkar.jpg,<blank>,CIVIL,Assistant Professor,M.Tech Environmental Engineering,9,8
+21,vcpatil_civil@jspmicoer.edu.in,Vaibhav Chandrakant Patil,Er.,faculty_images/VPatil.jpg,<blank>,CIVIL,Assistant Professor,M Tech Structural Engineering ,0,4.5
+22,pkpasnur_civil@jspmicoer.edu.in,Pallavi Kiran Pasnur,Er.,faculty_images/PPasnur.jpg,<blank>,<blank>,Assistant Professor ,ME Structural Engineering ,5,7
+24,rabinayake_civil@jspmicoer.edu.in,Renuka Anil Binayake,Er.,faculty_images/RBinayake.jpg,<blank>,CIVIL,Assistant Professor,ME Environmental Engineering ,0,8
+25,svkhirade_civil@jspmicoer.edu.in,Sumit Vasant Khirade,Er.,faculty_images/Skhirade.jpg,<blank>,CIVIL,Assistant Professor,ME Environmental Engineering,0,2.5
+26,pblonde_civil@jspmicoer.edu.in,Prashant Balaso Londhe,Er.,faculty_images/PLondhe.jpg,<blank>,CIVIL,Assistant Professor,M.Tech Environmental Engineering,2.5,2
+27,sknalawade_civil@jspmicoer.edu.in,Supriya Kiran Nalawade,Er.,faculty_images/SKNalawade.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,0,7.5
+29,kspatil_civil@jspmicoer.edu.in,Kuldeep Sarjerao Patil,Er.,faculty_images/KSPatil.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,1,4
+33,rbkesarkar_civil@jspmicoer.edu.in,Rahul B. Kesarkar,Er.,faculty_images/RBKesarkar.jpg,<blank>,CIVIL,Assistant Professor,ME Construction & Management,1.5,6.5
+35,anhumnabad_civil@jspmicoer.edu.in,Azharuddin N. Humnabad,Er.,faculty_images/ANHumnabad.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,0,8
+39,srtodmal_comp@jspmicoer.edu.in,Todmal Satish Ramchandra,Dr.,faculty_images/SRTodmal.jpg,02,COMP,Associate Professor,"PhD(CE),ME(CE)",3,20
+40,mgwani_es@jspmicoer.edu.in,Wani Mukund Govind,Dr.,faculty_images/MGWani.jpg,04,COMP,Associate Professor,PhD,1,30
+44,npsable_comp@jspmicoer.edu.in,Sable Nilesh Popat,Dr.,faculty_images/NPSable.jpg,01,COMP,HOD & Associate Professor,"PhD, M.Tech",0,10
+46,stwaghmode_comp@jspmicoer.edu.in,Waghmode Santosh Tanaji,Er.,faculty_images/STWaghmode.jpg,08,COMP,Assistant Professor,"PhD(Pursuing),M. E.",0,11
+47,madhavisd21@gmail.com,Darokar Madhavi Sahebrao,Er.,faculty_images/MSDarokar.jpg,09,COMP,Assistant Professor,M. E.  (CNT),0,14
+51,ssdeshmukh_comp@jspmicoer.edu.in,Deshmukh Sonal Sudhir,Er.,faculty_images/SSDeshmukh.jpg,12,COMP,Assistant Professor,"PhD(Pursing),M. E.",0,3.9
+52,adbharate_comp@jspmicoer.edu.in,Bharate Anuja Digambar,Er.,faculty_images/ADBharate.jpg,13,COMP,Assistant Professor,"M. E. (CS), B.E. (IT)",0,3.8
+54,ppnimbalkar_comp@jspmicoer.edu.in,Nimbalkar Pravin Prakash,Er.,faculty_images/PPNimbalkar.jpg,15,COMP,Assistant Professor,"PhD(Pursing),M. Tech.",0,7
+56,hujoshi_comp@jspmicoer.edu.in,Joshi Himanshu Uttamrao,Er.,faculty_images/HUJoshi.jpg,17,COMP,Assistant Professor,"PhD(Pursing),M. E.",0,5.8
+57,assupe_comp@jspmicoer.edu.in,Supe Aarti,Er.,faculty_images/ASupe.jpg,18,COMP,Assistant Professor,M. E.,0,5.5
+64,prbadadapure_entc@jspmicoer.edu.in,Pravinkumar R. Badadapure,Dr.,faculty_images/PRBadadapure.jpg,03,ENTC,Associate Professor,PhD.,0,26
+65,sllahudkar_entc@jspmicoer.edu.in,Swapnil L. Lahudkar,Dr.,faculty_images/SLLahudkar.jpg,04,ENTC,Professor ,PhD.,0,18.5
+66,psarora_entc@jspmicoer.edu.in,Parul Arora,Dr.,faculty_images/PArora.jpg,05,ENTC,Professor,PhD,0,16.5
+68,skbhatia_entc@jspmicoer.edu.in,Sukhwinder K. Bhatia,Dr.,faculty_images/SKBhatia.jpg,02,ENTC,Associate Professor & HOD,PhD ,0,17
+69,vbraskar_entc@jspmicoer.edu.in, Vishal B. Raskar,Er.,faculty_images/VBRaskar.jpg,07,ENTC,Assistant Professor,PhD (Pur),0,13
+70,asdeshpande_entc@jspmicoer.edu.in,Anuradha S. Deshpande,Dr.,faculty_images/ASDeshpande.jpg,08,ENTC,Assistant Professor,PhD,0,18
+71,pstopannavar_es@jspmicoer.edu.in,Preeti S. Topannavar,Er.,faculty_images/PSTopannvar.jpg,09,ENTC,Assistant Professor,PhD(Pur.),0,15
+72,aatrikolikar_entc@jspmicoer.edu.in,Anand A. Trikolikar,Er.,faculty_images/AATrikolikar.jpg,10,ENTC,Assistant Professor,PhD (Pur),0,10
+73,nslabhade_entc@jspmicoer.edu.in,Neelam S. Labhade,Dr.,faculty_images/NSLabhade.jpg,11,ENTC,Assistant Professor,PhD (Pur),1,10
+74,sbidhate_es@jspmicoer.edu.in,Seema B. Idhate,Er.,faculty_images/SIdhate.jpg,12,ENTC,Assistant Professor,ME (Sig.Pro.),0,12.5
+75,mspatil_entc@jspmicoer.edu.in,Mahesh A.Maindarkar,Dr.,faculty_images/MAMainderkar.jpg,13,ENTC,Assistant Professor,PhD (Pur),0,8
+81,hndhanwate_entc@jspmicoer.edu.in,Hrishikesh N.Dhanawate,Er.,faculty_images/HNDhanwate.jpg,17,Electrronics&Telecommunication,Assistant Professor,PhD (Pur),1,5
+83,dnnaiknaware_entc@jspmicoer.edu.in, Dhanashri N.Naiknaware,Er.,faculty_images/DNNaiknaware.jpg,19,ENTC,Assistant Professor,ME(E&TC),1,6.5
+84,samane_entc@jspmicoer.edu.in,Sonali Mane,Er.,faculty_images/SMane.jpg,20,ENTC,Assistant Professor,ME(E&TC),0,9
+85,dajadhav_entc@jspmicoer.edu.in,Jadahav D.A.,Dr.,faculty_images/ADJadhav.jpg,21,ENTC,Assistant Professor,PhD (Pur),1,9
+86,mspatil_entc@jspmicoer.edu.in,Mahesh S. Patil,Er.,faculty_images/MPatil.jpg,22,Electronics & Telecommunication,Assistant Professor,PhD (Pur),0,9
+89,skwakchaure_es@jspmicoer.edu.in,WAKCHAURE SHANKAR KASHINATH,Prof. ,faculty_images/SKWakchaure.jpg,01,GEN,HOD & ASSOCIATE PROFESSOR,M.Sc. (Physics),NIL,24 Years
+90,vrkulkarni_es@jspmicoer.edu.in,KULKARNI VINODKUMAR RAJARAMPANTH,Dr.,faculty_images/VRKulkarni.jpg,03,GEN,ASSOCIATE PROFESSOR,"M.Sc.,M.Phil.,Ph.D,B.Ed.",6 Months,14 Years
+93,sssantoshkumar_es@jspmicoer.edu.in,SHEVKAR SANTOSHKUMAR SAHEBRAO,Er.,faculty_images/SSShevkar.jpg,06,GEN,ASSISTANT PROFESSOR,M.E. Power system(Pursuing),NIL,10 Years
+94,pvdhole_es@jspmicoer.edu.in,PRAJAKTA VIKAS DHOLE,Er.,faculty_images/PVDhole.jpg,07,GEN,ASSISTANT PROFESSOR,"M-Tech Electrical Power System, PhD(Pur.)",NIL,12 years
+96,dblende_es@jspmicoer.edu.in,LENDE DATTU BABASAHEB,Mr,faculty_images/DBLende.jpg,09,GEN,ASSISTANT PROFESSOR,M.Sc Chemistry NET,NIL,6 Years
+98,archanashendkar587@gmail.com,SHENDKAR ARCHANA MANOJ ,Ms.,faculty_images/AMShendkar.jpg,11,GEN,ASSISTANT PROFESSOR,M.Sc(Mathematics),NIL,8 Years
+99,pratibhajadhav1@gmail.com,JADHAV PRATIBHA VIJAY,Dr. ,faculty_images/PVJadhav.jpg,12,GEN,ASSISTANT PROFESSOR,"M.Sc.,MBA, PhD(Pur.)",NIL,12 years
+100,vrpatil_es@jspmicoer.edu.in,PATIL VAISHALI RAMCHANDRA,Mrs.,faculty_images/VRPatil.jpg,13,GEN,ASSISTANT PROFESSOR,M.Sc. B.Ed.(Mathematics),NIL,11 years
+101,msjadhav_es@jspmicoer.edu.in,MADHAVI SACHIN JADHAV,Ms.,faculty_images/MSJadhav.jpg,14,GEN,ASSISTANT PROFESSOR,MSc.MPhil,NIL,8.5Years
+102,kvitthal99@gmail.com,KSHIRSAGAR VITTHAL AJINATH,Mr.,faculty_images/VAKshirsagar.jpg,15,GEN,ASSISTANT PROFESSOR,"M.Sc., B.Ed.(Mathematics)",NIL,6 Years
+104,abhang.rahul@gmail.com ,ABHANG RAHUL JAYAWANT,Mr.,faculty_images/RJAbhang.jpg,17,GEN,ASSISTANT PROFESSOR,M.Sc. (Maths),NIL,6 Years
+105,nil,JAGTAP SANJAY GUNDERAO,Mr.,faculty_images/SGJagtap.jpg,18,GEN,ASSISTANT PROFESSOR,M.Sc. (Maths),NIL,6 Years
+107,pstopannavar_es@jspmicoer.edu.in,PREETI TOPANNAVAR,Er.,faculty_images/PSTopannvar.jpg,20,GEN,ASSISTANT PROFESSOR,ME ELECTRONICS,3,13 Years
+108,sbidhate_es@jspmicoer.edu.in,SEEMA IDHATE,Er.,faculty_images/SIdhate.jpg,21,GEN,ASSISTANT PROFESSOR,ME SIGNAL PROCESSING ,NIL,11 Years
+110,yrsuryawanshi_es@jspmicoer.edu.in,SURYAWANSHI YOGESH RAVINDRA,Er.,faculty_images/YRSuryawanshi.jpg,23,GEN,ASSISTANT PROFESSOR,"M.E. Structure, PhD(Pur.)",3,10 Years
+111,jskadagaonkar@gmail.com,KADAGAONKAR J S,Er.,faculty_images/JSKadagaonkar.jpg,24,GEN,ASSISTANT PROFESSOR,M TECH (ENV. SCI & TECHNOLOGY),9 Years,7 Years
+112,supriyacr99@gmail.com,SUPRIYA K. NALAWADE,Er.,faculty_images/SKNalawade.jpg,25,GEN,ASSISTANT PROFESSOR,MTECH ,NIL,7   Years
+113,dnm.icoer@gmail.com,MANDLIK DHARMRAJ NAGNATH,Er.,faculty_images/DNMandlik.jpg,26,GEN,ASSISTANT PROFESSOR,ME (STRUCTURAL ENGG.),NIL,2.5 Years
+118,dhanore.icoer@gmail.com,DHANORE RAHUL TIKARAM,Er.,faculty_images/RTDhanore.jpg,31,GEN,ASSISTANT PROFESSOR,M-Tech (Heat Power Engg.),3.5 Years,05 Years
+119,pmchor_es@jspmicoer.edu.in,PRAFULLA CHOR,Er.,faculty_images/PMChor.jpg,32,GEN,ASSISTANT PROFESSOR,ME  (Design),NIL,7.5 Years
+121,vgkulkarni_es@jspmicoer.edu.in,VARSHA G.KULKARNI,Er.,faculty_images/VGKulkarni.jpg,34,GEN,TEACHING ASSISTANT,ME(Computer),3 Years,1 Years
+122,shsarje_mech@jspmicoer.edu.in,Sarje Suhas Hamantrao,Dr.,faculty_images/SHSarje.jpg,02,MECH,Professor,Ph. D.Mechanical Engineering,5,20
+123,spjoshi_mech@jspmicoer.edu.in,Joshi Sarang Prakashrao,Dr.,faculty_images/SPJoshi.jpg,03,MECH,Associate Professor,Ph. D. Operation Research,3,14
+124,shendemd@gmail.com,Mangesh Dadarao Shende,Dr.,faculty_images/MDShende.jpg,04,MECH,Associate Professor,Ph.D Mechanical Engineering,3.5,13.9
+126,nsbiradar123@gmail.com,Biradar Nagraj Sangappa,Er.,faculty_images/NSBiradar.jpg,01,MECH,Associate Professor & HOD,"ME Design, Ph.D(Pur.)",0,21
+127,satamboli_mech@jspmicoer.edu.in,Tamboli  Sameer Alam,Er.,faculty_images/SATamboli.jpg,07,MECH,Assistant  Professor,M.E. Heat power,4,13
+131,sdwavale_mech@jspmicoer.edu.in,Wavale Sunil Dharmaraj,Er.,faculty_images/SDWavale.jpg,11,MECH,Assistant  Professor,M. Tech. CAD/CAM,0,11
+132,pmkadam_mech@jspmicoer.edu.in,Kadam Prakash Maruti,Er.,faculty_images/PMKadam.jpg,12,MECH,Assistant  Professor,M.E. Heat power,1.5,10
+133,rbgunale_mech@jspmicoer.edu.in,Gunale Rahul Bhaskarrao,Er.,faculty_images/RBGunale.jpg,13,MECH,Assistant  Professor,M. Tech. PLM,1,9
+136,spatil_mech@jspmicoer.edu.in,Siddappa Patil,Er.,faculty_images/SPatil.jpg,16,MECH,Assistant  Professor,M. Tech. power plant,0,8
+137,ldjathar_mech@jspmicoer.edu.in,Jathar Laxmikant Dattatray,Er.,faculty_images/LDJathar.jpg,17,MECH,Assistant  Professor,M.E. Heat power,0,7
+138,vpnavadagi_mech@jspmicoer.edu.in,Vivekanand Navadagi,Er.,faculty_images/VNavadagi.jpg,18,mechanical,Assistant  Professor,M. Tech. Thermal,0,6
+139,ajay.g.wychal@gmail.com,Ajay Waychal,Er.,faculty_images/AWaychal.jpg,19,MECH,Assistant  Professor,M.E. Heat power,0,10
+140,rsgorde_mech@jspmicoer.edu.in,Gorde Rajesh Shankarrao,Er.,faculty_images/RSGorde.jpg,20,MECH,Assistant  Professor,M-Tech (Thermal and Fluids Engineering),4.3,14
+142,makhot_mech@jspmicoer.edu.in,Khot Mahesh Ashok,Er.,faculty_images/MAKhot.jpg,22,MECH,Assistant  Professor,M.E. Design,0,5.5
+143,nikhilkadlak999@gmail.com,Kadlak Nikhil Arun,Er.,faculty_images/NAKadlak.jpg,23,MECH,Assistant  Professor,M. Tech. CAD/CAM,2,4.5
+144,pglohote_mech@jspmicoer.edu.in,Lohote Pravin Ganpat,Er.,faculty_images/PGLohote.jpg,24,MECH,Assistant  Professor,M.E. Heat power,0,4.3
+148,pakatre_mech@jspmicoer.edu.in,Katre Pankaj Ambadas,Er.,faculty_images/PAKatre.jpg,25,MECH,Assistant  Professor,M.E. Design,1,5.2
+149,aawankhede_mech@jspmicoer.edu.in,Wankhede Ashish Ambadas,Er.,faculty_images/AAWankhede.jpg,26,MECH,Assistant  Professor,M.E. Heat power,1,5.1
+150,srjoshi_mech@jspmicoer.edu.in,Joshi Sagar Rajkumar,Er.,faculty_images/SRJoshi.jpg,27,MECH,Assistant  Professor,M. Tech. Design,0,3.2
+152,skmandore_mech@jspmicoer.edu.in, Mandore Shailendra Kachrulal,Er.,faculty_images/SKMandore.jpg,29,MECH,Assistant  Professor,M.E. Heat power,2,5.1
+155,kare.rohan8@gmail.com,Kare Rohan Nandkumar,Er.,faculty_images/RNKare.jpg,31,MECH,Assistant  Professor,M.E. Design,0.5,7
+159,gdgosavi_mech@jspmicoer.edu.in,Gosavi Ganeshgir Dashrathgir,Er.,faculty_images/GDGosavi.jpg,34,MECH,Assistant  Professor,M. Tech. Heat power,0,10
+162,"pmchor_es@jspmicoer,edu.in",Chor Prafulla Mohan,Er.,faculty_images/PMChor.jpg,36,MECH,Assistant  Professor,M.E. Design,0,7
+164,drhase_mech@jspmicoer.edu.in,Hase Dinesh Ramnath,Er.,faculty_images/DRHase.jpg,38,MECH,Assistant  Professor,M. Tech. Thermal,1.5,1.5
+167,rpsuryawanshi_mech@jspmicoer.edu.in,Suryavanshi Rahul Popat,Er.,faculty_images/RPSuryavanshi.jpg,41,MECH,Assistant  Professor,M.E. Design,2,8
+170,pkkumkule_mech@jspmicoer.edu.in,Kumkale Prashant Kundlik,Er.,faculty_images/PKKumkale.jpg,43,MECH,Assistant  Professor,M.E. Heat power,0,6.5
+172,sbpatil_mech@jspmicoer.edu.in,Patil Subodh Baliram,Er.,faculty_images/SBPatil.jpg,45,MECHanical,Assistant  Professor,M. Tech. Industrial Engg.,3,5
+178,rtdhanore_mech@jspmicoer.edu.in,Dhanore Rahul Tikaram,Er.,faculty_images/RTDhanore.jpg,51,MECH,Assistant  Professor,M. Tech. Heat power,3,5.5
+180,nppatil_mech@jspmicoer.edu.in,Patil Nilesh Pandurang ,Er.,faculty_images/NPPatil.jpg,53,MECH,Assistant  Professor,M.E. Production,0.6,5.5
+183,vbchavan_mech@jspmicoer.edu.in,Chavan Vaman ,Er.,faculty_images/VBChavan.jpg,56,MECH,Assistant  Professor,M.E. Design,0,7
+187,NIL,Ravi Shankar Joshi,Prof. Dr.,faculty_images/RSJoshi.jpg,01,MBA,Professor,"PhD,ME,BE(CE)",NIL,31
+190,pradeepavel87@gmail.com,S. V. Pradeepa,Ms.,faculty_images/PradeepaSV.jpg,04,MBA,Assistant Professor,"MBA-Finance & IT, B.Tech - IT",NIL,3
+196,swamishalini@gmail.com,Shalini Swamy,Dr.,faculty_images/SSwamy.jpg,05,MBA,Assistant Professor,"PhD(HR), MBA(HR),B.E (Electronics),UGC NET",NIL,10
+203,Prof.  Ujwal Gawai,<blank>,<blank>,<blank>,<blank>,TP,Mechanical Department Co-Ordinator,<blank>,usgawai_mech@jspmicoer.edu.in,<blank>
+204,Prof. Himanshu Joshi,<blank>,<blank>,<blank>,<blank>,TP,Computer Department Co-Ordinator,<blank>,hujoshi_comp@jspmicoer.edu.in,<blank>
+205,Prof. Kuldip Patil,<blank>,<blank>,<blank>,<blank>,TP,Civil Department TnP Co-Ordinator,<blank>,kspatil_civil@jspmicoer.edu.in,<blank>
+206,subramanyamraikar@gmail.com,Subramanyam  M Raikar,Er.,faculty_images/SMRaikar.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,2,1
+207,snehl.mohite@gmail.com,Snehal Jalindar Mohite,Er.,faculty_images/SJMohite.jpg,<blank>,CIVIL,Assistant Professor,M. Tech Remote Sensing,1.3,2
+208,prajakta.icoer@gmail.com,Prajakta Shivaji Mote,Er.,faculty_images/PSMote.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,0,1.5
+209,vinayak.g0541@gmail.com,Vinayak Ramdas Payghan,Er.,faculty_images/VRPayghan.jpg,<blank>,CIVIL,Assistant Professor,ME Structural Engineering ,3,7.9
+210, sachinlb@yahoo.co.uk, Sachin Lotan Borse,Dr.,faculty_images/SLBorse.jpg,05,MECH,Professor,     Ph. D. Mechanical Engineering,5,11
+211,jalindar1@gmail.com,Jalinder A. Kute,Er. ,faculty_images/JAKute.jpg,59,MECH,Assistant Professor,"    ME Mech, Ph.D.Pursuing",02 Yrs,11 Yrs
+213,sprabha78@gmail.com,Prabha Singh,Dr.,faculty_images/PSingh.jpg,02,MBA,Head of Department & Professor,"PhD,MBA,B.Com",1.5 Years,13 Years
+214,R. S. Deshpande,PhD,Dr.,faculty_images/RSDeshpande.jpg,01,ENTC,Professor & Principal,20 Years,rsdeshpande_entc@jspmicoer.edu.in,<blank>
+215,mithunkumar034@gmail.com,Mithun Kumar,Mr.,faculty_images/MKumar.jpg,NULL,CIVIL,Assistant Professor,M.Tech (SE),1,7.5
+219,bhandarisubham123@gmail.com,SHUBHAM RAJENDRA BHANDARI,Prof. ,faculty_images/SRBhandari.jpg,20,COMP,Assistant Professor,M.E. (Computer Engineering),NIL,NIL
+220,ashishgaigol@gmail.com,ASHISH PRAKASH GAIGOL,Prof. ,faculty_images/APGaigol.jpg,21,COMP,Assistant Professor,M.E. (Computer Engineering),NIL,NIL
+
